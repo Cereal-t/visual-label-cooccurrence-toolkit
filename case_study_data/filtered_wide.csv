@@ -1,0 +1,376 @@
+image_id,label,score
+10015-simplified,superhero; cg artwork; fiction; animated cartoon; supernatural creature,0.953624; 0.84464186; 0.8383317; 0.74481845; 0.65604043
+10016-simplified,personal computer; display device; software engineering,0.86766744; 0.817954; 0.7801774
+10024-simplified,cloud; sunrise; terrain; sunset; sunlight; castle,0.9296566; 0.9139185; 0.8806728; 0.8669624; 0.86519885; 0.8197862
+1012-simplified,lighting; lantern; column; still life photography; evening; night; light fixture; shadow,0.92508006; 0.8139723; 0.77806914; 0.7091444; 0.6148883; 0.5955278; 0.55097556; 0.51908374
+10141-simplified,reptile; snout; tooth; liquid,0.9634191; 0.92924255; 0.9259692; 0.9211627
+10156-simplified,tree house; jungle; animation,0.89011157; 0.6639453; 0.5678597
+10196-simplified,unidentified flying object; child,0.7574801; 0.58672386
+10208-simplified,orange; heat; fire; flame; gothic architecture; dawn,0.9085725; 0.62213707; 0.60466474; 0.5550742; 0.5391533; 0.5298271
+10215-simplified,fictional character; technology; mecha; action figure; armour; animation; fiction,0.9031087; 0.87993723; 0.7818836; 0.7668937; 0.7479172; 0.6819738; 0.6123871
+10229-simplified,cg artwork; fictional character; cloak; fiction,0.8420598; 0.81878185; 0.7277045; 0.5634582
+1028-simplified,still life photography,0.5598538
+10314-simplified,science,0.507576
+10339-simplified,ocean; watercraft; aircraft; naval architecture,0.80472577; 0.7713768; 0.7080189; 0.6183721
+1040-simplified,dog; snout; working animal; fur,0.9955314; 0.9048764; 0.82803404; 0.60650826
+10402-simplified,orange; mushroom; evening,0.91744953; 0.87155855; 0.67015344
+10409-simplified,reptile; terrestrial animal,0.9367995; 0.84695244
+10435-simplified,photograph; standing; darkness; midnight; lens flare; backlighting; shadow,0.98799163; 0.9440835; 0.91908646; 0.7889383; 0.7599413; 0.68202883; 0.51426464
+10464-simplified,arch; composite material; symmetry; daylighting; shadow; arcade,0.89831305; 0.87720066; 0.74020344; 0.71056294; 0.6498382; 0.6066379
+1055-simplified,interior design; furniture; flooring; floor; ceiling; lighting; architecture; room,0.9801519; 0.97426724; 0.9721561; 0.96657455; 0.95608443; 0.9484837; 0.93655425; 0.8896012
+10554-simplified,black hair; cg artwork; eyelash; fictional character; costume; digital compositing; film; earring,0.9119393; 0.8919073; 0.8762253; 0.65720296; 0.6536145; 0.6163701; 0.598645; 0.52971536
+10624-simplified,night; darkness; graphics; graphic design; lens flare,0.8500732; 0.83455455; 0.7145071; 0.6011399; 0.5115696
+10643-simplified,red; cg artwork; costume; cosplay; fiction; demon; goth subculture,0.9733319; 0.8047207; 0.76319396; 0.761635; 0.60273683; 0.5578187; 0.5564082
+10688-simplified,dog; cg artwork; armour; cloak; animated cartoon; hero; fiction,0.8145932; 0.8011402; 0.73698586; 0.6697001; 0.62459445; 0.61130226; 0.5854627
+10697-simplified,fictional character; animated cartoon; pc game; graphics,0.8130628; 0.70239973; 0.7017781; 0.58897805
+10716-simplified,mountainous landforms; rock; sunrise; orange; sunset; reflection; sun,0.9715891; 0.96414745; 0.945696; 0.93879277; 0.9369464; 0.90957534; 0.9050898
+1076-simplified,lips; facial expression; eyelash; masque; portrait photography; eye shadow,0.9847882; 0.9446822; 0.9020024; 0.68013984; 0.61676496; 0.52265936
+10766-simplified,ingredient; recipe; fast food; finger food; cooking; culinary arts; condiment; comfort food,0.9519876; 0.8560066; 0.8368808; 0.7968456; 0.7478419; 0.73128855; 0.6998827; 0.695572
+10785-simplified,book; still life photography,0.7867044; 0.6295401
+1080-simplified,science,0.5485557
+1081-simplified,string instrument; folk instrument,0.97653127; 0.89433277
+10834-simplified,electricity; metropolis; neon sign; midnight,0.86472726; 0.81328636; 0.7754047; 0.74139637
+10881-simplified,dinosaur; statue; extinction; monument; animation; fictional character; cryptid,0.96878594; 0.81669736; 0.8034915; 0.7113904; 0.6365078; 0.58035004; 0.507584
+10926-simplified,umbrella; costume; photo shoot; model; portrait photography; red hair,0.8684943; 0.69867104; 0.69310766; 0.66220057; 0.5717136; 0.5651682
+10982-simplified,goggles; beard; sunglasses; hero; animation,0.84919304; 0.7094009; 0.69573146; 0.56778836; 0.5176854
+10984-simplified,cat; whiskers; snout; fur; paw,0.995749; 0.9568785; 0.91430825; 0.89626384; 0.82291967
+11024-simplified,branch; petal; pink; blossom; spring; spire,0.96795255; 0.9560328; 0.9435323; 0.89454573; 0.847534; 0.6375938
+11037-simplified,nature; hill; mountain range; cloud,0.9771277; 0.9516708; 0.9320886; 0.92792386
+11303-simplified,photograph; dress; happiness; event,0.9881029; 0.97791535; 0.9405698; 0.9261854
+11305-simplified,pumpkin; still life photography; lantern,0.6853843; 0.5906622; 0.5813394
+11344-simplified,facial expression; eyelash; fictional character; animated cartoon; cg artwork; portrait; fiction; film,0.9448967; 0.8770741; 0.8153486; 0.7938989; 0.76867175; 0.5760802; 0.5689603; 0.5581449
+11432-simplified,pollinator; butterfly; wing,0.97832245; 0.97338057; 0.9457783
+1155-simplified,personal protective equipment; helmet; fictional character; fiction; cg artwork; suit actor,0.9382637; 0.9304064; 0.7956429; 0.62254727; 0.60407394; 0.5540087
+11553-simplified,primate; toy,0.97326505; 0.5066775
+1160-simplified,green; grassland; dress; field; people in nature,0.98183733; 0.94863415; 0.9289493; 0.921024; 0.8719159
+11614-simplified,arch; palace; column; mansion; floral design,0.89780414; 0.8419558; 0.7274383; 0.7173854; 0.5926962
+11752-simplified,animation; cityscape,0.7193238; 0.5247009
+11817-simplified,walking; reflection,0.66594553; 0.6268095
+11906-simplified,natural material; still life photography; erosion,0.70959514; 0.6258488; 0.53829724
+11947-simplified,map; orange; display device; electronics; multimedia; screenshot; software; gadget,0.9698631; 0.9142279; 0.82276326; 0.71093434; 0.6866236; 0.68036187; 0.5960509; 0.57995075
+1195-simplified,dog; animation; tail,0.8795915; 0.7521178; 0.6176212
+11996-simplified,lips; skin; red; hairstyle; eyelash; beauty; red hair; facial expression; portrait photography,0.98479617; 0.9803001; 0.9728488; 0.9701359; 0.96995395; 0.9613072; 0.9526916; 0.94463456; 0.89898235
+12009-simplified,mansion; night; symmetry; dusk; château,0.87820363; 0.6935497; 0.6818331; 0.63279134; 0.57434547
+12035-simplified,astronaut; astronomical object; astronomy; universe; graphics; animation; night; sphere,0.979497; 0.91064596; 0.7992201; 0.7241669; 0.69046897; 0.68045634; 0.6704908; 0.62765133
+12180-simplified,orange; arch; sunset; sunrise; red sky at morning,0.9543278; 0.9527506; 0.8883276; 0.8740027; 0.7767966
+1219-simplified,eyebrow; skin; beauty; eyelash; black hair; fashion; eye shadow; black; long hair,0.9855448; 0.98051125; 0.9733398; 0.9720462; 0.9541156; 0.94993764; 0.92670995; 0.9097329; 0.83190924
+12220-simplified,chin; cheek; eyebrow; skin; beard; nose; moustache,0.98860985; 0.98697215; 0.9860224; 0.98038936; 0.9797304; 0.9745318; 0.95843035
+12244-simplified,blue; beak; wing; feather; tail; passerine; still life photography,0.9888033; 0.9686739; 0.92395526; 0.8817081; 0.6815893; 0.61218154; 0.5737406
+12445-simplified,fictional character; knight; action; cg artwork; action figure; breastplate; action-adventure game; sword,0.932049; 0.92317307; 0.88167894; 0.8361335; 0.8039894; 0.7970637; 0.7774553; 0.71316844
+12471-simplified,underwater,0.78775626
+12483-simplified,hardwood; wood stain; fur; vegetable,0.77392924; 0.65135497; 0.6143576; 0.50552255
+12494-simplified,beak; fictional character; animated cartoon; chicken; phasianidae; fiction,0.92715204; 0.830472; 0.6977499; 0.637169; 0.6359795; 0.60630053
+12498-simplified,ceiling; symmetry; graphics; science; lens flare,0.8316601; 0.689085; 0.57305264; 0.5372811; 0.5009503
+12533-simplified,flame; beard; fire; moustache; heat; candle,0.93655217; 0.9195642; 0.85867184; 0.8005377; 0.7365412; 0.5233297
+12657-simplified,dog; pet supply; snout; collar; working animal,0.99547976; 0.90103644; 0.8846553; 0.8737853; 0.80561775
+12675-simplified,arch; erosion,0.9195821; 0.738598
+12705-simplified,technology; animation; fictional character; graphics; action figure; mecha; shadow,0.8716538; 0.7093108; 0.6817397; 0.58816606; 0.5834406; 0.56269515; 0.527082
+12755-simplified,orange; darkness; electricity; night; sunrise; heat; sunset; lens flare,0.9498967; 0.82650536; 0.8093222; 0.7965154; 0.7653507; 0.7558341; 0.73946655; 0.704792
+12812-simplified,field; prairie; steppe; robot; plantation,0.92092717; 0.8001835; 0.770413; 0.6713891; 0.56670576
+12815-simplified,game; astronomical object; winter; science; digital compositing; animation; universe; spacecraft,0.78790647; 0.6968521; 0.6354234; 0.5839778; 0.57308453; 0.57278293; 0.56970316; 0.54220545
+1285-simplified,fictional character; animated cartoon; toy; film; fiction; digital compositing,0.8751288; 0.8483386; 0.72236055; 0.7101638; 0.61102927; 0.53488755
+12871-simplified,glasses; facial expression; moustache; beard; portrait photography; wrinkle,0.983218; 0.944941; 0.7825143; 0.6797201; 0.6367088; 0.50395346
+129-simplified,head; nose; eye; people in nature; long hair; cloak; mythology; cg artwork; portrait,0.9862465; 0.9745435; 0.9579534; 0.8377446; 0.8140075; 0.7972415; 0.6816645; 0.6651192; 0.5864219
+12984-simplified,snout; costume; fiction; cryptid; animated cartoon; mask,0.74836487; 0.6913092; 0.5850993; 0.5783314; 0.5776665; 0.51423013
+12996-simplified,armour; science; fictional character; animation; digital compositing,0.5705006; 0.56016374; 0.54537344; 0.5450408; 0.5258068
+13115-simplified,horse; horse tack; armour; cg artwork; fictional character; working animal; mythology; horse supplies,0.9612526; 0.87235737; 0.84655505; 0.8142734; 0.8081884; 0.79358906; 0.7932702; 0.77004975
+13118-simplified,technology; display device; graphic design; gadget; multimedia; graphics,0.859917; 0.7563578; 0.6837673; 0.59466386; 0.5933364; 0.58491206
+13167-simplified,beard; moustache; wrinkle; temple; facial expression; portrait photography; flesh,0.9904204; 0.98124385; 0.96087235; 0.9580573; 0.94466305; 0.86592525; 0.6926657
+13184-simplified,red; orange; dragon; mythology; graphics; graphic design,0.97722703; 0.89059067; 0.8417212; 0.7506611; 0.57358396; 0.5095445
+1324-simplified,fictional character; animated cartoon; happiness,0.7999833; 0.74922115; 0.5493962
+13263-simplified,green; petal; aquatic plant; lotus; reflection; pond,0.97388726; 0.9701251; 0.9529486; 0.8375441; 0.7527909; 0.72669566
+13267-simplified,cat; whiskers; snout; toy; animated cartoon,0.96359247; 0.9139317; 0.87843794; 0.8237555; 0.8173943
+13280-simplified,blue; eyebrow; lips; eyelash; beauty; hairstyle; fashion; neck; eye shadow,0.9894413; 0.9858071; 0.9847942; 0.97967935; 0.9724692; 0.9703606; 0.9610993; 0.95628285; 0.9422872
+13283-simplified,beard; sun hat; moustache; fedora; film; costume hat; fictional character,0.88017064; 0.8526981; 0.8149433; 0.7705778; 0.5918444; 0.5812773; 0.5525204
+13328-simplified,history; battle; conquistador; middle ages; art paint,0.88968885; 0.772413; 0.6250371; 0.53606755; 0.52837247
+1334-simplified,fictional character; animated cartoon; cg artwork; anime; fiction,0.913089; 0.7968532; 0.7822591; 0.73334; 0.5774041
+13374-simplified,barechestedness; muscle; cg artwork; fictional character; thorax; flesh; animated cartoon; mythology; film,0.8670166; 0.8389844; 0.8003916; 0.755622; 0.7334399; 0.6428641; 0.6233377; 0.62266344; 0.5934904
+13502-simplified,beauty; long hair; headpiece; cg artwork; film; costume; tradition; model,0.95291; 0.8322036; 0.7487206; 0.73182863; 0.7195104; 0.7189668; 0.65315944; 0.5558833
+13570-simplified,lens flare; graphics; graphic design,0.6879151; 0.625151; 0.5409664
+13648-simplified,dog; snout; fur; working animal; whiskers; pet supply; tongue,0.99548984; 0.91765815; 0.8438097; 0.7826049; 0.70382035; 0.6732971; 0.65506655
+13651-simplified,tourist attraction; dome; cityscape; night; dusk,0.81898254; 0.71626675; 0.64230865; 0.5600244; 0.55775595
+13699-simplified,orange; plastic; figurine,0.9199783; 0.7434562; 0.50287855
+13812-simplified,moonlight; moon; mist; darkness; evening; midnight,0.9012753; 0.90126634; 0.83447117; 0.8336195; 0.77768904; 0.769575
+13814-simplified,fictional character; toy; fur; costume design; mask; suit actor; cosplay; animation,0.7921564; 0.75521326; 0.7034033; 0.66311496; 0.64206666; 0.61415356; 0.5932292; 0.5424852
+13832-simplified,chin; nose; wrinkle; temple; eye; facial expression; portrait photography; moustache,0.988589; 0.974972; 0.96861595; 0.95961004; 0.95269674; 0.9448971; 0.8551939; 0.7636276
+13887-simplified,lighting; electricity; night; electronic signage; dusk,0.91698855; 0.83607775; 0.74903816; 0.74305487; 0.52442926
+13906-simplified,train; winter; electricity; snow; headlamp,0.9880331; 0.92834103; 0.90866613; 0.9074756; 0.90238255
+1392-simplified,ingredient; recipe; cooking; condiment; finger food; culinary arts,0.9128035; 0.8106168; 0.8085322; 0.80356294; 0.7002336; 0.69414425
+13936-simplified,visual arts; painting; portrait; modern art; art paint; paint,0.8995332; 0.8334199; 0.77928513; 0.7523634; 0.70658046; 0.69677454
+1394-simplified,red; pink; party supply; love,0.9778094; 0.8795164; 0.5444025; 0.50613296
+13981-simplified,game; logo,0.8002253; 0.78352684
+13995-simplified,number; night; graphics; neon sign,0.7893735; 0.66084313; 0.6125718; 0.54901135
+14017-simplified,happiness; smile; facial expression; orange; formal wear; dress shirt; logo,0.97205245; 0.9678033; 0.9448744; 0.9429152; 0.92118514; 0.8128203; 0.72639316
+14028-simplified,cheek; head; skin; child; eyelash; iris; blond,0.98682535; 0.9858948; 0.9807862; 0.9569674; 0.92604256; 0.90613765; 0.896653
+14040-simplified,crows; beak; common raven; moon,0.9639578; 0.8989206; 0.84412277; 0.80793154
+14046-simplified,flooring; floor; lighting; ceiling; door; light fixture; glass; symmetry,0.94843876; 0.927598; 0.92658186; 0.9255416; 0.88830453; 0.7879477; 0.74340594; 0.70593554
+14088-simplified,whiskers; fur; snout; domestic short-haired cat,0.9358998; 0.7871817; 0.76243865; 0.58113694
+14105-simplified,dog; flower; yellow; working animal; snout,0.99425954; 0.98981917; 0.9746006; 0.8587364; 0.8570808
+14112-simplified,fictional character; flesh; action figure,0.7723911; 0.60009307; 0.55167466
+1413-simplified,mushroom; fictional character; lawn ornament; animated cartoon; toy,0.9607028; 0.74626166; 0.6726651; 0.6164672; 0.59649223
+14162-simplified,technology; robot; fictional character; headphones; cg artwork; fiction,0.8671718; 0.81457; 0.7664647; 0.6352384; 0.5847473; 0.55329406
+14206-simplified,cg artwork; hero; animated cartoon; anime; fiction,0.6761759; 0.66899616; 0.6423826; 0.565056; 0.559401
+1424-simplified,phasianidae; beak; black; feather; fowl,0.94175655; 0.9173199; 0.9079648; 0.8198978; 0.513571
+14254-simplified,insect; yellow; close-up; macro photography; pest; pollinator; parasitism,0.9892184; 0.9613865; 0.9331768; 0.91171646; 0.9079822; 0.74304736; 0.6364219
+14297-simplified,statue; bronze sculpture; figurine; classical sculpture; collectable,0.9710216; 0.8205817; 0.66526663; 0.64534754; 0.6224803
+14364-simplified,red sky at morning; orange; sunrise; sunset; fictional character; cg artwork,0.91207266; 0.8795664; 0.8708124; 0.8351061; 0.8278421; 0.78011405
+14367-simplified,logo; graphics; graphic design,0.7604978; 0.69224983; 0.67258
+14376-simplified,astronaut; universe; star; astronomy; graphics; animation; fiction,0.857449; 0.68890053; 0.6203952; 0.61009717; 0.60000587; 0.5267862; 0.5203854
+14387-simplified,beard; graphic design; animation; graphics; video game software; film,0.75051236; 0.73594344; 0.7243172; 0.6854548; 0.6834498; 0.6533378
+14407-simplified,armour; technology; fictional character; action figure; mecha; fiction; action,0.9037335; 0.88920414; 0.85533094; 0.78986925; 0.7864002; 0.66741693; 0.6027688
+14476-simplified,night,0.59190375
+14478-simplified,plucked string instrument; guitarist; guitar; performing arts; performance,0.99; 0.983271; 0.98285425; 0.9749673; 0.9684737
+14484-simplified,red; yellow; orange; neck; active shirt; skull; flame; fire; symbol,0.9737845; 0.959486; 0.95722115; 0.95614415; 0.9233082; 0.89834046; 0.850193; 0.78355354; 0.68234754
+14550-simplified,motorcycle; automotive lighting; red; fuel tank; wheel; spoke; automotive exterior,0.99068356; 0.9840977; 0.97651005; 0.97592133; 0.974181; 0.97280586; 0.9614741; 0.9567924; 0.9550775
+14579-simplified,blue; crystal; quartz; gemstone,0.9890651; 0.9113076; 0.8921593; 0.88920474
+1460-simplified,superhero; action; armour; film; animation,0.98746365; 0.87830055; 0.8501172; 0.82469004; 0.7770075
+1473-simplified,map,0.9869035
+1479-simplified,blue; technology; lens flare; engineering; symmetry; science,0.9884005; 0.880314; 0.80603534; 0.7473134; 0.722262; 0.5341776
+1510-simplified,fruit; orange; ingredient; sphere,0.96860343; 0.8875781; 0.84057385; 0.8178356
+1512-simplified,terrestrial animal; snout; bird; reptile,0.8104169; 0.7182662; 0.6861415; 0.5843321
+1545-simplified,ingredient; finger food; fast food,0.936954; 0.748525; 0.7424006
+1562-simplified,boat; naval architecture; ship; ocean,0.9747309; 0.87839216; 0.8550386; 0.7306238
+1566-simplified,technology; fictional character; robot; fiction; toy; science,0.88238853; 0.8036301; 0.77902067; 0.596817; 0.5606209; 0.5460818
+1576-simplified,yoda; superhero; fiction; mask; animation,0.98924047; 0.93466586; 0.64111394; 0.63657254; 0.54581964
+1647-simplified,gadget; headphones; electronic device; technology,0.9503093; 0.94055; 0.9222898; 0.8391193
+1677-simplified,dusk; alley; cg artwork; cityscape; digital compositing; pc game; fictional character,0.7461799; 0.6776124; 0.6765723; 0.5925624; 0.5852835; 0.58515006; 0.58407855
+1718-simplified,night; mythology; shrine,0.8377425; 0.8040025; 0.55117935
+1762-simplified,dinosaur; landmark; tourist attraction; terrestrial animal; night,0.93050534; 0.92232645; 0.8809429; 0.78823614; 0.75039697
+1782-simplified,automotive lighting; headlamp; classic car; hood; fender; automotive wheel system,0.95905256; 0.87693983; 0.86551976; 0.85386825; 0.84215397; 0.82924044
+1809-simplified,robot; fictional character; action figure; animation; fiction,0.81239414; 0.77433944; 0.6602078; 0.5547832; 0.5404885
+1852-simplified,flame; fire; heat; lighting; orange; darkness; night; still life photography,0.9807179; 0.9676163; 0.9335149; 0.9109586; 0.9011535; 0.8442943; 0.76027954; 0.6473256
+1884-simplified,personal protective equipment; helmet; action; cuirass; hero; robot; cg artwork,0.9488439; 0.92405474; 0.89973706; 0.85354435; 0.8330523; 0.8285049; 0.8184702
+1935-simplified,armour; cg artwork; purple; anime; graphics; supernatural creature,0.9441481; 0.88747066; 0.81405264; 0.69961214; 0.6679882; 0.5877471
+1937-simplified,fictional character; armour; technology; mecha; animation; fiction; action figure; digital compositing,0.93371165; 0.9331317; 0.85872227; 0.71525437; 0.63171387; 0.61045605; 0.6040866; 0.5641651
+1947-simplified,dragon; wing; cg artwork; mythology; cryptid; extinction; graphics,0.94161856; 0.89812857; 0.8561046; 0.8345066; 0.77961147; 0.7108728; 0.5892655
+1960-simplified,lens flare; shadow,0.60737133; 0.5521103
+1965-simplified,animated cartoon; squirrel; fictional character; cg artwork; graphics; rabbit,0.8341531; 0.8168799; 0.80090654; 0.75267047; 0.70820767; 0.551514
+1968-simplified,hill; atmospheric phenomenon; horizon; ecoregion; mountain range; dusk,0.9671228; 0.9314229; 0.9259446; 0.9235645; 0.9122312; 0.87300354
+1980-simplified,fictional character; mask; pc game; fiction; digital compositing; cg artwork; armour,0.89903307; 0.59943885; 0.5727813; 0.56352323; 0.5097371; 0.50785595; 0.50408244
+2-simplified,horse; astronaut; horse supplies; astronomical object; horse tack; fiction; astronomy,0.8950925; 0.7086304; 0.69204754; 0.66879153; 0.6293914; 0.520815; 0.5058127
+2010-simplified,fluid; cloud; wave; wind,0.9527182; 0.94524306; 0.9345335; 0.8242115
+2072-simplified,blue,0.98860687
+21-simplified,technology; robot; toy; science,0.87563133; 0.86958045; 0.62895864; 0.5723301
+2107-simplified,nature; trunk; jungle; old-growth forest; rainforest; giant sequoia,0.9737684; 0.8719929; 0.8606512; 0.8265989; 0.7231528; 0.69665
+2137-simplified,toy,0.6398685
+2139-simplified,yellow; toy; happiness,0.96174496; 0.7276633; 0.7092869
+2230-simplified,fictional character; cloak; film; animation; hood; cape,0.8487357; 0.70391726; 0.64055175; 0.5985697; 0.5706345; 0.5087957
+2352-simplified,crystal; quartz; emerald; still life photography,0.95197994; 0.9372904; 0.79995096; 0.57889503
+2356-simplified,mecha; science; pc game; 3d modeling; fictional character,0.695669; 0.5601215; 0.53037804; 0.5124879; 0.51117647
+2366-simplified,bird of prey; beak; feather,0.96560097; 0.8430594; 0.67026174
+2369-simplified,types of volcanic eruptions; orange; lava dome; cloud; volcanic field; lava; stratovolcano,0.947715; 0.93903565; 0.93050283; 0.9209977; 0.9055978; 0.89275247; 0.872955
+2393-simplified,galaxy; astronomy; universe; nebula; star,0.97703934; 0.947869; 0.94728583; 0.8056658; 0.7909497
+2420-simplified,engineering; train; rolling,0.7442987; 0.6764384; 0.6490773
+2462-simplified,galaxy; universe; astronomy; nebula; star; atmospheric phenomenon; night,0.9639891; 0.94292945; 0.9247175; 0.90879595; 0.8935349; 0.8776613; 0.8090357
+2469-simplified,flower; animated cartoon; floristry; fictional character,0.9755111; 0.68982476; 0.5345123; 0.50835353
+2472-simplified,working animal; mist; mustang; stallion,0.9480096; 0.92388266; 0.8910906; 0.8125608
+2529-simplified,red; skull; flame; fire; orange; heat; tooth; symbol,0.9763387; 0.96841973; 0.9600392; 0.9515349; 0.95114255; 0.9359328; 0.92789763; 0.6691173
+2554-simplified,beak; wing; feather; songbirds,0.96096295; 0.8753897; 0.7912276; 0.6239339
+2579-simplified,beard; moustache; fictional character,0.8879114; 0.81199837; 0.7313008
+2584-simplified,red; fictional character; cape; animation; cloak,0.9767016; 0.8905602; 0.7237818; 0.6153734; 0.6002413
+2589-simplified,pyramid; triangle; wonders of the world; meteorological phenomenon; science; digital compositing; world heritage site; star; universe,0.88872355; 0.81071264; 0.6432617; 0.5989438; 0.5717191; 0.5652895; 0.54638684; 0.54156697; 0.53257966
+2702-simplified,dragon; mythology; cg artwork; cryptid; graphic design; graphics,0.88794446; 0.7613595; 0.7318583; 0.72965026; 0.6891466; 0.6660582
+2730-simplified,fictional character; beak; toy; animated cartoon; bird; fiction; robot; 3d modeling,0.8780846; 0.79978573; 0.77064407; 0.759632; 0.618797; 0.6129425; 0.59822214; 0.50106436
+2750-simplified,neon; visual effect lighting; lens flare; night,0.84456927; 0.6144011; 0.5775271; 0.5429565
+2762-simplified,eyebrow; skin; hairstyle; facial expression; eyelash; iris; cartoon; long hair,0.9852536; 0.98067516; 0.97045034; 0.94494635; 0.9210374; 0.90190595; 0.8996925; 0.8860475
+2819-simplified,pollinator; whiskers; butterfly; kitten; snout,0.91902906; 0.9127076; 0.8917185; 0.88965434; 0.86171174
+2869-simplified,cloud; steeple; history; turret; evening,0.9038102; 0.8545291; 0.84983385; 0.7954168; 0.724866
+2915-simplified,beak; feather; crows; songbirds; common raven; sun hat; fedora,0.9198496; 0.86205524; 0.75214005; 0.7036074; 0.6534796; 0.62628895; 0.5596324
+2922-simplified,blue; yellow; composite material; symmetry,0.9883447; 0.9538489; 0.8745136; 0.7116902
+2948-simplified,toy; snout; car door; primate,0.84897435; 0.8155767; 0.7246011; 0.5558286
+2969-simplified,sky; photograph; horizon; sun; daytime; sunset; cloud; nature; orange,0.9905075; 0.98849225; 0.9852967; 0.98525155; 0.98185194; 0.9801627; 0.97850996; 0.97738045; 0.97140574
+2972-simplified,fruit; smile; food; happiness,0.9620788; 0.8971187; 0.86569875; 0.815189
+2993-simplified,animated cartoon; fictional character; cg artwork; film; graphics; toy; squirrel,0.80490386; 0.75988066; 0.7376397; 0.7027589; 0.673365; 0.617888; 0.59652925
+3016-simplified,cg artwork; cryptid; demon; film; mythology; fiction,0.78928685; 0.7811013; 0.73907167; 0.69810224; 0.6783195; 0.66030073
+3041-simplified,insect; close-up; macro photography; pest; parasitism; amphibians,0.8915356; 0.8560352; 0.7914858; 0.68987745; 0.5709156; 0.52733916
+3050-simplified,column; arch; arcade; gothic architecture; shadow; still life photography; ruins,0.9421791; 0.9108033; 0.72413194; 0.7138143; 0.6934382; 0.59809095; 0.55847555
+3220-simplified,book,0.7593785
+324-simplified,ingredient; fast food; recipe; comfort food; condiment,0.9633336; 0.8863236; 0.850952; 0.80448556; 0.79583585
+326-simplified,blue; garden; cottage; moon; petal,0.9877875; 0.9290636; 0.91001296; 0.8742396; 0.85227394
+3265-simplified,landmark; pyramid; tourist attraction; triangle; world heritage site; wonders of the world; tower; design,0.92169076; 0.89668185; 0.89167196; 0.81010175; 0.79963434; 0.77004105; 0.7528298; 0.6728211
+329-simplified,robot; science,0.7416337; 0.52302915
+3306-simplified,spire; cg artwork; cityscape; battle; fictional character; pc game; dawn,0.86368716; 0.8487874; 0.66394895; 0.6603137; 0.64631486; 0.6367599; 0.61041266
+3331-simplified,cottage; log cabin; door; hardwood; wood stain; garden buildings; woodland,0.92194194; 0.8527991; 0.8484738; 0.8204313; 0.7851574; 0.7668846; 0.70483947
+3417-simplified,history; ruins; tourist attraction; sunlight; jungle; temple; old-growth forest; world heritage site,0.85121614; 0.8297989; 0.8225562; 0.81684583; 0.79161435; 0.76608056; 0.6656628; 0.6470659
+3446-simplified,flame; fire; science,0.5738745; 0.53631026; 0.50409985
+3459-simplified,astronomical object; moonlight; dusk; walking,0.6405473; 0.58327764; 0.55683887; 0.52399176
+3460-simplified,blue; facial expression; animation; film; portrait photography; no expression; hero,0.9888385; 0.9449429; 0.75027645; 0.7240733; 0.6256989; 0.58830786; 0.50860107
+3511-simplified,fictional character; cg artwork; graphics; winter; fiction,0.7780288; 0.7110572; 0.61494005; 0.60477173; 0.5220027
+3540-simplified,sunrise; astronomical object; animation; watercolor painting,0.6596516; 0.65388125; 0.6019692; 0.52151257
+3618-simplified,whiskers; fur; snout; domestic short-haired cat,0.9559692; 0.83881754; 0.8236915; 0.53212065
+367-simplified,fish; marine biology; underwater; fin; fictional character; tail,0.9387131; 0.6712605; 0.66226125; 0.6233268; 0.5985904; 0.5592787
+3825-simplified,yellow; orange; graphics; graphic design,0.95796484; 0.87727195; 0.6863571; 0.6834236
+3855-simplified,sword; film; hero; animation; costume design,0.7924383; 0.5791435; 0.57024115; 0.56104475; 0.5020987
+4383-simplified,tourist attraction; tower; midnight; astronomical object; reflection; wonders of the world; science; evening,0.84053206; 0.814803; 0.7991404; 0.70769876; 0.6796324; 0.6617122; 0.6439662; 0.643087
+4428-simplified,body jewelry; crystal; diamond; emerald,0.8914894; 0.88105834; 0.8729587; 0.8596141
+4439-simplified,fictional character; animation; night; fiction,0.78644097; 0.68428284; 0.5851248; 0.5052804
+4440-simplified,facial expression; smile; portrait; necktie; goggles; pleased,0.9449349; 0.8824136; 0.75528735; 0.70967466; 0.67250526; 0.6561517
+4461-simplified,fictional character,0.90159833
+4463-simplified,fictional character; masque; cosplay; fiction; cg artwork; costume design; armour,0.7500955; 0.6837041; 0.6176799; 0.57016623; 0.56864834; 0.5681744; 0.5359153
+4501-simplified,wheel; car; automotive exterior;,0.9746464; 0.9638037; 0.9556573; 0.9423604
+4514-simplified,astronaut; astronomical object; graphics; graphic design; astronomy; universe; animation,0.97937065; 0.73768777; 0.6093711; 0.60641885; 0.60184914; 0.5480301; 0.5466984
+4519-simplified,smile; chin; happiness; eyebrow; skin; beauty; facial expression; tooth; portrait photography,0.9920069; 0.9885416; 0.98653674; 0.9852485; 0.9802124; 0.9585996; 0.94494975; 0.9328994; 0.9017521
+456-simplified,automotive lighting; classic car; sedan; full-size car,0.91579026; 0.6772214; 0.6739157; 0.6525529
+4565-simplified,nature; green; branch; sun; natural landscape; forest; sunlight; atmospheric phenomenon; sunrise; reflection,0.9789195; 0.9785289; 0.96665263; 0.9646476; 0.95124686; 0.9249334; 0.91410774; 0.9041714; 0.87898314; 0.87213653
+4578-simplified,cg artwork; armour; mask; demon; mythology; graphics; action-adventure game,0.85868603; 0.7959549; 0.7549678; 0.73869896; 0.667878; 0.66541576; 0.6116632
+4597-simplified,green; plantation,0.97802246; 0.63026017
+461-simplified,feather; night,0.6799866; 0.6713956
+4618-simplified,bird; beak; wing; feather; close-up; terrestrial animal,0.99260795; 0.97421676; 0.8715323; 0.8700725; 0.84085643; 0.82939523
+4654-simplified,chin; glasses; eyebrow; hairstyle; collar; black hair; facial expression,0.9885442; 0.98695654; 0.98551404; 0.97010714; 0.9675552; 0.95811373; 0.9447423
+4664-simplified,chicken; phasianidae; beak; fowl,0.97052574; 0.9564367; 0.9499543; 0.9134125
+4722-simplified,dog; cat; tail; paw; fur,0.8437617; 0.83978534; 0.68597126; 0.65330315; 0.6196979
+4738-simplified,fish; red; fin; marine biology; orange; underwater; tail,0.98757064; 0.97291404; 0.9357187; 0.9351751; 0.9293013; 0.89567536; 0.8105527
+4803-simplified,blue; red; orange; yellow; flame; heat; fire; purple; graphics,0.9879549; 0.9768022; 0.96146524; 0.96122694; 0.95276433; 0.9233674; 0.8928754; 0.82768124; 0.63063693
+4812-simplified,happiness; portrait photography,0.7017288; 0.5924456
+4836-simplified,beard; moustache; film; hero,0.7474103; 0.7171215; 0.6402558; 0.59868956
+4906-simplified,fictional character; technology; animation; robot; armour; fiction; mask,0.8837647; 0.86509436; 0.66671854; 0.6092346; 0.59363407; 0.5831471; 0.570599
+4916-simplified,bird; beak; astronomical object; child; animated cartoon; graphics; film,0.9176678; 0.91147894; 0.82374287; 0.7855778; 0.67097217; 0.6428316; 0.636364
+4948-simplified,liquid; glass,0.91954315; 0.75719774
+4950-simplified,film; action; hero; armour; beard,0.82888657; 0.8282044; 0.70487964; 0.67507577; 0.6608649
+4980-simplified,carnivores; snout; canidae; animation; graphics; fictional character,0.85690683; 0.7959915; 0.73569185; 0.5980297; 0.59425354; 0.57297873
+4986-simplified,machine; plastic,0.80827856; 0.58942515
+5104-simplified,musical instrument; interior design; lighting; light fixture; ceiling,0.9545956; 0.9457549; 0.92583424; 0.923473; 0.9213769
+5136-simplified,film; animation; hero,0.6666914; 0.5939823; 0.57273793
+5165-simplified,eyebrow; eyelash; cg artwork; portrait photography; fictional character; no expression; film; model; eye shadow,0.98528457; 0.87006867; 0.8162244; 0.7612134; 0.74682796; 0.6346683; 0.6298578; 0.60028136; 0.54236704
+5215-simplified,glass; daylighting; evening,0.76776177; 0.6107981; 0.6105236
+5298-simplified,beard; moustache; breastplate; vikings; knight,0.9671827; 0.91276693; 0.74607116; 0.5553358; 0.5077515
+5309-simplified,facial expression; dragon ball; fictional character; muscle; animated cartoon; film; figurine,0.9444105; 0.8838093; 0.87991107; 0.85694605; 0.6763084; 0.66092837; 0.62492716
+5332-simplified,ingredient; recipe,0.9442181; 0.8167641
+5334-simplified,number,0.82032204
+5340-simplified,black; darkness; midnight; alley; evening; shadow; backlighting; walking; lens flare,0.9067229; 0.8819507; 0.79899806; 0.79069465; 0.7503647; 0.72143936; 0.65945315; 0.60265726; 0.59429854
+5428-simplified,red; orange; astronomy; universe; planet; sphere; heat; night,0.9736432; 0.95351326; 0.925691; 0.8731022; 0.84839386; 0.8107931; 0.7222282; 0.71018076
+5432-simplified,facial expression; orange; pumpkin,0.94494444; 0.93793374; 0.9226893
+545-simplified,silver; gadget; smartphone; telephony; still life photography,0.7446856; 0.7428662; 0.6703733; 0.62783617; 0.61988306
+5456-simplified,breastplate; action; cg artwork; knight; film; hero; cloak,0.8165747; 0.79828143; 0.7704139; 0.7121928; 0.686586; 0.63327897; 0.5878173
+5460-simplified,orange; party; performing arts; concert,0.89353645; 0.8580863; 0.853319; 0.78963125
+5584-simplified,snout; animated cartoon; toy; mythical creature,0.76374865; 0.7194934; 0.58430177; 0.50718105
+5686-simplified,mustang; animation; stallion; meteorological phenomenon; mythical creature; wind,0.8335111; 0.72365046; 0.7143245; 0.71099687; 0.6753788; 0.64944345
+5763-simplified,whiskers; snout; fur; horse; domestic short-haired cat,0.97809666; 0.92371964; 0.8378136; 0.7525714; 0.7476815
+5789-simplified,personal protective equipment; helmet; armour; action; fiction; hero,0.91930425; 0.837322; 0.82608134; 0.7261006; 0.6690992; 0.608591
+5807-simplified,blue; sphere; graphics,0.9884318; 0.80398536; 0.61726403
+5846-simplified,heart; red; fluid; love; liquid; close-up; glass,0.9847641; 0.9777493; 0.9555683; 0.93038446; 0.9214262; 0.9068808; 0.8779159
+5911-simplified,nature; natural landscape; jungle; trunk; woody plant; painting; old-growth forest; rainforest,0.9787658; 0.9501026; 0.92224693; 0.881275; 0.8498953; 0.8432267; 0.8279203; 0.787548
+5930-simplified,eyelash; blond; winter; portrait photography; fur; headpiece; no expression,0.8959381; 0.7774652; 0.7670367; 0.6700092; 0.6451101; 0.60264784; 0.53950125
+6016-simplified,types of volcanic eruptions; lava dome; fissure vent; lava; volcanic field; orange; heat,0.9692021; 0.93907905; 0.9377109; 0.92162156; 0.9098379; 0.90472955; 0.9046493
+6062-simplified,cg artwork; armour; action-adventure game; mythology; fiction; anime; supernatural creature,0.9072854; 0.8949755; 0.79036033; 0.7855886; 0.66229486; 0.6320263; 0.62156296
+6106-simplified,batman; justice league; cartoon; cape; film,0.98322386; 0.90979826; 0.87414277; 0.85438764; 0.8435109
+6110-simplified,batman; cape; cartoon; justice league; film; cloak,0.981364; 0.89341414; 0.8887262; 0.87168616; 0.84889305; 0.8339222
+6157-simplified,technology; animation; fictional character; robot; graphics; armour; digital compositing; science; film,0.85165113; 0.77237874; 0.72076076; 0.6887842; 0.5734253; 0.5576772; 0.5427433; 0.5381073; 0.5237368
+6188-simplified,glasses,0.984072
+6274-simplified,automotive lighting; automotive exterior; bumper; fender; headlamp; personal luxury car,0.9598626; 0.94491726; 0.87066656; 0.811048; 0.810901; 0.79079664
+6361-simplified,sunglasses; glasses; goggles; collar; black hair; personal protective equipment; moustache,0.9911741; 0.98779386; 0.9712914; 0.96311593; 0.9396015; 0.91972363; 0.83301806
+6382-simplified,standing; city; street; pedestrian; walking; evening; shadow; backlighting,0.9603753; 0.9504842; 0.9350238; 0.93271923; 0.8193927; 0.80465347; 0.7592502; 0.7371721
+6394-simplified,ingredient; vegetable,0.9423016; 0.87897485
+6410-simplified,sky; cloud; wind; atmospheric phenomenon; dusk; sunlight; machine,0.9886698; 0.9133423; 0.8910545; 0.8843463; 0.87206376; 0.86837834; 0.84849757
+6421-simplified,blue,0.98948985
+6460-simplified,orange; heat; geological phenomenon; sunset; fire; flame,0.9240797; 0.8992217; 0.8044104; 0.78490746; 0.7674706; 0.7464759
+6481-simplified,graphic design; digital compositing; graphics; fractal art; cg artwork; pc game; fictional character,0.65782803; 0.6510456; 0.64918417; 0.6205341; 0.6020052; 0.58287543; 0.55695957
+6495-simplified,boat; ocean; ship,0.9856846; 0.9080888; 0.8811997
+6496-simplified,toy; cat; dog; snout; whiskers; pet supply; tail,0.92502207; 0.92340946; 0.917902; 0.8422019; 0.7562362; 0.6671668; 0.66616464
+6504-simplified,sky; cloud; turret; dusk; château; steeple,0.9886544; 0.969985; 0.87162876; 0.86783063; 0.8262223; 0.81548977
+6536-simplified,tradition; temple; shrine,0.85822284; 0.80499697; 0.71402735
+6551-simplified,dome; sunset; finial; spire; sunrise,0.9271856; 0.9005654; 0.872084; 0.8610875; 0.81548613
+6559-simplified,blue; whiskers; snout; purple; fur; kitten,0.98929626; 0.9436767; 0.86498535; 0.8321862; 0.8070176; 0.57809144
+6572-simplified,event; tradition; masque; costume; costume hat,0.9370928; 0.90678245; 0.90248704; 0.86994475; 0.8519922
+6722-simplified,batman; justice league; cape; cartoon; film,0.981689; 0.88085246; 0.87980217; 0.85743374; 0.81638676
+6763-simplified,bengal tiger; siberian tiger; facial expression; terrestrial animal; whiskers,0.9804266; 0.9744472; 0.9448566; 0.9439085; 0.93206483
+6773-simplified,metropolis; metropolitan area; cityscape; skyscraper; moon; midnight,0.9127151; 0.88936716; 0.8719564; 0.861673; 0.8508291; 0.8153691
+6774-simplified,bird; facial expression; beak; feather; film; animated cartoon,0.94900036; 0.9448914; 0.80851287; 0.6097028; 0.55768013; 0.5533898
+6782-simplified,horn; jungle; snout; wildlife; fictional character; natural material; animation; old-growth forest,0.83611757; 0.8249063; 0.8126352; 0.8081359; 0.7791988; 0.70969355; 0.7084892; 0.64391696
+6823-simplified,types of volcanic eruptions; lava dome; fissure vent; volcanic field; stratovolcano; lava; orange,0.9714166; 0.9426274; 0.91870123; 0.9182507; 0.91585064; 0.9110306; 0.9004894
+6851-simplified,furniture; interior design; lighting; room; home,0.97219; 0.93405855; 0.9318384; 0.9269426; 0.92227656
+6857-simplified,cottage; astronomical object; evening; log cabin; garden buildings,0.91959745; 0.81515807; 0.7653941; 0.6760668; 0.67012066
+6904-simplified,facial expression; tooth; demon; graphics; animation; tongue,0.94493085; 0.9304843; 0.78263056; 0.6810052; 0.66988266; 0.6676097
+6943-simplified,yellow; graphics; graphic design; silver; fractal art,0.96119946; 0.7284847; 0.7077238; 0.6926184; 0.6516826
+7006-simplified,fictional character; cg artwork; breastplate; cartoon; mythology; knight,0.90839416; 0.8797276; 0.860947; 0.8449961; 0.79097116; 0.75882584
+7083-simplified,dog; snout; working animal; black; whiskers,0.9834813; 0.92751265; 0.9145273; 0.9096744; 0.56018114
+7087-simplified,breastplate; cg artwork; mask; action; hero,0.7809786; 0.7484772; 0.7308899; 0.6482888; 0.64827466
+7109-simplified,yellow; orange; beard; performing arts; concert; goggles; sunglasses; portrait photography,0.9585484; 0.89708453; 0.73618275; 0.72662777; 0.6669432; 0.6620486; 0.65286374; 0.5652593
+7155-simplified,ecoregion; grassland; horizon; steppe; prairie; field,0.9471332; 0.9440926; 0.9249592; 0.89085877; 0.84882367; 0.78881556
+7182-simplified,collar; neck; standing; fashion; dress shirt,0.9699861; 0.95564675; 0.9493368; 0.9408029; 0.90895075
+7199-simplified,toy; terrestrial animal; snout; animation; wildlife; fictional character; horn; lawn ornament,0.8889234; 0.8646509; 0.834377; 0.7498006; 0.7322382; 0.72371966; 0.6861607; 0.61586934
+7247-simplified,spacecraft; aircraft; toy; aerospace manufacturer,0.86649054; 0.75825167; 0.64335656; 0.54709417
+735-simplified,lotus; yellow; aquatic plant; pink; reflection; purple,0.97332746; 0.96254873; 0.9520211; 0.9013511; 0.828542; 0.8006824
+7412-simplified,fictional character; graphics; fiction; film; moustache; animated cartoon,0.8687585; 0.67301565; 0.58840483; 0.5875342; 0.5621519; 0.50812954
+7417-simplified,fruit; food; vegetable,0.9728985; 0.8105179; 0.72185713
+7451-simplified,fruit; painting; plantation,0.84424216; 0.83148694; 0.66909
+7526-simplified,astronomical object; universe; video game software; dome; science; digital compositing; cg artwork; aerospace engineering,0.749657; 0.69265956; 0.67328566; 0.6617591; 0.59413624; 0.5714576; 0.54167813; 0.50900126
+7534-simplified,rodent; snout; pest; whiskers; animated cartoon; toy,0.9510787; 0.91467947; 0.8579974; 0.75093085; 0.684416; 0.61153084
+756-simplified,batman; justice league; action; film; armour; animation,0.98132163; 0.8904486; 0.8464711; 0.84120923; 0.8327768; 0.76994723
+7582-simplified,long hair; red hair; model; photo shoot; portrait photography,0.8829128; 0.84259313; 0.72527736; 0.7159884; 0.6325582
+7594-simplified,pink; lantern; design,0.88755745; 0.722753; 0.6835756
+7602-simplified,pink; beauty; eyelash; long hair,0.9508957; 0.9475148; 0.88801455; 0.7742484
+763-simplified,cloud; people in nature; cg artwork,0.9029272; 0.83332604; 0.5274083
+7669-simplified,atmospheric phenomenon; moonlight; moon; darkness; celestial event; midnight; meteorological phenomenon; cg artwork,0.9228785; 0.8504626; 0.8476027; 0.8456313; 0.72645205; 0.7198742; 0.7123495; 0.70290285
+7721-simplified,armour; technology; silver; mecha; fictional character; action figure; animation,0.85981476; 0.8443169; 0.7028551; 0.6826544; 0.678235; 0.61443526; 0.5136162
+7731-simplified,still life photography; rose family; floristry,0.59299433; 0.5735951; 0.56462854
+7775-simplified,wood; tree house; trunk; giant sequoia; log cabin,0.96971935; 0.9335419; 0.8755579; 0.53591096; 0.53406876
+7784-simplified,bengal tiger; siberian tiger; terrestrial animal; child; happiness,0.9677018; 0.9413259; 0.8883206; 0.82331675; 0.7911311
+7831-simplified,steeple; winter; turret; finial; morning; tourist attraction; freezing; evening,0.9262064; 0.92389125; 0.88466; 0.853799; 0.84159935; 0.83432674; 0.82823306; 0.82702386
+7927-simplified,moon; atmospheric phenomenon; moonlight; cloud; astronomy; celestial event; star,0.97420627; 0.9438517; 0.9387829; 0.90648395; 0.87150115; 0.84761506; 0.82789797
+7950-simplified,blue; crystal; gemstone,0.9881004; 0.788711; 0.5873842
+7959-simplified,alley; evening; night; lens flare; heat,0.8375653; 0.79624623; 0.69992846; 0.5178656; 0.51170814
+7962-simplified,skyscraper; metropolis; cityscape; dusk,0.9428503; 0.8865303; 0.86394274; 0.70821905
+7964-simplified,knight; breastplate; vikings; action; conquistador; hero; film,0.8721556; 0.87124497; 0.8057014; 0.6302109; 0.5423271; 0.54057133; 0.52894646
+7979-simplified,blue; dusk; meteorological phenomenon; astronomical object; cumulus; turret; animation,0.9878103; 0.8156359; 0.7565261; 0.7356988; 0.7218915; 0.7100311; 0.7066216
+8061-simplified,software; screenshot; software engineering; personal computer,0.88029987; 0.77467716; 0.6715394; 0.6469398
+8081-simplified,night; party; visual effect lighting,0.67654467; 0.5779457; 0.5693228
+8123-simplified,dragon ball; film; action figure; hero; animated cartoon,0.9463784; 0.8137305; 0.67753005; 0.67223704; 0.6151165
+8124-simplified,active shirt,0.8809035
+8130-simplified,mask; winter; hood; cosplay; goth subculture,0.78986084; 0.6402177; 0.6364772; 0.61861354; 0.59356236
+8185-simplified,spacecraft; aircraft; astronomical object; science; universe; digital compositing; aerospace manufacturer; video game software,0.9124971; 0.7327484; 0.7048045; 0.58603764; 0.5837082; 0.5668802; 0.53389335; 0.53289497
+8194-simplified,automotive exterior; car door; classic car; personal luxury car,0.94625044; 0.9201305; 0.8684544; 0.699697
+8201-simplified,blue; turret; skyscraper; steeple; gothic architecture; animation; graphics,0.98825246; 0.7407533; 0.7281256; 0.70708114; 0.6720105; 0.61895376; 0.5997874
+8225-simplified,blue; cheek; eyebrow; lips; skin; eyelash; beauty; black hair; hairstyle,0.98952824; 0.9868; 0.9859298; 0.98479617; 0.9817068; 0.9802232; 0.9736432; 0.97149193; 0.9701936
+8259-simplified,collar; hat; black; necktie,0.96591663; 0.92084324; 0.90716577; 0.8940079
+8270-simplified,wing; cg artwork; supernatural creature; mythology; dragon; cryptid; armour,0.9204518; 0.86264795; 0.755521; 0.73015666; 0.6562074; 0.6250825; 0.5345937
+8279-simplified,plucked string instrument; guitar; cat; guitarist; folk instrument,0.9822256; 0.9816265; 0.9377858; 0.9060877; 0.8385144
+8326-simplified,fiction; cg artwork; mask; demon; animated cartoon; cryptid; armour,0.71552825; 0.71496564; 0.58123904; 0.5508346; 0.5300588; 0.5300222; 0.5242827
+8342-simplified,animation; graphics; graphic design; hero,0.7018037; 0.65692335; 0.59317124; 0.5473788
+8360-simplified,night,0.6656238
+8368-simplified,automotive lighting; bumper; sedan; personal luxury car; rolling,0.9154455; 0.7361307; 0.71185625; 0.7006873; 0.68157405
+8421-simplified,beauty; eyelash; fictional character; black; cg artwork; purple; long hair; costume; headpiece,0.95691663; 0.9279498; 0.9144917; 0.90701216; 0.8980004; 0.8765555; 0.8635256; 0.7585103; 0.750803
+8437-simplified,beak; bird of prey; feather; fictional character,0.9619968; 0.8638752; 0.7338684; 0.68123585
+8441-simplified,horizon; darkness; moonlight; astronomical object; walking; mist; dusk,0.93593675; 0.8566129; 0.8302657; 0.79905075; 0.73994684; 0.7285649; 0.72567934
+8450-simplified,graphics; graphic design,0.6437726; 0.5703093
+8467-simplified,electronics; display device; night; neon,0.7653277; 0.64943135; 0.6298682; 0.6022705
+8493-simplified,reflection; glass; precipitation; aquatic plant; lens flare; pond; night,0.8485343; 0.73549956; 0.7080512; 0.5843174; 0.5544524; 0.52749217; 0.5082861
+8524-simplified,facial expression; fictional character; smile; happiness; pleased; costume hat; costume design; animation,0.94494617; 0.9420738; 0.9349343; 0.9117236; 0.7603366; 0.7335779; 0.6407478; 0.63372916
+8543-simplified,yoda; animated cartoon; snout; toy; fiction,0.9556974; 0.8327994; 0.7096244; 0.6005473; 0.5079677
+8549-simplified,facial expression; portrait photography; hood; film; no expression; fictional character; model,0.9448719; 0.8463301; 0.8090567; 0.7888148; 0.6355232; 0.59557956; 0.507829
+8596-simplified,flower; pink; watercolor painting; paint; rose family; floral design,0.99086416; 0.94498223; 0.7041542; 0.6123455; 0.5970161; 0.5968412
+8644-simplified,dog; snout; black; working animal,0.99550444; 0.91920847; 0.90739244; 0.52026767
+8682-simplified,unidentified flying object; moonlight; star; dusk; astronomy; universe,0.7668008; 0.66395855; 0.6505234; 0.6345906; 0.5731075; 0.5275727
+8743-simplified,fictional character; toy; animated cartoon,0.8706893; 0.7716321; 0.64798737
+877-simplified,earring; crystal; silver; diamond,0.9597257; 0.8782837; 0.8412915; 0.8040665
+8861-simplified,neon sign; night; visual effect lighting,0.8093471; 0.73320943; 0.6238284
+8872-simplified,visual arts; tradition; umbrella; watercolor painting; paint; modern art,0.866366; 0.79839265; 0.72927994; 0.64442253; 0.5915355; 0.5468952
+895-simplified,sunset; horizon; sunrise; cloud; rock; atmospheric phenomenon; terrain,0.96356255; 0.9593736; 0.95330274; 0.915817; 0.91309065; 0.9005993; 0.8859034
+8977-simplified,green; amphibians; yellow; reptile; black,0.98627347; 0.98337555; 0.9762482; 0.9210083; 0.9091489
+8980-simplified,metropolitan area; street; skyscraper; metropolis; pedestrian; evening,0.944448; 0.9065286; 0.89236206; 0.8877065; 0.86797; 0.8464138
+9043-simplified,yellow; food; vegetable,0.96075875; 0.95892316; 0.8106808
+9082-simplified,garden; spring; cottage,0.9301901; 0.86131555; 0.8174914
+9099-simplified,fictional character; happiness; action figure; figurine; animated cartoon,0.6293929; 0.6152619; 0.5430277; 0.5403142; 0.52756363
+9152-simplified,armour; fictional character; technology; animation; mecha; action figure; graphics,0.9442616; 0.90863764; 0.8875704; 0.8487479; 0.7909386; 0.7467024; 0.628524
+917-simplified,mythology; modern art; watercolor painting,0.7035079; 0.6585903; 0.6180385
+9234-simplified,universe; star; astronomy; planet; dome; galaxy; night,0.8714826; 0.817107; 0.7638559; 0.7333109; 0.69064814; 0.67745006; 0.6687811
+9295-simplified,motorcycle; red; fuel tank; automotive lighting; fender; automotive wheel system; spoke; carbon fibers,0.98455006; 0.9753645; 0.9750447; 0.9525357; 0.93044; 0.87503564; 0.86909693; 0.83987564; 0.7829846
+9366-simplified,gadget; smartphone; telephony; display device; technology; rabbit,0.959427; 0.8907618; 0.88273644; 0.8737452; 0.86663866; 0.860144
+9393-simplified,tower; animation,0.8738859; 0.59273756
+940-simplified,toy; animated cartoon; fedora; fictional character; sun hat,0.69971764; 0.6633368; 0.65025693; 0.6137469; 0.5660463
+9426-simplified,hairstyle; facial expression; anime; cg artwork; animated cartoon,0.9702948; 0.9449171; 0.8774711; 0.828865; 0.63390446
+9462-simplified,statue; monument; column; mythology; bronze sculpture; classical sculpture; middle ages,0.8847818; 0.81247485; 0.7259178; 0.7091038; 0.6799247; 0.62739915; 0.52854174
+9484-simplified,plucked string instrument; guitar; guitarist; performing arts,0.9885427; 0.98275787; 0.9822677; 0.88518536
+9486-simplified,facial expression; pink; mythical creature; animated cartoon; cg artwork; snout,0.9445964; 0.9175056; 0.85313565; 0.794856; 0.79073006; 0.7204296
+9512-simplified,candle; event; party supply; dessert,0.97105396; 0.95531976; 0.94308764; 0.9167673
+9549-simplified,muscle; thorax; superhero; barechestedness; animation; flesh,0.9162279; 0.8190079; 0.81477666; 0.7421222; 0.7174284; 0.6342664
+9609-simplified,winter; film; freezing; animation; digital compositing,0.88071036; 0.87419426; 0.8617997; 0.82396895; 0.70141584
+9636-simplified,moustache; collectable,0.8082869; 0.5828552
+967-simplified,whiskers; costume; fur; tail; domestic short-haired cat,0.8200824; 0.7005089; 0.6873364; 0.66260856; 0.5313
+9675-simplified,technology; animated cartoon; pc game; fictional character; display device,0.8400158; 0.70909745; 0.706281; 0.6903819; 0.6198277
+9690-simplified,heart; red; close-up; dessert; love,0.9838072; 0.97759134; 0.8948932; 0.84149057; 0.82749057
+9723-simplified,graphics; symbol; graphic design; fractal art; animation,0.70069885; 0.65146077; 0.6049722; 0.5805408; 0.5287107
+9732-simplified,blue; daytime; cumulus; sunlight; meteorological phenomenon; sunrise; backlighting,0.98847055; 0.9812103; 0.94283223; 0.8622915; 0.8313893; 0.6886851; 0.63575184
+9749-simplified,fictional character; wrinkle,0.85465306; 0.5827608
+9753-simplified,black; carbon fibers,0.90798795; 0.7410437
+9959-simplified,blue; flame; fire; heat; boat; wave,0.98868036; 0.9633538; 0.9316378; 0.8803273; 0.62119514; 0.55391884

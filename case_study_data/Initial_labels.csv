@@ -1,0 +1,3226 @@
+image_id,label,score
+10015-simplified,Fictional character,0.96474135
+10015-simplified,Spider-Man,0.95686716
+10015-simplified,Superhero,0.953624
+10015-simplified,Cartoon,0.93503386
+10015-simplified,CG artwork,0.84464186
+10015-simplified,Fiction,0.8383317
+10015-simplified,Animation,0.8043294
+10015-simplified,Hero,0.7464098
+10015-simplified,Animated cartoon,0.74481845
+10015-simplified,Supernatural creature,0.65604043
+10016-simplified,Electronic device,0.9740789
+10016-simplified,Technology,0.8821064
+10016-simplified,Computer,0.87518203
+10016-simplified,Personal computer,0.86766744
+10016-simplified,Office Equipment,0.8553456
+10016-simplified,Computer hardware,0.8313354
+10016-simplified,Peripheral,0.8251953
+10016-simplified,Display device,0.817954
+10016-simplified,Software engineering,0.7801774
+10016-simplified,Computer keyboard,0.7501071
+10024-simplified,Cloud,0.9296566
+10024-simplified,Dusk,0.9143446
+10024-simplified,Sunrise,0.9139185
+10024-simplified,Terrain,0.8806728
+10024-simplified,Sunset,0.8669624
+10024-simplified,Sunlight,0.86519885
+10024-simplified,Morning,0.8538174
+10024-simplified,Evening,0.85220677
+10024-simplified,Castle,0.8197862
+10024-simplified,Afterglow,0.78371394
+1012-simplified,Lighting,0.92508006
+1012-simplified,Lantern,0.8139723
+1012-simplified,Column,0.77806914
+1012-simplified,Still life photography,0.7091444
+1012-simplified,Evening,0.6148883
+1012-simplified,Night,0.5955278
+1012-simplified,Lamp,0.55645424
+1012-simplified,Light fixture,0.55097556
+1012-simplified,Still life,0.5219043
+1012-simplified,Shadow,0.51908374
+10141-simplified,Crocodiles,0.9913722
+10141-simplified,Crocodile,0.991159
+10141-simplified,Alligators,0.9655832
+10141-simplified,Reptile,0.9634191
+10141-simplified,Vertebrate,0.9622685
+10141-simplified,Wildlife,0.9566586
+10141-simplified,Snout,0.92924255
+10141-simplified,Tooth,0.9259692
+10141-simplified,Liquid,0.9211627
+10141-simplified,American alligator,0.91076434
+10156-simplified,Tree house,0.89011157
+10156-simplified,Jungle,0.6639453
+10156-simplified,Animation,0.5678597
+10196-simplified,Unidentified flying object,0.7574801
+10196-simplified,Child,0.58672386
+10208-simplified,Orange,0.9085725
+10208-simplified,Heat,0.62213707
+10208-simplified,Fire,0.60466474
+10208-simplified,Flame,0.5550742
+10208-simplified,Gothic architecture,0.5391533
+10208-simplified,Dawn,0.5298271
+10215-simplified,Toy,0.90830874
+10215-simplified,Fictional character,0.9031087
+10215-simplified,Technology,0.87993723
+10215-simplified,Machine,0.845348
+10215-simplified,Robot,0.83331954
+10215-simplified,Mecha,0.7818836
+10215-simplified,Action figure,0.7668937
+10215-simplified,Armour,0.7479172
+10215-simplified,Animation,0.6819738
+10215-simplified,Fiction,0.6123871
+10229-simplified,CG artwork,0.8420598
+10229-simplified,Fictional character,0.81878185
+10229-simplified,Cloak,0.7277045
+10229-simplified,Animation,0.5977938
+10229-simplified,Fiction,0.5634582
+1028-simplified,Still life photography,0.5598538
+10314-simplified,Science,0.507576
+10339-simplified,Naval ship,0.87023085
+10339-simplified,Sea,0.83664703
+10339-simplified,Ocean,0.80472577
+10339-simplified,Aircraft carrier,0.7948397
+10339-simplified,Watercraft,0.7713768
+10339-simplified,Light aircraft carrier,0.7390988
+10339-simplified,Aircraft,0.7080189
+10339-simplified,Navy,0.6290312
+10339-simplified,Supercarrier,0.6237165
+10339-simplified,Naval architecture,0.6183721
+1040-simplified,Dog,0.9955314
+1040-simplified,Carnivores,0.9576288
+1040-simplified,Snout,0.9048764
+1040-simplified,Working animal,0.82803404
+1040-simplified,Canidae,0.78480154
+1040-simplified,Dog sports,0.7324309
+1040-simplified,Jumping,0.6116288
+1040-simplified,Fur,0.60650826
+1040-simplified,Swimming pool,0.551469
+1040-simplified,Swimming,0.506213
+10402-simplified,Orange,0.91744953
+10402-simplified,Mushroom,0.87155855
+10402-simplified,Fungus,0.8682291
+10402-simplified,Evening,0.67015344
+10409-simplified,Snakes,0.99007154
+10409-simplified,Vertebrate,0.9593492
+10409-simplified,Reptile,0.9367995
+10409-simplified,Serpent,0.9026184
+10409-simplified,Scaled reptiles,0.89193404
+10409-simplified,Terrestrial animal,0.84695244
+10409-simplified,Vipers,0.80273116
+10409-simplified,Wildlife,0.7936096
+10409-simplified,Grass snake,0.71729773
+10409-simplified,Elapid snakes,0.6873228
+10435-simplified,Photograph,0.98799163
+10435-simplified,Standing,0.9440835
+10435-simplified,Darkness,0.91908646
+10435-simplified,Night,0.8794095
+10435-simplified,Midnight,0.7889383
+10435-simplified,Lens flare,0.7599413
+10435-simplified,Backlighting,0.68202883
+10435-simplified,Shadow,0.51426464
+10464-simplified,Arch,0.89831305
+10464-simplified,Composite material,0.87720066
+10464-simplified,Symmetry,0.74020344
+10464-simplified,Daylighting,0.71056294
+10464-simplified,Shadow,0.6498382
+10464-simplified,Arcade,0.6066379
+1055-simplified,Interior design,0.9801519
+1055-simplified,Furniture,0.97426724
+1055-simplified,Flooring,0.9721561
+1055-simplified,Floor,0.96657455
+1055-simplified,Ceiling,0.95608443
+1055-simplified,Living room,0.9551266
+1055-simplified,Lighting,0.9484837
+1055-simplified,Couch,0.93845713
+1055-simplified,Architecture,0.93655425
+1055-simplified,Room,0.8896012
+10554-simplified,Black hair,0.9119393
+10554-simplified,CG artwork,0.8919073
+10554-simplified,Eyelash,0.8762253
+10554-simplified,Animation,0.70399654
+10554-simplified,Fictional character,0.65720296
+10554-simplified,Costume,0.6536145
+10554-simplified,Digital compositing,0.6163701
+10554-simplified,Film,0.598645
+10554-simplified,Earring,0.52971536
+10624-simplified,Night,0.8500732
+10624-simplified,Darkness,0.83455455
+10624-simplified,Graphics,0.7145071
+10624-simplified,Graphic design,0.6011399
+10624-simplified,Lens flare,0.5115696
+10643-simplified,Red,0.9733319
+10643-simplified,Fictional character,0.87658924
+10643-simplified,CG artwork,0.8047207
+10643-simplified,Costume,0.76319396
+10643-simplified,Cosplay,0.761635
+10643-simplified,Animation,0.7002848
+10643-simplified,Fiction,0.60273683
+10643-simplified,Demon,0.5578187
+10643-simplified,Goth subculture,0.5564082
+10688-simplified,Fictional character,0.8515042
+10688-simplified,Dog,0.8145932
+10688-simplified,CG artwork,0.8011402
+10688-simplified,Animation,0.8004914
+10688-simplified,Armour,0.73698586
+10688-simplified,Cloak,0.6697001
+10688-simplified,Canidae,0.6329203
+10688-simplified,Animated cartoon,0.62459445
+10688-simplified,Hero,0.61130226
+10688-simplified,Fiction,0.5854627
+10697-simplified,Fictional character,0.8130628
+10697-simplified,Game,0.81227934
+10697-simplified,Animation,0.8119012
+10697-simplified,Video Game Software,0.7633032
+10697-simplified,Animated cartoon,0.70239973
+10697-simplified,PC game,0.7017781
+10697-simplified,Graphics,0.58897805
+10716-simplified,Mountainous landforms,0.9715891
+10716-simplified,Rock,0.96414745
+10716-simplified,Natural landscape,0.94836915
+10716-simplified,Sunrise,0.945696
+10716-simplified,Orange,0.93879277
+10716-simplified,Sunset,0.9369464
+10716-simplified,Dusk,0.9208094
+10716-simplified,Reflection,0.90957534
+10716-simplified,Sun,0.9050898
+10716-simplified,Terrain,0.90070194
+10730-simplified,Apartment,0.82611483
+1076-simplified,Lips,0.9847882
+1076-simplified,Facial expression,0.9446822
+1076-simplified,Eyelash,0.9020024
+1076-simplified,Mask,0.8887788
+1076-simplified,Masque,0.68013984
+1076-simplified,Cosmetics,0.6615954
+1076-simplified,Portrait photography,0.61676496
+1076-simplified,Glitter,0.59371674
+1076-simplified,Lipstick,0.52501583
+1076-simplified,Eye shadow,0.52265936
+10766-simplified,Food,0.99310595
+10766-simplified,Ingredient,0.9519876
+10766-simplified,Recipe,0.8560066
+10766-simplified,Fast food,0.8368808
+10766-simplified,Finger food,0.7968456
+10766-simplified,Cooking,0.7478419
+10766-simplified,Culinary arts,0.73128855
+10766-simplified,Breakfast,0.70315486
+10766-simplified,Condiment,0.6998827
+10766-simplified,Comfort food,0.695572
+10785-simplified,Book,0.7867044
+10785-simplified,Publication,0.6372225
+10785-simplified,Still life photography,0.6295401
+1080-simplified,Science,0.5485557
+1081-simplified,Chordophone,0.9840419
+1081-simplified,Violin family,0.9822057
+1081-simplified,String instrument,0.97653127
+1081-simplified,Fiddle,0.94648033
+1081-simplified,Bowed string instrument,0.9408391
+1081-simplified,Violin,0.9121033
+1081-simplified,Folk instrument,0.89433277
+1081-simplified,Viola,0.8676559
+1081-simplified,Cello,0.86358696
+1081-simplified,Double bass,0.8552257
+10834-simplified,Night,0.93015426
+10834-simplified,Lighting,0.9173084
+10834-simplified,Neon,0.8799908
+10834-simplified,Electricity,0.86472726
+10834-simplified,Metropolis,0.81328636
+10834-simplified,Neon sign,0.7754047
+10834-simplified,Electronic signage,0.76997083
+10834-simplified,Midnight,0.74139637
+10881-simplified,Dinosaur,0.96878594
+10881-simplified,Statue,0.81669736
+10881-simplified,Extinction,0.8034915
+10881-simplified,Monument,0.7113904
+10881-simplified,Animation,0.6365078
+10881-simplified,Fictional character,0.58035004
+10881-simplified,Velociraptor,0.57346195
+10881-simplified,Cryptid,0.507584
+10926-simplified,Umbrella,0.8684943
+10926-simplified,Raincoat,0.8382403
+10926-simplified,Costume,0.69867104
+10926-simplified,Photo shoot,0.69310766
+10926-simplified,Model,0.66220057
+10926-simplified,Portrait photography,0.5717136
+10926-simplified,Red hair,0.5651682
+10982-simplified,Eyewear,0.9843555
+10982-simplified,Vision Care,0.9682886
+10982-simplified,Goggles,0.84919304
+10982-simplified,Beard,0.7094009
+10982-simplified,Sunglasses,0.69573146
+10982-simplified,Fictional character,0.67806727
+10982-simplified,Hero,0.56778836
+10982-simplified,Animation,0.5176854
+10984-simplified,Cat,0.995749
+10984-simplified,Felidae,0.9909775
+10984-simplified,Carnivores,0.9764137
+10984-simplified,Felinae,0.97026265
+10984-simplified,Vertebrate,0.9612351
+10984-simplified,Whiskers,0.9568785
+10984-simplified,Snout,0.91430825
+10984-simplified,Fur,0.89626384
+10984-simplified,Terrestrial animal,0.86982733
+10984-simplified,Paw,0.82291967
+11024-simplified,Branch,0.96795255
+11024-simplified,Petal,0.9560328
+11024-simplified,Pink,0.9435323
+11024-simplified,Tower,0.91078895
+11024-simplified,Blossom,0.89454573
+11024-simplified,Spring,0.847534
+11024-simplified,Twig,0.7966522
+11024-simplified,Cherry blossom,0.66887313
+11024-simplified,Spire,0.6375938
+11024-simplified,Prunus,0.54380214
+11037-simplified,Mountainous landforms,0.9848929
+11037-simplified,Nature,0.9771277
+11037-simplified,Natural landscape,0.9769164
+11037-simplified,Mountain,0.96951413
+11037-simplified,Mountain river,0.9595313
+11037-simplified,Hill,0.9516708
+11037-simplified,Mountain range,0.9320886
+11037-simplified,Cloud,0.92792386
+11037-simplified,Landscape,0.9231562
+11037-simplified,Wilderness,0.9174473
+11303-simplified,Photograph,0.9881029
+11303-simplified,Dress,0.97791535
+11303-simplified,Bride,0.97514826
+11303-simplified,Wedding dress,0.97197694
+11303-simplified,Gown,0.97145
+11303-simplified,Formal wear,0.9707131
+11303-simplified,Bridal Clothing,0.970616
+11303-simplified,Marriage,0.94889754
+11303-simplified,Happiness,0.9405698
+11303-simplified,Event,0.9261854
+11305-simplified,Produce,0.73303807
+11305-simplified,Winter squash,0.7271494
+11305-simplified,Squash,0.7239997
+11305-simplified,Pumpkin,0.6853843
+11305-simplified,Calabaza,0.67917883
+11305-simplified,Gourd,0.6600223
+11305-simplified,Vegetable,0.6373215
+11305-simplified,Natural foods,0.63410544
+11305-simplified,Still life photography,0.5906622
+11305-simplified,Lantern,0.5813394
+11344-simplified,Facial expression,0.9448967
+11344-simplified,Eyelash,0.8770741
+11344-simplified,Cartoon,0.84205174
+11344-simplified,Animation,0.84047705
+11344-simplified,Fictional character,0.8153486
+11344-simplified,Animated cartoon,0.7938989
+11344-simplified,CG artwork,0.76867175
+11344-simplified,Portrait,0.5760802
+11344-simplified,Fiction,0.5689603
+11344-simplified,Film,0.5581449
+11432-simplified,Pollinator,0.97832245
+11432-simplified,Insect,0.9739888
+11432-simplified,Butterfly,0.97338057
+11432-simplified,Arthropod,0.95621365
+11432-simplified,Wing,0.9457783
+11432-simplified,Lepidoptera,0.85967964
+11432-simplified,Brush-footed butterflies,0.61976343
+11432-simplified,Moth,0.5972154
+1155-simplified,Personal protective equipment,0.9382637
+1155-simplified,Helmet,0.9304064
+1155-simplified,Motorcycle helmet,0.83941424
+1155-simplified,Fictional character,0.7956429
+1155-simplified,Animation,0.7795272
+1155-simplified,Fiction,0.62254727
+1155-simplified,CG artwork,0.60407394
+1155-simplified,Suit actor,0.5540087
+11551-simplified,,
+11553-simplified,Primate,0.97326505
+11553-simplified,Toy,0.5066775
+11557-simplified,,
+1160-simplified,Green,0.98183733
+1160-simplified,Grass,0.97556144
+1160-simplified,Grassland,0.94863415
+1160-simplified,Summer,0.9468548
+1160-simplified,Dress,0.9289493
+1160-simplified,Field,0.921024
+1160-simplified,Rural area,0.91906613
+1160-simplified,Plain,0.9045259
+1160-simplified,Land lot,0.8959789
+1160-simplified,People in nature,0.8719159
+11614-simplified,Architecture,0.9293584
+11614-simplified,Arch,0.89780414
+11614-simplified,Palace,0.8419558
+11614-simplified,Classical architecture,0.769813
+11614-simplified,Column,0.7274383
+11614-simplified,Mansion,0.7173854
+11614-simplified,Floral design,0.5926962
+1164-simplified,,
+11674-simplified,,
+11678-simplified,,
+117-simplified,,
+11712-simplified,,
+11740-simplified,,
+11752-simplified,Residential area,0.9241617
+11752-simplified,Suburb,0.8138093
+11752-simplified,Animation,0.7193238
+11752-simplified,Cityscape,0.5247009
+11817-simplified,Running,0.95932984
+11817-simplified,Recreation,0.9388109
+11817-simplified,Jogging,0.89959806
+11817-simplified,Sports,0.82031614
+11817-simplified,Exercise,0.8199648
+11817-simplified,Athlete,0.76037246
+11817-simplified,Walking,0.66594553
+11817-simplified,Endurance sports,0.6439881
+11817-simplified,Reflection,0.6268095
+11817-simplified,Racing,0.6110401
+11883-simplified,,
+11906-simplified,Bird nest,0.8050029
+11906-simplified,Natural material,0.70959514
+11906-simplified,Still life photography,0.6258488
+11906-simplified,Nest,0.5612246
+11906-simplified,Erosion,0.53829724
+11947-simplified,Map,0.9698631
+11947-simplified,Orange,0.9142279
+11947-simplified,Technology,0.8917585
+11947-simplified,Display device,0.82276326
+11947-simplified,Electronics,0.71093434
+11947-simplified,Multimedia,0.6866236
+11947-simplified,Screenshot,0.68036187
+11947-simplified,Software,0.5960509
+11947-simplified,Gadget,0.57995075
+11947-simplified,Plan,0.54201996
+1195-simplified,Elephant,0.9221196
+1195-simplified,Dog,0.8795915
+1195-simplified,Carnivores,0.8775954
+1195-simplified,Wildlife,0.84209234
+1195-simplified,Terrestrial animal,0.7909486
+1195-simplified,Animation,0.7521178
+1195-simplified,African elephant,0.70910764
+1195-simplified,Savanna,0.6892046
+1195-simplified,Canidae,0.6379161
+1195-simplified,Tail,0.6176212
+11996-simplified,Lips,0.98479617
+11996-simplified,Skin,0.9803001
+11996-simplified,Red,0.9728488
+11996-simplified,Hairstyle,0.9701359
+11996-simplified,Eyelash,0.96995395
+11996-simplified,Beauty,0.9613072
+11996-simplified,Red hair,0.9526916
+11996-simplified,Facial expression,0.94463456
+11996-simplified,Wig,0.9042715
+11996-simplified,Portrait photography,0.89898235
+12009-simplified,Mansion,0.87820363
+12009-simplified,Classical architecture,0.70503634
+12009-simplified,Medieval architecture,0.701955
+12009-simplified,Night,0.6935497
+12009-simplified,Symmetry,0.6818331
+12009-simplified,Castle,0.681827
+12009-simplified,Palace,0.6797922
+12009-simplified,Evening,0.63563484
+12009-simplified,Dusk,0.63279134
+12009-simplified,Château,0.57434547
+12035-simplified,Astronaut,0.979497
+12035-simplified,Astronomical object,0.91064596
+12035-simplified,Outer space,0.82647216
+12035-simplified,Astronomy,0.7992201
+12035-simplified,Universe,0.7241669
+12035-simplified,Graphics,0.69046897
+12035-simplified,Animation,0.68045634
+12035-simplified,Night,0.6704908
+12035-simplified,Science,0.636958
+12035-simplified,Sphere,0.62765133
+1204-simplified,,
+12157-simplified,,
+12180-simplified,Orange,0.9543278
+12180-simplified,Arch,0.9527506
+12180-simplified,Sunset,0.8883276
+12180-simplified,Sunrise,0.8740027
+12180-simplified,Dusk,0.8689612
+12180-simplified,Afterglow,0.82373655
+12180-simplified,Red sky at morning,0.7767966
+12180-simplified,Evening,0.7477607
+12180-simplified,Triumphal arch,0.7467228
+12180-simplified,Dawn,0.71114635
+1219-simplified,Eyebrow,0.9855448
+1219-simplified,Skin,0.98051125
+1219-simplified,Beauty,0.9733398
+1219-simplified,Eyelash,0.9720462
+1219-simplified,Black hair,0.9541156
+1219-simplified,Fashion,0.94993764
+1219-simplified,Eye shadow,0.92670995
+1219-simplified,Black,0.9097329
+1219-simplified,Long hair,0.83190924
+1219-simplified,Eye liner,0.7992851
+12220-simplified,Chin,0.98860985
+12220-simplified,Facial hair,0.98812246
+12220-simplified,Cheek,0.98697215
+12220-simplified,Eyebrow,0.9860224
+12220-simplified,Forehead,0.98449075
+12220-simplified,Skin,0.98038936
+12220-simplified,Beard,0.9797304
+12220-simplified,Nose,0.9745318
+12220-simplified,Jaw,0.9739127
+12220-simplified,Moustache,0.95843035
+12244-simplified,Bird,0.99290496
+12244-simplified,Blue,0.9888033
+12244-simplified,Beak,0.9686739
+12244-simplified,Vertebrate,0.9626274
+12244-simplified,Wing,0.92395526
+12244-simplified,Feather,0.8817081
+12244-simplified,Parrot,0.8010569
+12244-simplified,Tail,0.6815893
+12244-simplified,Passerine,0.61218154
+12244-simplified,Still life photography,0.5737406
+12445-simplified,Armour,0.972137
+12445-simplified,Fictional character,0.932049
+12445-simplified,Knight,0.92317307
+12445-simplified,Action,0.88167894
+12445-simplified,CG artwork,0.8361335
+12445-simplified,Action figure,0.8039894
+12445-simplified,Breastplate,0.7970637
+12445-simplified,Action-adventure game,0.7774553
+12445-simplified,Sword,0.71316844
+12445-simplified,Costume,0.67774606
+12471-simplified,Underwater,0.78775626
+12483-simplified,Hardwood,0.77392924
+12483-simplified,Plank,0.69242305
+12483-simplified,Wood stain,0.65135497
+12483-simplified,Wood flooring,0.61598694
+12483-simplified,Fur,0.6143576
+12483-simplified,Natural foods,0.5407168
+12483-simplified,Vegetable,0.50552255
+12494-simplified,Beak,0.92715204
+12494-simplified,Bird,0.899237
+12494-simplified,Animation,0.8729294
+12494-simplified,Fictional character,0.830472
+12494-simplified,Cartoon,0.80560535
+12494-simplified,Animated cartoon,0.6977499
+12494-simplified,Landfowl,0.69638455
+12494-simplified,Chicken,0.637169
+12494-simplified,Phasianidae,0.6359795
+12494-simplified,Fiction,0.60630053
+12498-simplified,Ceiling,0.8316601
+12498-simplified,Symmetry,0.689085
+12498-simplified,Graphics,0.57305264
+12498-simplified,Science,0.5372811
+12498-simplified,Lens flare,0.5009503
+12533-simplified,Facial hair,0.96369743
+12533-simplified,Flame,0.93655217
+12533-simplified,Beard,0.9195642
+12533-simplified,Fire,0.85867184
+12533-simplified,Moustache,0.8005377
+12533-simplified,Heat,0.7365412
+12533-simplified,Candle,0.5233297
+12657-simplified,Dog,0.99547976
+12657-simplified,Carnivores,0.9352784
+12657-simplified,Pet Supply,0.90103644
+12657-simplified,Snout,0.8846553
+12657-simplified,Collar,0.8737853
+12657-simplified,Dog Clothes,0.86762595
+12657-simplified,Dog collar,0.84555155
+12657-simplified,Welsh Corgi,0.80706507
+12657-simplified,Working animal,0.80561775
+12657-simplified,Pembroke Welsh Corgi,0.7959259
+12675-simplified,Arch,0.9195821
+12675-simplified,Geological formation,0.8744657
+12675-simplified,Erosion,0.738598
+12675-simplified,Natural arch,0.66719764
+12675-simplified,Aeolian landform,0.6043621
+12675-simplified,Cave,0.5871337
+12675-simplified,Sand,0.5302472
+12705-simplified,Technology,0.8716538
+12705-simplified,Machine,0.8351405
+12705-simplified,Robot,0.83202225
+12705-simplified,Animation,0.7093108
+12705-simplified,Fictional character,0.6817397
+12705-simplified,Graphics,0.58816606
+12705-simplified,Action figure,0.5834406
+12705-simplified,Mecha,0.56269515
+12705-simplified,Shadow,0.527082
+12755-simplified,Orange,0.9498967
+12755-simplified,Dusk,0.9439935
+12755-simplified,Evening,0.8890165
+12755-simplified,Darkness,0.82650536
+12755-simplified,Electricity,0.8093222
+12755-simplified,Night,0.7965154
+12755-simplified,Sunrise,0.7653507
+12755-simplified,Heat,0.7558341
+12755-simplified,Sunset,0.73946655
+12755-simplified,Lens flare,0.704792
+12794-simplified,,
+12812-simplified,Field,0.92092717
+12812-simplified,Agriculture,0.89856917
+12812-simplified,Crop,0.8633855
+12812-simplified,Machine,0.8377689
+12812-simplified,Prairie,0.8001835
+12812-simplified,Steppe,0.770413
+12812-simplified,Farm,0.7166681
+12812-simplified,Robot,0.6713891
+12812-simplified,Harvest,0.6601406
+12812-simplified,Plantation,0.56670576
+12815-simplified,Game,0.78790647
+12815-simplified,Astronomical object,0.6968521
+12815-simplified,Outer space,0.68510026
+12815-simplified,Winter,0.6354234
+12815-simplified,Aerospace Engineering,0.59548914
+12815-simplified,Science,0.5839778
+12815-simplified,Digital compositing,0.57308453
+12815-simplified,Animation,0.57278293
+12815-simplified,Universe,0.56970316
+12815-simplified,Spacecraft,0.54220545
+1285-simplified,Animation,0.8882352
+1285-simplified,Fictional character,0.8751288
+1285-simplified,Animated cartoon,0.8483386
+1285-simplified,Cartoon,0.83790475
+1285-simplified,Toy,0.72236055
+1285-simplified,Film,0.7101638
+1285-simplified,Fiction,0.61102927
+1285-simplified,Digital compositing,0.53488755
+12871-simplified,Eyewear,0.9932048
+12871-simplified,Glasses,0.983218
+12871-simplified,Vision Care,0.98216146
+12871-simplified,Facial expression,0.944941
+12871-simplified,Facial hair,0.86638725
+12871-simplified,Moustache,0.7825143
+12871-simplified,Beard,0.6797201
+12871-simplified,Portrait photography,0.6367088
+12871-simplified,Wrinkle,0.50395346
+129-simplified,Head,0.9862465
+129-simplified,Nose,0.9745435
+129-simplified,Eye,0.9579534
+129-simplified,People in nature,0.8377446
+129-simplified,Long hair,0.8140075
+129-simplified,Cloak,0.7972415
+129-simplified,Mythology,0.6816645
+129-simplified,CG artwork,0.6651192
+129-simplified,Portrait,0.5864219
+129-simplified,Feathered hair,0.57765716
+12922-simplified,,
+12984-simplified,Fictional character,0.93308747
+12984-simplified,Animation,0.75389326
+12984-simplified,Snout,0.74836487
+12984-simplified,Costume,0.6913092
+12984-simplified,Fiction,0.5850993
+12984-simplified,Cryptid,0.5783314
+12984-simplified,Animated cartoon,0.5776665
+12984-simplified,Mythical creature,0.56209147
+12984-simplified,Mask,0.51423013
+12996-simplified,Armour,0.5705006
+12996-simplified,Science,0.56016374
+12996-simplified,Fictional character,0.54537344
+12996-simplified,Animation,0.5450408
+12996-simplified,Digital compositing,0.5258068
+13115-simplified,Horse,0.9612526
+13115-simplified,Horse tack,0.87235737
+13115-simplified,Armour,0.84655505
+13115-simplified,CG artwork,0.8142734
+13115-simplified,Fictional character,0.8081884
+13115-simplified,Rein,0.80349946
+13115-simplified,Working animal,0.79358906
+13115-simplified,Mythology,0.7932702
+13115-simplified,Horse Supplies,0.77004975
+13115-simplified,Animation,0.76269567
+13118-simplified,Technology,0.859917
+13118-simplified,Display device,0.7563578
+13118-simplified,Graphic design,0.6837673
+13118-simplified,Learning,0.6326542
+13118-simplified,Gadget,0.59466386
+13118-simplified,Multimedia,0.5933364
+13118-simplified,Graphics,0.58491206
+13118-simplified,Diagram,0.528408
+13167-simplified,Facial hair,0.99197364
+13167-simplified,Beard,0.9904204
+13167-simplified,Moustache,0.98124385
+13167-simplified,Wrinkle,0.96087235
+13167-simplified,Temple,0.9580573
+13167-simplified,Facial expression,0.94466305
+13167-simplified,Portrait photography,0.86592525
+13167-simplified,Prophet,0.6988766
+13167-simplified,Flesh,0.6926657
+13167-simplified,Elder,0.6138761
+13184-simplified,Red,0.97722703
+13184-simplified,Orange,0.89059067
+13184-simplified,Fictional character,0.8826517
+13184-simplified,Mythical creature,0.84705293
+13184-simplified,Dragon,0.8417212
+13184-simplified,Mythology,0.7506611
+13184-simplified,Graphics,0.57358396
+13184-simplified,Graphic design,0.5095445
+13213-simplified,,
+1324-simplified,Cartoon,0.8207731
+1324-simplified,Fictional character,0.7999833
+1324-simplified,Animation,0.7800021
+1324-simplified,Animated cartoon,0.74922115
+1324-simplified,Happiness,0.5493962
+13263-simplified,Green,0.97388726
+13263-simplified,Petal,0.9701251
+13263-simplified,Aquatic plant,0.9529486
+13263-simplified,Lotus,0.8375441
+13263-simplified,Reflection,0.7527909
+13263-simplified,Pond,0.72669566
+13263-simplified,Plant stem,0.7218912
+13263-simplified,Nelumbonaceae,0.72118485
+13263-simplified,Water lilies,0.6977763
+13263-simplified,Fragrant water-lily,0.6871601
+13267-simplified,Cat,0.96359247
+13267-simplified,Whiskers,0.9139317
+13267-simplified,Carnivores,0.89904344
+13267-simplified,Felidae,0.89383405
+13267-simplified,Felinae,0.8895601
+13267-simplified,Cartoon,0.87900954
+13267-simplified,Snout,0.87843794
+13267-simplified,Toy,0.8237555
+13267-simplified,Animated cartoon,0.8173943
+13267-simplified,Animation,0.8103474
+13280-simplified,Blue,0.9894413
+13280-simplified,Eyebrow,0.9858071
+13280-simplified,Lips,0.9847942
+13280-simplified,Eyelash,0.97967935
+13280-simplified,Beauty,0.9724692
+13280-simplified,Hairstyle,0.9703606
+13280-simplified,Fashion,0.9610993
+13280-simplified,Neck,0.95628285
+13280-simplified,Eye,0.95048904
+13280-simplified,Eye shadow,0.9422872
+13283-simplified,Facial hair,0.95379835
+13283-simplified,Hat,0.9438153
+13283-simplified,Beard,0.88017064
+13283-simplified,Sun hat,0.8526981
+13283-simplified,Cowboy hat,0.82914555
+13283-simplified,Moustache,0.8149433
+13283-simplified,Fedora,0.7705778
+13283-simplified,Film,0.5918444
+13283-simplified,Costume Hat,0.5812773
+13283-simplified,Fictional character,0.5525204
+13328-simplified,History,0.88968885
+13328-simplified,Battle,0.772413
+13328-simplified,Rebellion,0.7218112
+13328-simplified,Troop,0.63641566
+13328-simplified,Conquistador,0.6250371
+13328-simplified,Grenadier,0.5551987
+13328-simplified,Cossack,0.55178666
+13328-simplified,Spear,0.5442301
+13328-simplified,Middle Ages,0.53606755
+13328-simplified,Art Paint,0.52837247
+1334-simplified,Fictional character,0.913089
+1334-simplified,Cartoon,0.8777097
+1334-simplified,Animation,0.8532517
+1334-simplified,Animated cartoon,0.7968532
+1334-simplified,CG artwork,0.7822591
+1334-simplified,Anime,0.73334
+1334-simplified,Fiction,0.5774041
+13374-simplified,Barechestedness,0.8670166
+13374-simplified,Muscle,0.8389844
+13374-simplified,CG artwork,0.8003916
+13374-simplified,Fictional character,0.755622
+13374-simplified,Animation,0.75516164
+13374-simplified,Thorax,0.7334399
+13374-simplified,Flesh,0.6428641
+13374-simplified,Animated cartoon,0.6233377
+13374-simplified,Mythology,0.62266344
+13374-simplified,Film,0.5934904
+13502-simplified,Beauty,0.95291
+13502-simplified,Long hair,0.8322036
+13502-simplified,Headpiece,0.7487206
+13502-simplified,CG artwork,0.73182863
+13502-simplified,Film,0.7195104
+13502-simplified,Costume,0.7189668
+13502-simplified,Tradition,0.65315944
+13502-simplified,Makeover,0.5607613
+13502-simplified,Model,0.5558833
+13502-simplified,Fashion Model,0.5522922
+13570-simplified,Lens flare,0.6879151
+13570-simplified,Graphics,0.625151
+13570-simplified,Graphic design,0.5409664
+13648-simplified,Dog,0.99548984
+13648-simplified,Vertebrate,0.9592998
+13648-simplified,Carnivores,0.9453682
+13648-simplified,Snout,0.91765815
+13648-simplified,Fur,0.8438097
+13648-simplified,Working animal,0.7826049
+13648-simplified,Canidae,0.752409
+13648-simplified,Whiskers,0.70382035
+13648-simplified,Pet Supply,0.6732971
+13648-simplified,Tongue,0.65506655
+13651-simplified,Commercial building,0.8240856
+13651-simplified,Tourist attraction,0.81898254
+13651-simplified,Dome,0.71626675
+13651-simplified,Cityscape,0.64230865
+13651-simplified,Evening,0.64083034
+13651-simplified,Hotel,0.62173975
+13651-simplified,Headquarters,0.57900894
+13651-simplified,Town square,0.56065303
+13651-simplified,Night,0.5600244
+13651-simplified,Dusk,0.55775595
+13699-simplified,Orange,0.9199783
+13699-simplified,Plastic,0.7434562
+13699-simplified,Toy,0.7134051
+13699-simplified,Figurine,0.50287855
+13812-simplified,atmospheric phenomenon,0.9510414
+13812-simplified,Moonlight,0.9012753
+13812-simplified,Moon,0.90126634
+13812-simplified,Astronomical object,0.8947232
+13812-simplified,Mist,0.83447117
+13812-simplified,Darkness,0.8336195
+13812-simplified,Fog,0.815714
+13812-simplified,Evening,0.77768904
+13812-simplified,Midnight,0.769575
+13812-simplified,Night,0.7534661
+13814-simplified,Costume,0.8595446
+13814-simplified,Fictional character,0.7921564
+13814-simplified,Mascot,0.7581203
+13814-simplified,Toy,0.75521326
+13814-simplified,Fur,0.7034033
+13814-simplified,Costume design,0.66311496
+13814-simplified,Mask,0.64206666
+13814-simplified,Suit actor,0.61415356
+13814-simplified,Cosplay,0.5932292
+13814-simplified,Animation,0.5424852
+13832-simplified,Chin,0.988589
+13832-simplified,Nose,0.974972
+13832-simplified,Wrinkle,0.96861595
+13832-simplified,Temple,0.95961004
+13832-simplified,Eye,0.95269674
+13832-simplified,Facial expression,0.9448971
+13832-simplified,Portrait photography,0.8551939
+13832-simplified,Facial hair,0.79455084
+13832-simplified,Moustache,0.7636276
+13832-simplified,Portrait,0.7227728
+13882-simplified,,
+13887-simplified,Lighting,0.91698855
+13887-simplified,Electricity,0.83607775
+13887-simplified,Evening,0.7563223
+13887-simplified,Night,0.74903816
+13887-simplified,Electronic signage,0.74305487
+13887-simplified,Electrical Supply,0.61160505
+13887-simplified,Dusk,0.52442926
+13906-simplified,Train,0.9880331
+13906-simplified,Mode of transport,0.9869344
+13906-simplified,Transport,0.9808962
+13906-simplified,Rolling stock,0.96635586
+13906-simplified,Winter,0.92834103
+13906-simplified,Rail transport,0.9279992
+13906-simplified,Electricity,0.90866613
+13906-simplified,Snow,0.9074756
+13906-simplified,Headlamp,0.90238255
+13906-simplified,Public transport,0.8968452
+1392-simplified,Food,0.9821123
+1392-simplified,Ingredient,0.9128035
+1392-simplified,Recipe,0.8106168
+1392-simplified,Cooking,0.8085322
+1392-simplified,Condiment,0.80356294
+1392-simplified,Brochette,0.7988942
+1392-simplified,Meat,0.7629775
+1392-simplified,Side dish,0.7107623
+1392-simplified,Finger food,0.7002336
+1392-simplified,Culinary arts,0.69414425
+13936-simplified,Art,0.9194029
+13936-simplified,Visual arts,0.8995332
+13936-simplified,Painting,0.8334199
+13936-simplified,Portrait,0.77928513
+13936-simplified,Modern art,0.7523634
+13936-simplified,Art Paint,0.70658046
+13936-simplified,Paint,0.69677454
+13936-simplified,Self-portrait,0.66697395
+13936-simplified,Picture frame,0.55840755
+1394-simplified,Red,0.9778094
+1394-simplified,Ribbon,0.9124093
+1394-simplified,Gift wrapping,0.91050756
+1394-simplified,Gift,0.88441384
+1394-simplified,Pink,0.8795164
+1394-simplified,Box,0.64516795
+1394-simplified,Packaging and labeling,0.5617554
+1394-simplified,Party Supply,0.5444025
+1394-simplified,Party favor,0.5285303
+1394-simplified,Love,0.50613296
+13981-simplified,Baseball,0.9173157
+13981-simplified,Bat-and-ball games,0.90436274
+13981-simplified,Baseball field,0.8897543
+13981-simplified,Sports venue,0.8419721
+13981-simplified,Game,0.8002253
+13981-simplified,Logo,0.78352684
+13981-simplified,Baseball park,0.75099194
+13981-simplified,Stadium,0.73762167
+13981-simplified,College baseball,0.71924907
+13981-simplified,Baseball positions,0.6972387
+13995-simplified,Number,0.7893735
+13995-simplified,Neon,0.76009923
+13995-simplified,Night,0.66084313
+13995-simplified,Graphics,0.6125718
+13995-simplified,Neon sign,0.54901135
+14017-simplified,Happiness,0.97205245
+14017-simplified,Smile,0.9678033
+14017-simplified,Facial expression,0.9448744
+14017-simplified,Orange,0.9429152
+14017-simplified,Formal wear,0.92118514
+14017-simplified,White-collar worker,0.9077166
+14017-simplified,Advertising,0.8676917
+14017-simplified,Dress shirt,0.8128203
+14017-simplified,Logo,0.72639316
+14017-simplified,Businessperson,0.7170069
+14028-simplified,Cheek,0.98682535
+14028-simplified,Head,0.9858948
+14028-simplified,Skin,0.9807862
+14028-simplified,Child,0.9569674
+14028-simplified,Eye,0.952016
+14028-simplified,Finger,0.9335988
+14028-simplified,Eyelash,0.92604256
+14028-simplified,Iris,0.90613765
+14028-simplified,Blond,0.896653
+14028-simplified,Toddler,0.8931502
+14040-simplified,Bird,0.9861265
+14040-simplified,Crows,0.9639578
+14040-simplified,American crow,0.924801
+14040-simplified,Crow family,0.8997903
+14040-simplified,Beak,0.8989206
+14040-simplified,Common raven,0.84412277
+14040-simplified,Raven,0.83933014
+14040-simplified,Fish crow,0.8217269
+14040-simplified,Moon,0.80793154
+14040-simplified,New Caledonian crow,0.80064714
+14046-simplified,Wall,0.9754951
+14046-simplified,Flooring,0.94843876
+14046-simplified,Floor,0.927598
+14046-simplified,Lighting,0.92658186
+14046-simplified,Ceiling,0.9255416
+14046-simplified,Door,0.88830453
+14046-simplified,Light fixture,0.7879477
+14046-simplified,Glass,0.74340594
+14046-simplified,Symmetry,0.70593554
+14046-simplified,Cleanliness,0.6085589
+14088-simplified,Cat,0.9928446
+14088-simplified,Felidae,0.9808831
+14088-simplified,Felinae,0.96373785
+14088-simplified,Carnivores,0.9509276
+14088-simplified,Whiskers,0.9358998
+14088-simplified,Black cat,0.8508656
+14088-simplified,Fur,0.7871817
+14088-simplified,Snout,0.76243865
+14088-simplified,Domestic short-haired cat,0.58113694
+14100-simplified,,
+14105-simplified,Dog,0.99425954
+14105-simplified,Flower,0.98981917
+14105-simplified,Petal,0.976179
+14105-simplified,Yellow,0.9746006
+14105-simplified,Puppy,0.93041104
+14105-simplified,Working animal,0.8587364
+14105-simplified,Snout,0.8570808
+14105-simplified,Carnivores,0.8446735
+14105-simplified,Retriever,0.7984151
+14105-simplified,Canidae,0.758486
+14112-simplified,Fictional character,0.7723911
+14112-simplified,Toy,0.70602834
+14112-simplified,Flesh,0.60009307
+14112-simplified,Action figure,0.55167466
+1413-simplified,Fungus,0.96855974
+1413-simplified,Mushroom,0.9607028
+1413-simplified,Agaric,0.8185145
+1413-simplified,Animation,0.7899862
+1413-simplified,Fictional character,0.74626166
+1413-simplified,Agaricaceae,0.7312908
+1413-simplified,Lawn ornament,0.6726651
+1413-simplified,Animated cartoon,0.6164672
+1413-simplified,Toy,0.59649223
+1413-simplified,Agaricomycetes,0.5898767
+14162-simplified,Technology,0.8671718
+14162-simplified,Machine,0.8399309
+14162-simplified,Robot,0.81457
+14162-simplified,Fictional character,0.7664647
+14162-simplified,Animation,0.69132066
+14162-simplified,Headphones,0.6352384
+14162-simplified,CG artwork,0.5847473
+14162-simplified,Fiction,0.55329406
+14206-simplified,Fictional character,0.8961047
+14206-simplified,Cartoon,0.8254098
+14206-simplified,Animation,0.825147
+14206-simplified,CG artwork,0.6761759
+14206-simplified,Hero,0.66899616
+14206-simplified,Animated cartoon,0.6423826
+14206-simplified,Anime,0.565056
+14206-simplified,Fiction,0.559401
+1424-simplified,Bird,0.97314453
+1424-simplified,Turkey,0.9703376
+1424-simplified,Wild turkey,0.96659017
+1424-simplified,Phasianidae,0.94175655
+1424-simplified,Landfowl,0.92197645
+1424-simplified,Beak,0.9173199
+1424-simplified,Black,0.9079648
+1424-simplified,Feather,0.8198978
+1424-simplified,Claw,0.55557746
+1424-simplified,Fowl,0.513571
+14254-simplified,Insect,0.9892184
+14254-simplified,Arthropod,0.9766229
+14254-simplified,Yellow,0.9613865
+14254-simplified,Close-up,0.9331768
+14254-simplified,Macro photography,0.91171646
+14254-simplified,Pest,0.9079822
+14254-simplified,Pollinator,0.74304736
+14254-simplified,Hymenopterans,0.7154352
+14254-simplified,Ant,0.64946413
+14254-simplified,Parasitism,0.6364219
+14297-simplified,Sculpture,0.9779737
+14297-simplified,Statue,0.9710216
+14297-simplified,Art,0.9316583
+14297-simplified,Bronze sculpture,0.8205817
+14297-simplified,Artifact,0.7789566
+14297-simplified,Bronze,0.7003779
+14297-simplified,Figurine,0.66526663
+14297-simplified,Classical sculpture,0.64534754
+14297-simplified,Antique,0.6407343
+14297-simplified,Collectable,0.6224803
+14364-simplified,Red sky at morning,0.91207266
+14364-simplified,Orange,0.8795664
+14364-simplified,Sunrise,0.8708124
+14364-simplified,Sunset,0.8351061
+14364-simplified,Fictional character,0.8278421
+14364-simplified,Afterglow,0.82726836
+14364-simplified,Dusk,0.80090326
+14364-simplified,CG artwork,0.78011405
+14364-simplified,Animation,0.76578665
+14364-simplified,Dawn,0.7566089
+14367-simplified,Logo,0.7604978
+14367-simplified,Graphics,0.69224983
+14367-simplified,Graphic design,0.67258
+14376-simplified,Astronaut,0.857449
+14376-simplified,Astronomical object,0.8000471
+14376-simplified,Outer space,0.73978156
+14376-simplified,Universe,0.68890053
+14376-simplified,Star,0.6203952
+14376-simplified,Astronomy,0.61009717
+14376-simplified,Graphics,0.60000587
+14376-simplified,Science,0.58653164
+14376-simplified,Animation,0.5267862
+14376-simplified,Fiction,0.5203854
+14387-simplified,Facial hair,0.8320574
+14387-simplified,Game,0.7668444
+14387-simplified,Beard,0.75051236
+14387-simplified,Poster,0.736835
+14387-simplified,Graphic design,0.73594344
+14387-simplified,Animation,0.7243172
+14387-simplified,Graphics,0.6854548
+14387-simplified,Video Game Software,0.6834498
+14387-simplified,Design,0.66818553
+14387-simplified,Film,0.6533378
+14407-simplified,Toy,0.91497135
+14407-simplified,Robot,0.91044575
+14407-simplified,Armour,0.9037335
+14407-simplified,Technology,0.88920414
+14407-simplified,Fictional character,0.85533094
+14407-simplified,Machine,0.8481932
+14407-simplified,Action figure,0.78986925
+14407-simplified,Mecha,0.7864002
+14407-simplified,Fiction,0.66741693
+14407-simplified,Action,0.6027688
+14476-simplified,Night,0.59190375
+14478-simplified,Musical instrument,0.99355674
+14478-simplified,String instrument,0.99066603
+14478-simplified,Plucked string instrument,0.99
+14478-simplified,Chordophone,0.9855277
+14478-simplified,Guitarist,0.983271
+14478-simplified,Guitar,0.98285425
+14478-simplified,Performing Arts,0.9749673
+14478-simplified,Entertainment,0.9739966
+14478-simplified,Music,0.97156215
+14478-simplified,Performance,0.9684737
+14484-simplified,Red,0.9737845
+14484-simplified,Bone,0.96693915
+14484-simplified,Yellow,0.959486
+14484-simplified,Orange,0.95722115
+14484-simplified,Neck,0.95614415
+14484-simplified,Active Shirt,0.9233082
+14484-simplified,Skull,0.89834046
+14484-simplified,Flame,0.850193
+14484-simplified,Fire,0.78355354
+14484-simplified,Symbol,0.68234754
+14550-simplified,Motorcycle,0.99068356
+14550-simplified,Automotive lighting,0.9840977
+14550-simplified,Automotive Tire,0.97651005
+14550-simplified,Motor vehicle,0.97624403
+14550-simplified,Red,0.97592133
+14550-simplified,Fuel tank,0.974181
+14550-simplified,Wheel,0.97280586
+14550-simplified,Spoke,0.9614741
+14550-simplified,Automotive Wheel System,0.9567924
+14550-simplified,Automotive Exterior,0.9550775
+14579-simplified,Blue,0.9890651
+14579-simplified,Crystal,0.9113076
+14579-simplified,Quartz,0.8921593
+14579-simplified,Gemstone,0.88920474
+14579-simplified,Mineral,0.86458147
+14579-simplified,Natural material,0.8499771
+14579-simplified,Chemical compound,0.55082357
+1460-simplified,Superhero,0.98746365
+1460-simplified,Fictional character,0.9553743
+1460-simplified,Iron Man,0.93589586
+1460-simplified,Hero,0.8966513
+1460-simplified,Avengers,0.88648874
+1460-simplified,Action,0.87830055
+1460-simplified,Armour,0.8501172
+1460-simplified,Film,0.82469004
+1460-simplified,Costume,0.8219833
+1460-simplified,Animation,0.7770075
+1473-simplified,Map,0.9869035
+1473-simplified,Atlas,0.8945618
+1479-simplified,Blue,0.9884005
+1479-simplified,Technology,0.880314
+1479-simplified,Lens flare,0.80603534
+1479-simplified,Engineering,0.7473134
+1479-simplified,Symmetry,0.722262
+1479-simplified,Science,0.5341776
+1510-simplified,Fruit,0.96860343
+1510-simplified,Citrus,0.9186778
+1510-simplified,Natural foods,0.9082556
+1510-simplified,Orange,0.8875781
+1510-simplified,Produce,0.86264086
+1510-simplified,Ingredient,0.84057385
+1510-simplified,Sphere,0.8178356
+1510-simplified,Food,0.7705303
+1510-simplified,Bitter orange,0.7397693
+1510-simplified,Valencia orange,0.7375283
+1512-simplified,Vertebrate,0.9607283
+1512-simplified,Giraffe,0.9126972
+1512-simplified,Giraffids,0.89445513
+1512-simplified,Turtle,0.8537435
+1512-simplified,Terrestrial animal,0.8104169
+1512-simplified,Tortoise,0.7900461
+1512-simplified,Wildlife,0.758127
+1512-simplified,Snout,0.7182662
+1512-simplified,Bird,0.6861415
+1512-simplified,Reptile,0.5843321
+1545-simplified,Food,0.9716899
+1545-simplified,Hamburger,0.95318246
+1545-simplified,Ingredient,0.936954
+1545-simplified,Veggie burger,0.9289825
+1545-simplified,Buffalo burger,0.91809446
+1545-simplified,Bun,0.90470475
+1545-simplified,Cheeseburger,0.8744837
+1545-simplified,Sandwich,0.81891984
+1545-simplified,Finger food,0.748525
+1545-simplified,Fast food,0.7424006
+1562-simplified,Boat,0.9747309
+1562-simplified,Watercraft,0.96348757
+1562-simplified,Yacht,0.9358392
+1562-simplified,Superyacht,0.905582
+1562-simplified,Naval architecture,0.87839216
+1562-simplified,Ship,0.8550386
+1562-simplified,Ocean,0.7306238
+1562-simplified,Water transportation,0.59707034
+1562-simplified,Royal yacht,0.5854021
+1562-simplified,Passenger ship,0.5007263
+1566-simplified,Technology,0.88238853
+1566-simplified,Machine,0.8458352
+1566-simplified,Fictional character,0.8036301
+1566-simplified,Robot,0.77902067
+1566-simplified,Fiction,0.596817
+1566-simplified,Toy,0.5606209
+1566-simplified,Science,0.5460818
+1576-simplified,Yoda,0.98924047
+1576-simplified,Fictional character,0.9585753
+1576-simplified,Superhero,0.93466586
+1576-simplified,Fiction,0.64111394
+1576-simplified,Mask,0.63657254
+1576-simplified,Animation,0.54581964
+1647-simplified,Audio equipment,0.9858024
+1647-simplified,Gadget,0.9503093
+1647-simplified,Headphones,0.94055
+1647-simplified,Electronic device,0.9222898
+1647-simplified,Technology,0.8391193
+1647-simplified,Headset,0.5406296
+1677-simplified,Game,0.77039886
+1677-simplified,Evening,0.7613301
+1677-simplified,Animation,0.7563716
+1677-simplified,Dusk,0.7461799
+1677-simplified,Alley,0.6776124
+1677-simplified,CG artwork,0.6765723
+1677-simplified,Cityscape,0.5925624
+1677-simplified,Digital compositing,0.5852835
+1677-simplified,PC game,0.58515006
+1677-simplified,Fictional character,0.58407855
+1718-simplified,Night,0.8377425
+1718-simplified,Mythology,0.8040025
+1718-simplified,Holy places,0.79863554
+1718-simplified,Religious Item,0.70916027
+1718-simplified,Blessing,0.59804356
+1718-simplified,Shrine,0.55117935
+1762-simplified,Dinosaur,0.93050534
+1762-simplified,Landmark,0.92232645
+1762-simplified,Tourist attraction,0.8809429
+1762-simplified,Amusement ride,0.84209436
+1762-simplified,Terrestrial animal,0.78823614
+1762-simplified,Night,0.75039697
+1762-simplified,List of nonbuilding structure types,0.7167371
+1762-simplified,Ferris wheel,0.7113396
+1762-simplified,Amusement park,0.7060305
+1762-simplified,Park,0.63451016
+1782-simplified,Motor vehicle,0.97080934
+1782-simplified,Automotive lighting,0.95905256
+1782-simplified,Car,0.93089956
+1782-simplified,Headlamp,0.87693983
+1782-simplified,Classic car,0.86551976
+1782-simplified,Hood,0.85386825
+1782-simplified,Fender,0.84215397
+1782-simplified,Automotive Wheel System,0.82924044
+1782-simplified,Antique car,0.8258501
+1782-simplified,Vintage car,0.7874742
+1809-simplified,Machine,0.82577324
+1809-simplified,Robot,0.81239414
+1809-simplified,Fictional character,0.77433944
+1809-simplified,Action figure,0.6602078
+1809-simplified,Toy,0.6306776
+1809-simplified,Animation,0.5547832
+1809-simplified,Fiction,0.5404885
+1852-simplified,Flame,0.9807179
+1852-simplified,Fire,0.9676163
+1852-simplified,Heat,0.9335149
+1852-simplified,Lighting,0.9109586
+1852-simplified,Orange,0.9011535
+1852-simplified,Darkness,0.8442943
+1852-simplified,Night,0.76027954
+1852-simplified,Still life photography,0.6473256
+1852-simplified,Oil lamp,0.5873726
+1884-simplified,Armour,0.98044175
+1884-simplified,Personal protective equipment,0.9488439
+1884-simplified,Fictional character,0.93314767
+1884-simplified,Helmet,0.92405474
+1884-simplified,Action,0.89973706
+1884-simplified,Cuirass,0.85354435
+1884-simplified,Machine,0.8356394
+1884-simplified,Hero,0.8330523
+1884-simplified,Robot,0.8285049
+1884-simplified,CG artwork,0.8184702
+1935-simplified,Armour,0.9441481
+1935-simplified,Fictional character,0.9411798
+1935-simplified,CG artwork,0.88747066
+1935-simplified,Cartoon,0.8255157
+1935-simplified,Purple,0.81405264
+1935-simplified,Animation,0.7546154
+1935-simplified,Anime,0.69961214
+1935-simplified,Graphics,0.6679882
+1935-simplified,Blade,0.66414183
+1935-simplified,Supernatural creature,0.5877471
+1937-simplified,Fictional character,0.93371165
+1937-simplified,Armour,0.9331317
+1937-simplified,Robot,0.8723047
+1937-simplified,Technology,0.85872227
+1937-simplified,Machine,0.84211487
+1937-simplified,Mecha,0.71525437
+1937-simplified,Animation,0.63171387
+1937-simplified,Fiction,0.61045605
+1937-simplified,Action figure,0.6040866
+1937-simplified,Digital compositing,0.5641651
+1947-simplified,Fictional character,0.9444267
+1947-simplified,Dragon,0.94161856
+1947-simplified,Mythical creature,0.9383151
+1947-simplified,Wing,0.89812857
+1947-simplified,CG artwork,0.8561046
+1947-simplified,Mythology,0.8345066
+1947-simplified,Cryptid,0.77961147
+1947-simplified,Animation,0.7120678
+1947-simplified,Extinction,0.7108728
+1947-simplified,Graphics,0.5892655
+1960-simplified,Overcoat,0.7285263
+1960-simplified,Lens flare,0.60737133
+1960-simplified,Duster,0.5701192
+1960-simplified,Shadow,0.5521103
+1965-simplified,Cartoon,0.88594836
+1965-simplified,Rodent,0.8853172
+1965-simplified,Animated cartoon,0.8341531
+1965-simplified,Animation,0.83139753
+1965-simplified,Squirrel,0.8168799
+1965-simplified,Fictional character,0.80090654
+1965-simplified,CG artwork,0.75267047
+1965-simplified,Graphics,0.70820767
+1965-simplified,Leporids,0.593151
+1965-simplified,Rabbit,0.551514
+1968-simplified,Mountainous landforms,0.98514473
+1968-simplified,Mountain,0.97911125
+1968-simplified,Hill,0.9671228
+1968-simplified,Highland,0.9463935
+1968-simplified,atmospheric phenomenon,0.9314229
+1968-simplified,Horizon,0.9259446
+1968-simplified,Ecoregion,0.9235645
+1968-simplified,Hill station,0.92099553
+1968-simplified,Mountain range,0.9122312
+1968-simplified,Dusk,0.87300354
+1980-simplified,Fictional character,0.89903307
+1980-simplified,Game,0.7530911
+1980-simplified,Animation,0.7124375
+1980-simplified,Mask,0.59943885
+1980-simplified,PC game,0.5727813
+1980-simplified,Fiction,0.56352323
+1980-simplified,Digital compositing,0.5097371
+1980-simplified,CG artwork,0.50785595
+1980-simplified,Armour,0.50408244
+2-simplified,Horse,0.8950925
+2-simplified,Astronaut,0.7086304
+2-simplified,Horse Supplies,0.69204754
+2-simplified,Astronomical object,0.66879153
+2-simplified,Horse tack,0.6293914
+2-simplified,Fiction,0.520815
+2-simplified,Astronomy,0.5058127
+2010-simplified,Water,0.9817467
+2010-simplified,Sea,0.95370835
+2010-simplified,Fluid,0.9527182
+2010-simplified,Cloud,0.94524306
+2010-simplified,Wave,0.9345335
+2010-simplified,Ocean,0.9202
+2010-simplified,Wind wave,0.89303213
+2010-simplified,Coastal and oceanic landforms,0.87941754
+2010-simplified,Coast,0.8583014
+2010-simplified,Wind,0.8242115
+2072-simplified,Blue,0.98860687
+2072-simplified,Camouflage,0.55681497
+21-simplified,Technology,0.87563133
+21-simplified,Robot,0.86958045
+21-simplified,Machine,0.8463413
+21-simplified,Toy,0.62895864
+21-simplified,Science,0.5723301
+2107-simplified,Nature,0.9737684
+2107-simplified,Forest,0.95150006
+2107-simplified,Trunk,0.8719929
+2107-simplified,Jungle,0.8606512
+2107-simplified,Woody plant,0.83620566
+2107-simplified,Old-growth forest,0.8265989
+2107-simplified,Woodland,0.74555165
+2107-simplified,Rainforest,0.7231528
+2107-simplified,Valdivian temperate rain forest,0.70076495
+2107-simplified,Giant sequoia,0.69665
+2137-simplified,Toy,0.6398685
+2139-simplified,Yellow,0.96174496
+2139-simplified,Toy,0.7276633
+2139-simplified,Happiness,0.7092869
+2230-simplified,Fictional character,0.8487357
+2230-simplified,Costume,0.7520295
+2230-simplified,Cloak,0.70391726
+2230-simplified,Film,0.64055175
+2230-simplified,Animation,0.5985697
+2230-simplified,Hood,0.5706345
+2230-simplified,Cape,0.5087957
+2319-simplified,,
+2326-simplified,,
+2352-simplified,Crystal,0.95197994
+2352-simplified,Gemstone,0.94925493
+2352-simplified,Quartz,0.9372904
+2352-simplified,Mineral,0.88443834
+2352-simplified,Natural material,0.8516955
+2352-simplified,Emerald,0.79995096
+2352-simplified,Jade,0.5822975
+2352-simplified,Still life photography,0.57889503
+2356-simplified,Machine,0.83587795
+2356-simplified,Mecha,0.695669
+2356-simplified,Robot,0.62207407
+2356-simplified,Digital compositing,0.5871449
+2356-simplified,Science,0.5601215
+2356-simplified,PC game,0.53037804
+2356-simplified,3D modeling,0.5124879
+2356-simplified,Fictional character,0.51117647
+2366-simplified,Bird,0.9890288
+2366-simplified,Owl,0.9870291
+2366-simplified,Bird of prey,0.96560097
+2366-simplified,Vertebrate,0.9611608
+2366-simplified,Great horned owl,0.90263516
+2366-simplified,Screech owl,0.900042
+2366-simplified,Wildlife,0.8436297
+2366-simplified,Beak,0.8430594
+2366-simplified,Eastern screech owl,0.72997534
+2366-simplified,Feather,0.67026174
+2369-simplified,Volcanic landform,0.9705187
+2369-simplified,Volcano,0.97039574
+2369-simplified,geological phenomenon,0.9484647
+2369-simplified,Types of volcanic eruptions,0.947715
+2369-simplified,Orange,0.93903565
+2369-simplified,Lava dome,0.93050283
+2369-simplified,Cloud,0.9209977
+2369-simplified,Volcanic field,0.9055978
+2369-simplified,Lava,0.89275247
+2369-simplified,Stratovolcano,0.872955
+2386-simplified,,
+2393-simplified,Galaxy,0.97703934
+2393-simplified,Outer space,0.97360027
+2393-simplified,Spiral,0.96747935
+2393-simplified,Astronomical object,0.9593044
+2393-simplified,Spiral galaxy,0.9524955
+2393-simplified,Astronomy,0.947869
+2393-simplified,Universe,0.94728583
+2393-simplified,Milky Way,0.81676215
+2393-simplified,Nebula,0.8056658
+2393-simplified,Star,0.7909497
+2420-simplified,Engineering,0.7442987
+2420-simplified,Train,0.6764384
+2420-simplified,Track,0.6635423
+2420-simplified,Rolling stock,0.6554857
+2420-simplified,Rolling,0.6490773
+2420-simplified,Rail transport,0.6341802
+2420-simplified,Steel,0.58740366
+2462-simplified,Outer space,0.9719843
+2462-simplified,Galaxy,0.9639891
+2462-simplified,Astronomical object,0.943722
+2462-simplified,Universe,0.94292945
+2462-simplified,Astronomy,0.9247175
+2462-simplified,Nebula,0.90879595
+2462-simplified,Star,0.8935349
+2462-simplified,atmospheric phenomenon,0.8776613
+2462-simplified,Night,0.8090357
+2462-simplified,Constellation,0.761569
+2469-simplified,Flower,0.9755111
+2469-simplified,Petal,0.9086544
+2469-simplified,Animation,0.7118404
+2469-simplified,Animated cartoon,0.68982476
+2469-simplified,Common sunflower,0.62582535
+2469-simplified,Sunflowers,0.6055497
+2469-simplified,Floristry,0.5345123
+2469-simplified,Fictional character,0.50835353
+2472-simplified,Horse,0.9896188
+2472-simplified,atmospheric phenomenon,0.9500266
+2472-simplified,Working animal,0.9480096
+2472-simplified,Mist,0.92388266
+2472-simplified,Mustang,0.8910906
+2472-simplified,Sorrel,0.8726603
+2472-simplified,Fog,0.8566042
+2472-simplified,Stallion,0.8125608
+2472-simplified,Livestock,0.8038902
+2472-simplified,Haze,0.7789301
+2529-simplified,Bone,0.98705727
+2529-simplified,Red,0.9763387
+2529-simplified,Skull,0.96841973
+2529-simplified,Flame,0.9600392
+2529-simplified,Fire,0.9515349
+2529-simplified,Orange,0.95114255
+2529-simplified,Heat,0.9359328
+2529-simplified,Tooth,0.92789763
+2529-simplified,Skeleton,0.7386174
+2529-simplified,Symbol,0.6691173
+2554-simplified,Bird,0.99037915
+2554-simplified,Beak,0.96096295
+2554-simplified,Wing,0.8753897
+2554-simplified,Wildlife,0.8059884
+2554-simplified,Feather,0.7912276
+2554-simplified,Passerine,0.6635473
+2554-simplified,Songbirds,0.6239339
+2554-simplified,Old world flycatchers,0.5852422
+2579-simplified,Facial hair,0.93785214
+2579-simplified,Beard,0.8879114
+2579-simplified,Moustache,0.81199837
+2579-simplified,Fictional character,0.7313008
+2584-simplified,Red,0.9767016
+2584-simplified,Fictional character,0.8905602
+2584-simplified,Cape,0.7237818
+2584-simplified,Animation,0.6153734
+2584-simplified,Cloak,0.6002413
+2589-simplified,Pyramid,0.88872355
+2589-simplified,Triangle,0.81071264
+2589-simplified,Wonders of the World,0.6432617
+2589-simplified,Meteorological phenomenon,0.5989438
+2589-simplified,Science,0.5717191
+2589-simplified,Digital compositing,0.5652895
+2589-simplified,World Heritage Site,0.54638684
+2589-simplified,Star,0.54156697
+2589-simplified,Universe,0.53257966
+2702-simplified,Fictional character,0.95087177
+2702-simplified,Mythical creature,0.9271204
+2702-simplified,Dragon,0.88794446
+2702-simplified,Mythology,0.7613595
+2702-simplified,CG artwork,0.7318583
+2702-simplified,Cryptid,0.72965026
+2702-simplified,Graphic design,0.6891466
+2702-simplified,Animation,0.677159
+2702-simplified,Graphics,0.6660582
+2730-simplified,Fictional character,0.8780846
+2730-simplified,Animation,0.8707461
+2730-simplified,Cartoon,0.8305931
+2730-simplified,Beak,0.79978573
+2730-simplified,Toy,0.77064407
+2730-simplified,Animated cartoon,0.759632
+2730-simplified,Bird,0.618797
+2730-simplified,Fiction,0.6129425
+2730-simplified,Robot,0.59822214
+2730-simplified,3D modeling,0.50106436
+2750-simplified,Neon,0.84456927
+2750-simplified,Visual Effect Lighting,0.6144011
+2750-simplified,Lens flare,0.5775271
+2750-simplified,Night,0.5429565
+2762-simplified,Hair,0.99074763
+2762-simplified,Eyebrow,0.9852536
+2762-simplified,Skin,0.98067516
+2762-simplified,Hairstyle,0.97045034
+2762-simplified,Eye,0.9606786
+2762-simplified,Facial expression,0.94494635
+2762-simplified,Eyelash,0.9210374
+2762-simplified,Iris,0.90190595
+2762-simplified,Cartoon,0.8996925
+2762-simplified,Long hair,0.8860475
+2819-simplified,Cat,0.98554385
+2819-simplified,Felidae,0.9638369
+2819-simplified,Felinae,0.93933386
+2819-simplified,Insect,0.9278501
+2819-simplified,Pollinator,0.91902906
+2819-simplified,Whiskers,0.9127076
+2819-simplified,Carnivores,0.91200244
+2819-simplified,Butterfly,0.8917185
+2819-simplified,Kitten,0.88965434
+2819-simplified,Snout,0.86171174
+2869-simplified,Spire,0.92917585
+2869-simplified,Castle,0.91062933
+2869-simplified,Cloud,0.9038102
+2869-simplified,Tower,0.8569447
+2869-simplified,Steeple,0.8545291
+2869-simplified,History,0.84983385
+2869-simplified,Turret,0.7954168
+2869-simplified,Evening,0.724866
+2869-simplified,Medieval architecture,0.7247969
+2869-simplified,Water castle,0.71467674
+2904-simplified,,
+2915-simplified,Bird,0.98416376
+2915-simplified,Beak,0.9198496
+2915-simplified,Feather,0.86205524
+2915-simplified,Crows,0.75214005
+2915-simplified,Songbirds,0.7036074
+2915-simplified,Crow family,0.6886473
+2915-simplified,Passerine,0.67419356
+2915-simplified,Common raven,0.6534796
+2915-simplified,Sun hat,0.62628895
+2915-simplified,Fedora,0.5596324
+2922-simplified,Blue,0.9883447
+2922-simplified,Yellow,0.9538489
+2922-simplified,Brick,0.9173194
+2922-simplified,Brown,0.91386586
+2922-simplified,Composite material,0.8745136
+2922-simplified,Stone wall,0.86618865
+2922-simplified,Brickwork,0.8336845
+2922-simplified,Building material,0.8005295
+2922-simplified,Symmetry,0.7116902
+2922-simplified,Cobblestone,0.65042776
+2948-simplified,Toy,0.84897435
+2948-simplified,Snout,0.8155767
+2948-simplified,Car door,0.7246011
+2948-simplified,Kit car,0.56819725
+2948-simplified,Driving,0.55978674
+2948-simplified,Primate,0.5558286
+2948-simplified,Electric vehicle,0.5180037
+2969-simplified,Sky,0.9905075
+2969-simplified,Photograph,0.98849225
+2969-simplified,Horizon,0.9852967
+2969-simplified,Sun,0.98525155
+2969-simplified,Afterglow,0.9839652
+2969-simplified,Daytime,0.98185194
+2969-simplified,Sunset,0.9801627
+2969-simplified,Cloud,0.97850996
+2969-simplified,Nature,0.97738045
+2969-simplified,Orange,0.97140574
+2972-simplified,Watermelon,0.9704288
+2972-simplified,Fruit,0.9620788
+2972-simplified,Citrullus,0.9522126
+2972-simplified,Melon,0.92645097
+2972-simplified,Produce,0.9171139
+2972-simplified,Smile,0.8971187
+2972-simplified,Food,0.86569875
+2972-simplified,Natural foods,0.83585846
+2972-simplified,Happiness,0.815189
+2972-simplified,Seedless fruit,0.80757916
+2993-simplified,Cartoon,0.8512152
+2993-simplified,Rodent,0.82706875
+2993-simplified,Animated cartoon,0.80490386
+2993-simplified,Animation,0.76212263
+2993-simplified,Fictional character,0.75988066
+2993-simplified,CG artwork,0.7376397
+2993-simplified,Film,0.7027589
+2993-simplified,Graphics,0.673365
+2993-simplified,Toy,0.617888
+2993-simplified,Squirrel,0.59652925
+3016-simplified,Fictional character,0.9387874
+3016-simplified,Supernatural creature,0.83381146
+3016-simplified,Animation,0.7893714
+3016-simplified,CG artwork,0.78928685
+3016-simplified,Mythical creature,0.7841534
+3016-simplified,Cryptid,0.7811013
+3016-simplified,Demon,0.73907167
+3016-simplified,Film,0.69810224
+3016-simplified,Mythology,0.6783195
+3016-simplified,Fiction,0.66030073
+3041-simplified,Insect,0.8915356
+3041-simplified,Close-up,0.8560352
+3041-simplified,Arthropod,0.7961501
+3041-simplified,Macro photography,0.7914858
+3041-simplified,Pest,0.68987745
+3041-simplified,Parasitism,0.5709156
+3041-simplified,Amphibians,0.52733916
+3050-simplified,Column,0.9421791
+3050-simplified,Arch,0.9108033
+3050-simplified,Arcade,0.72413194
+3050-simplified,Gothic architecture,0.7138143
+3050-simplified,Shadow,0.6934382
+3050-simplified,Vault,0.6811499
+3050-simplified,Still life photography,0.59809095
+3050-simplified,Crypt,0.59609264
+3050-simplified,Ruins,0.55847555
+3058-simplified,,
+3119-simplified,,
+3129-simplified,,
+318-simplified,,
+3220-simplified,Bookcase,0.96415186
+3220-simplified,Shelf,0.9608907
+3220-simplified,Shelving,0.9353456
+3220-simplified,Collection,0.7952886
+3220-simplified,Library,0.77406836
+3220-simplified,Book,0.7593785
+3220-simplified,Bookselling,0.758099
+3220-simplified,Publication,0.7354917
+3220-simplified,Public library,0.6720527
+324-simplified,Food,0.9894502
+324-simplified,Pizza,0.9710964
+324-simplified,Ingredient,0.9633336
+324-simplified,Pizza cheese,0.8923109
+324-simplified,Fast food,0.8863236
+324-simplified,Cheese,0.88368005
+324-simplified,Recipe,0.850952
+324-simplified,Comfort food,0.80448556
+324-simplified,Condiment,0.79583585
+324-simplified,Junk food,0.7935163
+326-simplified,Blue,0.9877875
+326-simplified,Plants,0.9687857
+326-simplified,House,0.9606829
+326-simplified,Home,0.95851976
+326-simplified,Garden,0.9290636
+326-simplified,Cottage,0.91001296
+326-simplified,Moon,0.8742396
+326-simplified,Petal,0.85227394
+326-simplified,Astronomical object,0.8399725
+326-simplified,Landscaping,0.8356786
+3265-simplified,Landmark,0.92169076
+3265-simplified,Monument,0.9121775
+3265-simplified,Pyramid,0.89668185
+3265-simplified,Tourist attraction,0.89167196
+3265-simplified,Triangle,0.81010175
+3265-simplified,World Heritage Site,0.79963434
+3265-simplified,Historic site,0.79416895
+3265-simplified,Wonders of the World,0.77004105
+3265-simplified,Tower,0.7528298
+3265-simplified,Design,0.6728211
+329-simplified,Machine,0.8364694
+329-simplified,Robot,0.7416337
+329-simplified,Science,0.52302915
+3306-simplified,Tower,0.895067
+3306-simplified,Spire,0.86368716
+3306-simplified,Game,0.8554491
+3306-simplified,CG artwork,0.8487874
+3306-simplified,Video Game Software,0.7238191
+3306-simplified,Cityscape,0.66394895
+3306-simplified,Battle,0.6603137
+3306-simplified,Fictional character,0.64631486
+3306-simplified,PC game,0.6367599
+3306-simplified,Dawn,0.61041266
+3331-simplified,Wood,0.97199464
+3331-simplified,Cottage,0.92194194
+3331-simplified,Porch,0.86773074
+3331-simplified,Log cabin,0.8527991
+3331-simplified,Door,0.8484738
+3331-simplified,Hardwood,0.8204313
+3331-simplified,Siding,0.7883667
+3331-simplified,Wood stain,0.7851574
+3331-simplified,Garden buildings,0.7668846
+3331-simplified,Woodland,0.70483947
+3332-simplified,,
+3417-simplified,History,0.85121614
+3417-simplified,Ruins,0.8297989
+3417-simplified,Tourist attraction,0.8225562
+3417-simplified,Sunlight,0.81684583
+3417-simplified,Jungle,0.79161435
+3417-simplified,Temple,0.76608056
+3417-simplified,Wat,0.731704
+3417-simplified,Old-growth forest,0.6656628
+3417-simplified,World Heritage Site,0.6470659
+3417-simplified,Archaeological site,0.6343597
+3446-simplified,T-shirt,0.9670492
+3446-simplified,Flame,0.5738745
+3446-simplified,Fire,0.53631026
+3446-simplified,Science,0.50409985
+3459-simplified,Night,0.82676774
+3459-simplified,Astronomical object,0.6405473
+3459-simplified,Silhouette,0.62993956
+3459-simplified,Moonlight,0.58327764
+3459-simplified,Dusk,0.55683887
+3459-simplified,Walking,0.52399176
+3460-simplified,Blue,0.9888385
+3460-simplified,Facial expression,0.9449429
+3460-simplified,Fictional character,0.8569945
+3460-simplified,Animation,0.75027645
+3460-simplified,Film,0.7240733
+3460-simplified,Portrait photography,0.6256989
+3460-simplified,No expression,0.58830786
+3460-simplified,Portrait,0.582893
+3460-simplified,Hero,0.50860107
+3511-simplified,Fictional character,0.7780288
+3511-simplified,CG artwork,0.7110572
+3511-simplified,Animation,0.6250716
+3511-simplified,Graphics,0.61494005
+3511-simplified,Winter,0.60477173
+3511-simplified,Fiction,0.5220027
+3540-simplified,Morning,0.8397076
+3540-simplified,Evening,0.79024976
+3540-simplified,Dusk,0.73530215
+3540-simplified,Sunrise,0.6596516
+3540-simplified,Astronomical object,0.65388125
+3540-simplified,Animation,0.6019692
+3540-simplified,Watercolor painting,0.52151257
+3618-simplified,Cat,0.99487674
+3618-simplified,Felidae,0.9774797
+3618-simplified,Felinae,0.9676181
+3618-simplified,Whiskers,0.9559692
+3618-simplified,Carnivores,0.93696684
+3618-simplified,Fur,0.83881754
+3618-simplified,Snout,0.8236915
+3618-simplified,Domestic short-haired cat,0.53212065
+367-simplified,Fish,0.9387131
+367-simplified,Marine biology,0.6712605
+367-simplified,Underwater,0.66226125
+367-simplified,Fin,0.6233268
+367-simplified,Fictional character,0.5985904
+367-simplified,Tail,0.5592787
+367-simplified,Bony fishes,0.5379081
+367-simplified,Minnows and Carps,0.51291573
+367-simplified,Ray-finned fishes,0.50488377
+3825-simplified,Yellow,0.95796484
+3825-simplified,Font,0.9023217
+3825-simplified,Orange,0.87727195
+3825-simplified,Graphics,0.6863571
+3825-simplified,Graphic design,0.6834236
+3841-simplified,,
+3855-simplified,Sword,0.7924383
+3855-simplified,Costume,0.7769387
+3855-simplified,Fictional character,0.6158753
+3855-simplified,Film,0.5791435
+3855-simplified,Hero,0.57024115
+3855-simplified,Samurai,0.564871
+3855-simplified,Animation,0.56104475
+3855-simplified,Costume design,0.5020987
+3885-simplified,,
+3909-simplified,,
+3920-simplified,,
+393-simplified,,
+3967-simplified,,
+399-simplified,,
+4005-simplified,,
+4108-simplified,,
+4207-simplified,,
+427-simplified,,
+4276-simplified,,
+4298-simplified,,
+4304-simplified,,
+432-simplified,,
+4366-simplified,,
+4372-simplified,,
+4383-simplified,Night,0.9422607
+4383-simplified,Tourist attraction,0.84053206
+4383-simplified,Tower,0.814803
+4383-simplified,Midnight,0.7991404
+4383-simplified,Astronomical object,0.70769876
+4383-simplified,Reflection,0.6796324
+4383-simplified,Wonders of the World,0.6617122
+4383-simplified,Opera house,0.6588059
+4383-simplified,Science,0.6439662
+4383-simplified,Evening,0.643087
+4397-simplified,,
+4428-simplified,Gemstone,0.95620275
+4428-simplified,Engagement ring,0.90617555
+4428-simplified,Body Jewelry,0.8914894
+4428-simplified,Jewellery,0.88260335
+4428-simplified,Crystal,0.88105834
+4428-simplified,Diamond,0.8729587
+4428-simplified,Emerald,0.8596141
+4428-simplified,Natural material,0.8579573
+4428-simplified,Ring,0.83781195
+4428-simplified,Mineral,0.83018625
+4439-simplified,Fictional character,0.78644097
+4439-simplified,Animation,0.68428284
+4439-simplified,Night,0.5851248
+4439-simplified,Fiction,0.5052804
+4440-simplified,Eyewear,0.9889615
+4440-simplified,Vision Care,0.9793642
+4440-simplified,Facial expression,0.9449349
+4440-simplified,Smile,0.8824136
+4440-simplified,Drawing,0.8207421
+4440-simplified,Portrait,0.75528735
+4440-simplified,Sketch,0.74312514
+4440-simplified,Necktie,0.70967466
+4440-simplified,Goggles,0.67250526
+4440-simplified,Pleased,0.6561517
+4461-simplified,Fictional character,0.90159833
+4463-simplified,Mask,0.8615149
+4463-simplified,Costume,0.8115659
+4463-simplified,Fictional character,0.7500955
+4463-simplified,Masque,0.6837041
+4463-simplified,Cosplay,0.6176799
+4463-simplified,Animation,0.5754019
+4463-simplified,Fiction,0.57016623
+4463-simplified,CG artwork,0.56864834
+4463-simplified,Costume design,0.5681744
+4463-simplified,Armour,0.5359153
+4501-simplified,Land vehicle,0.9890632
+4501-simplified,Vehicle,0.9846951
+4501-simplified,Motor vehicle,0.9753249
+4501-simplified,Tire,0.9747375
+4501-simplified,Wheel,0.9746464
+4501-simplified,Car,0.9638037
+4501-simplified,Automotive Exterior,0.9556573
+4501-simplified,Automotive Tire,0.9423604
+4501-simplified,Volkswagen,0.9243394
+4501-simplified,Van,0.91104925
+4514-simplified,Astronaut,0.97937065
+4514-simplified,Outer space,0.77838993
+4514-simplified,Astronomical object,0.73768777
+4514-simplified,Graphics,0.6093711
+4514-simplified,Graphic design,0.60641885
+4514-simplified,Science,0.60363173
+4514-simplified,Astronomy,0.60184914
+4514-simplified,Universe,0.5480301
+4514-simplified,Animation,0.5466984
+4514-simplified,Astronomer,0.51428246
+4519-simplified,Smile,0.9920069
+4519-simplified,Chin,0.9885416
+4519-simplified,Happiness,0.98653674
+4519-simplified,Eyebrow,0.9852485
+4519-simplified,Skin,0.9802124
+4519-simplified,Beauty,0.9585996
+4519-simplified,Mouth,0.95692617
+4519-simplified,Facial expression,0.94494975
+4519-simplified,Tooth,0.9328994
+4519-simplified,Portrait photography,0.9017521
+456-simplified,Land vehicle,0.9850577
+456-simplified,Car,0.9753545
+456-simplified,Automotive lighting,0.91579026
+456-simplified,Automotive Parking Light,0.84335154
+456-simplified,Windshield,0.76017153
+456-simplified,Taxicab,0.71454185
+456-simplified,Classic car,0.6772214
+456-simplified,Sedan,0.6739157
+456-simplified,Automotive Side Marker Light,0.6630194
+456-simplified,Full-size car,0.6525529
+4565-simplified,Nature,0.9789195
+4565-simplified,Green,0.9785289
+4565-simplified,Branch,0.96665263
+4565-simplified,Sun,0.9646476
+4565-simplified,Natural landscape,0.95124686
+4565-simplified,Forest,0.9249334
+4565-simplified,Sunlight,0.91410774
+4565-simplified,atmospheric phenomenon,0.9041714
+4565-simplified,Sunrise,0.87898314
+4565-simplified,Reflection,0.87213653
+4578-simplified,Fictional character,0.9195138
+4578-simplified,CG artwork,0.85868603
+4578-simplified,Armour,0.7959549
+4578-simplified,Supernatural creature,0.76644427
+4578-simplified,Mask,0.7549678
+4578-simplified,Demon,0.73869896
+4578-simplified,Mythology,0.667878
+4578-simplified,Graphics,0.66541576
+4578-simplified,Action-adventure game,0.6116632
+4578-simplified,Animation,0.5948823
+4597-simplified,Green,0.97802246
+4597-simplified,Hemp,0.7764059
+4597-simplified,Hemp,0.77538437
+4597-simplified,Plantation,0.63026017
+4597-simplified,Conifers,0.60573155
+4597-simplified,Evergreen,0.5752279
+4597-simplified,Agriculture,0.5715346
+4597-simplified,Cupressaceae,0.54885817
+4597-simplified,Pine family,0.5377749
+4597-simplified,Pine,0.5185848
+461-simplified,Feather,0.6799866
+461-simplified,Night,0.6713956
+461-simplified,Tribe,0.6558601
+461-simplified,Tribal chief,0.58404434
+4618-simplified,Bird,0.99260795
+4618-simplified,Beak,0.97421676
+4618-simplified,Vertebrate,0.9617849
+4618-simplified,Pigeons and doves,0.9482256
+4618-simplified,Rock dove,0.94650793
+4618-simplified,Wing,0.8715323
+4618-simplified,Feather,0.8700725
+4618-simplified,Stock dove,0.84526783
+4618-simplified,Close-up,0.84085643
+4618-simplified,Terrestrial animal,0.82939523
+4654-simplified,Eyewear,0.9956237
+4654-simplified,Chin,0.9885442
+4654-simplified,Glasses,0.98695654
+4654-simplified,Eyebrow,0.98551404
+4654-simplified,Vision Care,0.9854035
+4654-simplified,Forehead,0.9815543
+4654-simplified,Hairstyle,0.97010714
+4654-simplified,Collar,0.9675552
+4654-simplified,Black hair,0.95811373
+4654-simplified,Facial expression,0.9447423
+4664-simplified,Chicken,0.97052574
+4664-simplified,Bird,0.96691495
+4664-simplified,Vertebrate,0.960192
+4664-simplified,Phasianidae,0.9564367
+4664-simplified,Comb,0.95566285
+4664-simplified,Beak,0.9499543
+4664-simplified,Landfowl,0.9420639
+4664-simplified,Rooster,0.925225
+4664-simplified,Fowl,0.9134125
+4664-simplified,Poultry,0.8752254
+4722-simplified,Carnivores,0.92082924
+4722-simplified,Felidae,0.8952223
+4722-simplified,Dog,0.8437617
+4722-simplified,Cat,0.83978534
+4722-simplified,Felinae,0.8316974
+4722-simplified,Tail,0.68597126
+4722-simplified,Paw,0.65330315
+4722-simplified,Fur,0.6196979
+4722-simplified,Canidae,0.5324789
+4738-simplified,Fish,0.98757064
+4738-simplified,Goldfish,0.9744504
+4738-simplified,Red,0.97291404
+4738-simplified,Vertebrate,0.9612637
+4738-simplified,Fin,0.9357187
+4738-simplified,Marine biology,0.9351751
+4738-simplified,Orange,0.9293013
+4738-simplified,Underwater,0.89567536
+4738-simplified,Koi,0.8145595
+4738-simplified,Tail,0.8105527
+4803-simplified,Blue,0.9879549
+4803-simplified,Red,0.9768022
+4803-simplified,Orange,0.96146524
+4803-simplified,Yellow,0.96122694
+4803-simplified,Flame,0.95276433
+4803-simplified,Heat,0.9233674
+4803-simplified,Fire,0.8928754
+4803-simplified,Purple,0.82768124
+4803-simplified,Graphics,0.63063693
+4803-simplified,Smoke,0.5095775
+4812-simplified,Apron,0.80374205
+4812-simplified,Waiter,0.7570471
+4812-simplified,Cup,0.73590565
+4812-simplified,Happiness,0.7017288
+4812-simplified,Coffee cup,0.67332655
+4812-simplified,Portrait photography,0.5924456
+4812-simplified,Coffee,0.59177655
+4812-simplified,Restaurant,0.57767916
+4836-simplified,Facial hair,0.9098977
+4836-simplified,Beard,0.7474103
+4836-simplified,Moustache,0.7171215
+4836-simplified,Film,0.6402558
+4836-simplified,Hero,0.59868956
+4836-simplified,Football player,0.547834
+4906-simplified,Fictional character,0.8837647
+4906-simplified,Technology,0.86509436
+4906-simplified,Machine,0.8095159
+4906-simplified,Animation,0.66671854
+4906-simplified,Robot,0.6092346
+4906-simplified,Armour,0.59363407
+4906-simplified,Fiction,0.5831471
+4906-simplified,Mask,0.570599
+4916-simplified,Bird,0.9176678
+4916-simplified,Beak,0.91147894
+4916-simplified,Animation,0.85548234
+4916-simplified,Astronomical object,0.82374287
+4916-simplified,Child,0.7855778
+4916-simplified,Penguin,0.75904197
+4916-simplified,Flightless bird,0.7370053
+4916-simplified,Animated cartoon,0.67097217
+4916-simplified,Graphics,0.6428316
+4916-simplified,Film,0.636364
+4948-simplified,Liquid,0.91954315
+4948-simplified,Laboratory,0.8744086
+4948-simplified,Laboratory equipment,0.8517529
+4948-simplified,Scientific instrument,0.84719104
+4948-simplified,Chemistry,0.83193576
+4948-simplified,Research,0.7988088
+4948-simplified,Research institute,0.79574895
+4948-simplified,Chemist,0.7584898
+4948-simplified,Glass,0.75719774
+4948-simplified,Chemical engineer,0.7552871
+4950-simplified,Film,0.82888657
+4950-simplified,Action,0.8282044
+4950-simplified,Facial hair,0.8128612
+4950-simplified,Costume,0.7266862
+4950-simplified,Hero,0.70487964
+4950-simplified,Armour,0.67507577
+4950-simplified,Leather,0.6646338
+4950-simplified,Beard,0.6608649
+4950-simplified,Fictional character,0.6055953
+4980-simplified,Carnivores,0.85690683
+4980-simplified,Canis,0.8349891
+4980-simplified,Wolf,0.8172693
+4980-simplified,Snout,0.7959915
+4980-simplified,Canidae,0.73569185
+4980-simplified,Animation,0.5980297
+4980-simplified,Graphics,0.59425354
+4980-simplified,Fictional character,0.57297873
+4980-simplified,Fox,0.52726096
+4980-simplified,Coyote,0.51894015
+4986-simplified,Machine,0.80827856
+4986-simplified,Drink can,0.648394
+4986-simplified,Vending machine,0.6255757
+4986-simplified,Soft drink,0.59611875
+4986-simplified,Plastic,0.58942515
+5104-simplified,Drum,0.962436
+5104-simplified,Musical instrument,0.9545956
+5104-simplified,Interior design,0.9457549
+5104-simplified,Membranophone,0.9308373
+5104-simplified,Lighting,0.92583424
+5104-simplified,Light fixture,0.923473
+5104-simplified,Ceiling,0.9213769
+5104-simplified,Drums,0.921071
+5104-simplified,Chandelier,0.9161523
+5104-simplified,Percussion,0.915308
+5136-simplified,Fictional character,0.7190037
+5136-simplified,Film,0.6666914
+5136-simplified,Animation,0.5939823
+5136-simplified,Hero,0.57273793
+5165-simplified,Eyebrow,0.98528457
+5165-simplified,Eyelash,0.87006867
+5165-simplified,CG artwork,0.8162244
+5165-simplified,Portrait photography,0.7612134
+5165-simplified,Fictional character,0.74682796
+5165-simplified,Portrait,0.66134423
+5165-simplified,No expression,0.6346683
+5165-simplified,Film,0.6298578
+5165-simplified,Model,0.60028136
+5165-simplified,Eye shadow,0.54236704
+5215-simplified,Glass,0.76776177
+5215-simplified,Molding,0.75850785
+5215-simplified,Daylighting,0.6107981
+5215-simplified,Evening,0.6105236
+5215-simplified,Balcony,0.55939144
+5215-simplified,Houseplant,0.555797
+5298-simplified,Facial hair,0.9817834
+5298-simplified,Beard,0.9671827
+5298-simplified,Moustache,0.91276693
+5298-simplified,Armour,0.8645114
+5298-simplified,Breastplate,0.74607116
+5298-simplified,Cuirass,0.70403874
+5298-simplified,Costume,0.68987477
+5298-simplified,Vikings,0.5553358
+5298-simplified,Knight,0.5077515
+5309-simplified,Facial expression,0.9444105
+5309-simplified,Toy,0.9439481
+5309-simplified,Dragon Ball,0.8838093
+5309-simplified,Fictional character,0.87991107
+5309-simplified,Muscle,0.85694605
+5309-simplified,Cartoon,0.8061873
+5309-simplified,Animation,0.7383811
+5309-simplified,Animated cartoon,0.6763084
+5309-simplified,Film,0.66092837
+5309-simplified,Figurine,0.62492716
+5332-simplified,Tableware,0.97847015
+5332-simplified,Food,0.96600735
+5332-simplified,Ingredient,0.9442181
+5332-simplified,Soup,0.9143648
+5332-simplified,Bowl,0.90373045
+5332-simplified,Serveware,0.84804004
+5332-simplified,Recipe,0.8167641
+5332-simplified,Noodle,0.81412125
+5332-simplified,Kitchen utensil,0.8119276
+5332-simplified,Dishware,0.77729356
+5334-simplified,Number,0.82032204
+5334-simplified,Sign,0.6597286
+5340-simplified,Black,0.9067229
+5340-simplified,Night,0.89311695
+5340-simplified,Darkness,0.8819507
+5340-simplified,Midnight,0.79899806
+5340-simplified,Alley,0.79069465
+5340-simplified,Evening,0.7503647
+5340-simplified,Shadow,0.72143936
+5340-simplified,Backlighting,0.65945315
+5340-simplified,Walking,0.60265726
+5340-simplified,Lens flare,0.59429854
+5428-simplified,Red,0.9736432
+5428-simplified,Outer space,0.9627194
+5428-simplified,Astronomical object,0.95542777
+5428-simplified,Orange,0.95351326
+5428-simplified,Astronomy,0.925691
+5428-simplified,Universe,0.8731022
+5428-simplified,Planet,0.84839386
+5428-simplified,Sphere,0.8107931
+5428-simplified,Heat,0.7222282
+5428-simplified,Night,0.71018076
+5432-simplified,Jack-o'-lantern,0.9708466
+5432-simplified,Calabaza,0.94710535
+5432-simplified,Facial expression,0.94494444
+5432-simplified,Produce,0.9431225
+5432-simplified,Orange,0.93793374
+5432-simplified,Winter squash,0.9278092
+5432-simplified,Pumpkin,0.9226893
+5432-simplified,Vegetable,0.92161834
+5432-simplified,Gourd,0.862936
+5432-simplified,Squash,0.84128207
+545-simplified,Mobile phone,0.7706154
+545-simplified,Silver,0.7446856
+545-simplified,Gadget,0.7428662
+545-simplified,Communication Device,0.70203984
+545-simplified,Smartphone,0.6703733
+545-simplified,Portable communications device,0.6405363
+545-simplified,Telephony,0.62783617
+545-simplified,Still life photography,0.61988306
+545-simplified,Mobile Phone Case,0.5787754
+5456-simplified,Armour,0.9406653
+5456-simplified,Breastplate,0.8165747
+5456-simplified,Action,0.79828143
+5456-simplified,Fictional character,0.7936696
+5456-simplified,CG artwork,0.7704139
+5456-simplified,Knight,0.7121928
+5456-simplified,Film,0.686586
+5456-simplified,Costume,0.65576667
+5456-simplified,Hero,0.63327897
+5456-simplified,Cloak,0.5878173
+5460-simplified,Entertainment,0.95631665
+5460-simplified,Public event,0.90093917
+5460-simplified,Music venue,0.89817554
+5460-simplified,Orange,0.89353645
+5460-simplified,Performance,0.8935159
+5460-simplified,Party,0.8580863
+5460-simplified,Performing Arts,0.853319
+5460-simplified,Disc jockey,0.84547293
+5460-simplified,Audience,0.801848
+5460-simplified,Concert,0.78963125
+5584-simplified,Fictional character,0.8363584
+5584-simplified,Snout,0.76374865
+5584-simplified,Animation,0.754366
+5584-simplified,Animated cartoon,0.7194934
+5584-simplified,Toy,0.58430177
+5584-simplified,Mythical creature,0.50718105
+5686-simplified,Horse,0.95763063
+5686-simplified,Mustang,0.8335111
+5686-simplified,Fictional character,0.80182785
+5686-simplified,Animation,0.72365046
+5686-simplified,Stallion,0.7143245
+5686-simplified,Meteorological phenomenon,0.71099687
+5686-simplified,Mane,0.70106834
+5686-simplified,Mythical creature,0.6753788
+5686-simplified,Mare,0.66980875
+5686-simplified,Wind,0.64944345
+5763-simplified,Cat,0.9955508
+5763-simplified,Felidae,0.98455524
+5763-simplified,Whiskers,0.97809666
+5763-simplified,Felinae,0.9684996
+5763-simplified,Vertebrate,0.9608961
+5763-simplified,Snout,0.92371964
+5763-simplified,Fur,0.8378136
+5763-simplified,Carnivores,0.8277089
+5763-simplified,Horse,0.7525714
+5763-simplified,Domestic short-haired cat,0.7476815
+5789-simplified,Personal protective equipment,0.91930425
+5789-simplified,Fictional character,0.90799224
+5789-simplified,Helmet,0.837322
+5789-simplified,Armour,0.82608134
+5789-simplified,Boba Fett,0.7862509
+5789-simplified,Costume,0.7604683
+5789-simplified,Action,0.7261006
+5789-simplified,Fiction,0.6690992
+5789-simplified,Supervillain,0.62140864
+5789-simplified,Hero,0.608591
+5807-simplified,Blue,0.9884318
+5807-simplified,Sphere,0.80398536
+5807-simplified,Graphics,0.61726403
+5807-simplified,Nightlight,0.57735926
+5846-simplified,Heart,0.9847641
+5846-simplified,Red,0.9777493
+5846-simplified,Fluid,0.9555683
+5846-simplified,Love,0.93038446
+5846-simplified,Liquid,0.9214262
+5846-simplified,Close-up,0.9068808
+5846-simplified,Glass,0.8779159
+5846-simplified,Champagne glass,0.8683603
+5846-simplified,Stemware,0.8433655
+5846-simplified,Drop,0.83603835
+5911-simplified,Nature,0.9787658
+5911-simplified,Natural landscape,0.9501026
+5911-simplified,Forest,0.9457548
+5911-simplified,Jungle,0.92224693
+5911-simplified,Trunk,0.881275
+5911-simplified,Woody plant,0.8498953
+5911-simplified,Painting,0.8432267
+5911-simplified,Old-growth forest,0.8279203
+5911-simplified,Rainforest,0.787548
+5911-simplified,Woodland,0.7710367
+5930-simplified,Eyelash,0.8959381
+5930-simplified,Blond,0.7774652
+5930-simplified,Winter,0.7670367
+5930-simplified,Portrait photography,0.6700092
+5930-simplified,Fur,0.6451101
+5930-simplified,Fur clothing,0.6368318
+5930-simplified,Headpiece,0.60264784
+5930-simplified,Braid,0.5769474
+5930-simplified,No expression,0.53950125
+5930-simplified,Animal product,0.5070368
+6016-simplified,Volcano,0.9743429
+6016-simplified,Types of volcanic eruptions,0.9692021
+6016-simplified,Volcanic landform,0.960135
+6016-simplified,Lava dome,0.93907905
+6016-simplified,Fissure vent,0.9377109
+6016-simplified,geological phenomenon,0.92773026
+6016-simplified,Lava,0.92162156
+6016-simplified,Volcanic field,0.9098379
+6016-simplified,Orange,0.90472955
+6016-simplified,Heat,0.9046493
+6062-simplified,Fictional character,0.94294983
+6062-simplified,CG artwork,0.9072854
+6062-simplified,Armour,0.8949755
+6062-simplified,Action-adventure game,0.79036033
+6062-simplified,Mythology,0.7855886
+6062-simplified,Video Game Software,0.73269045
+6062-simplified,Animation,0.71829766
+6062-simplified,Fiction,0.66229486
+6062-simplified,Anime,0.6320263
+6062-simplified,Supernatural creature,0.62156296
+6106-simplified,Superhero,0.9885637
+6106-simplified,Batman,0.98322386
+6106-simplified,Fictional character,0.9517423
+6106-simplified,Justice League,0.90979826
+6106-simplified,Cartoon,0.87414277
+6106-simplified,Hero,0.8704649
+6106-simplified,Cape,0.85438764
+6106-simplified,Film,0.8435109
+6106-simplified,Animation,0.8098701
+6106-simplified,Costume,0.7455657
+6110-simplified,Superhero,0.98509073
+6110-simplified,Batman,0.981364
+6110-simplified,Fictional character,0.95525795
+6110-simplified,Cape,0.89341414
+6110-simplified,Cartoon,0.8887262
+6110-simplified,Justice League,0.87168616
+6110-simplified,Animation,0.87066305
+6110-simplified,Hero,0.8495883
+6110-simplified,Film,0.84889305
+6110-simplified,Cloak,0.8339222
+6157-simplified,Technology,0.85165113
+6157-simplified,Animation,0.77237874
+6157-simplified,Fictional character,0.72076076
+6157-simplified,Robot,0.6887842
+6157-simplified,Graphics,0.5734253
+6157-simplified,Armour,0.5576772
+6157-simplified,Digital compositing,0.5427433
+6157-simplified,Science,0.5381073
+6157-simplified,Film,0.5237368
+6188-simplified,Eyewear,0.994216
+6188-simplified,Glasses,0.984072
+6188-simplified,Vision Care,0.9830572
+6274-simplified,Automotive lighting,0.9598626
+6274-simplified,Automotive Exterior,0.94491726
+6274-simplified,Car,0.92458236
+6274-simplified,Bumper,0.87066656
+6274-simplified,Fender,0.811048
+6274-simplified,Headlamp,0.810901
+6274-simplified,Performance car,0.80240893
+6274-simplified,Personal luxury car,0.79079664
+6274-simplified,Sports car,0.76487225
+6274-simplified,Automotive Fog Light,0.75384456
+6361-simplified,Eyewear,0.99594307
+6361-simplified,Sunglasses,0.9911741
+6361-simplified,Glasses,0.98779386
+6361-simplified,Vision Care,0.9862147
+6361-simplified,Goggles,0.9712914
+6361-simplified,Collar,0.96311593
+6361-simplified,Black hair,0.9396015
+6361-simplified,Personal protective equipment,0.91972363
+6361-simplified,Facial hair,0.8889794
+6361-simplified,Moustache,0.83301806
+6382-simplified,Standing,0.9603753
+6382-simplified,City,0.9504842
+6382-simplified,Road,0.9410005
+6382-simplified,Street,0.9350238
+6382-simplified,Pedestrian,0.93271923
+6382-simplified,Walking,0.8193927
+6382-simplified,Sidewalk,0.80740976
+6382-simplified,Evening,0.80465347
+6382-simplified,Shadow,0.7592502
+6382-simplified,Backlighting,0.7371721
+6394-simplified,Produce,0.9562929
+6394-simplified,Sweet and chili peppers,0.955195
+6394-simplified,Peppers,0.9442119
+6394-simplified,Ingredient,0.9423016
+6394-simplified,Bell pepper,0.9293705
+6394-simplified,Vegetable,0.87897485
+6394-simplified,Pimiento,0.86639476
+6394-simplified,Spice,0.86384803
+6394-simplified,Food,0.8540156
+6394-simplified,Natural foods,0.84037805
+6410-simplified,Windmill,0.99217445
+6410-simplified,Sky,0.9886698
+6410-simplified,Cloud,0.9133423
+6410-simplified,Wind,0.8910545
+6410-simplified,atmospheric phenomenon,0.8843463
+6410-simplified,Dusk,0.87206376
+6410-simplified,Sunlight,0.86837834
+6410-simplified,Morning,0.85423476
+6410-simplified,Machine,0.84849757
+6410-simplified,Turbine,0.8360151
+6421-simplified,Blue,0.98948985
+6460-simplified,Orange,0.9240797
+6460-simplified,Heat,0.8992217
+6460-simplified,geological phenomenon,0.8044104
+6460-simplified,Dusk,0.79232436
+6460-simplified,Sunset,0.78490746
+6460-simplified,Explosion,0.7835996
+6460-simplified,Fire,0.7674706
+6460-simplified,Flame,0.7464759
+6460-simplified,Pollution,0.72774893
+6460-simplified,Afterglow,0.680711
+6481-simplified,Video Game Software,0.6928656
+6481-simplified,Graphic design,0.65782803
+6481-simplified,Digital compositing,0.6510456
+6481-simplified,Graphics,0.64918417
+6481-simplified,Fractal art,0.6205341
+6481-simplified,CG artwork,0.6020052
+6481-simplified,PC game,0.58287543
+6481-simplified,Animation,0.57246476
+6481-simplified,Fictional character,0.55695957
+6495-simplified,Boat,0.9856846
+6495-simplified,Watercraft,0.9747819
+6495-simplified,Sail,0.95081973
+6495-simplified,Sailing ship,0.94897115
+6495-simplified,Sea,0.9339692
+6495-simplified,Mast,0.9321919
+6495-simplified,Sailboat,0.9173909
+6495-simplified,Ocean,0.9080888
+6495-simplified,Tall ship,0.8872452
+6495-simplified,Ship,0.8811997
+6496-simplified,Carnivores,0.9648406
+6496-simplified,Toy,0.92502207
+6496-simplified,Cat,0.92340946
+6496-simplified,Dog,0.917902
+6496-simplified,Felinae,0.86005574
+6496-simplified,Snout,0.8422019
+6496-simplified,Felidae,0.8363389
+6496-simplified,Whiskers,0.7562362
+6496-simplified,Pet Supply,0.6671668
+6496-simplified,Tail,0.66616464
+6504-simplified,Sky,0.9886544
+6504-simplified,Cloud,0.969985
+6504-simplified,Castle,0.9491677
+6504-simplified,Turret,0.87162876
+6504-simplified,Spire,0.86903465
+6504-simplified,Dusk,0.86783063
+6504-simplified,Morning,0.83628505
+6504-simplified,Château,0.8262223
+6504-simplified,Medieval architecture,0.82618165
+6504-simplified,Steeple,0.81548977
+6536-simplified,Place of worship,0.8731822
+6536-simplified,Tradition,0.85822284
+6536-simplified,Holy places,0.82825387
+6536-simplified,Ritual,0.8099261
+6536-simplified,Temple,0.80499697
+6536-simplified,Worship,0.7956732
+6536-simplified,Shrine,0.71402735
+6536-simplified,Ceremony,0.6803681
+6536-simplified,Guru,0.67858547
+6536-simplified,Prayer,0.6481948
+6551-simplified,Dusk,0.9546339
+6551-simplified,Dome,0.9271856
+6551-simplified,Evening,0.90649617
+6551-simplified,Tower,0.9052176
+6551-simplified,Sunset,0.9005654
+6551-simplified,Afterglow,0.873731
+6551-simplified,Finial,0.872084
+6551-simplified,Spire,0.8610875
+6551-simplified,Mosque,0.8284842
+6551-simplified,Sunrise,0.81548613
+6559-simplified,Cat,0.9935581
+6559-simplified,Blue,0.98929626
+6559-simplified,Felidae,0.97812355
+6559-simplified,Felinae,0.96659553
+6559-simplified,Whiskers,0.9436767
+6559-simplified,Carnivores,0.9020868
+6559-simplified,Snout,0.86498535
+6559-simplified,Purple,0.8321862
+6559-simplified,Fur,0.8070176
+6559-simplified,Kitten,0.57809144
+6572-simplified,Headgear,0.9555728
+6572-simplified,Event,0.9370928
+6572-simplified,Mask,0.9069262
+6572-simplified,Tradition,0.90678245
+6572-simplified,Masque,0.90248704
+6572-simplified,Carnival,0.8881477
+6572-simplified,Hat,0.8821485
+6572-simplified,Costume,0.86994475
+6572-simplified,Costume Hat,0.8519922
+6572-simplified,Festival,0.8324483
+6722-simplified,Superhero,0.98670006
+6722-simplified,Batman,0.981689
+6722-simplified,Fictional character,0.9467549
+6722-simplified,Justice League,0.88085246
+6722-simplified,Cape,0.87980217
+6722-simplified,Cartoon,0.85743374
+6722-simplified,Film,0.81638676
+6722-simplified,Hero,0.81095755
+6722-simplified,Bat,0.7965503
+6722-simplified,Animation,0.772305
+6763-simplified,Tiger,0.9903117
+6763-simplified,Bengal tiger,0.9804266
+6763-simplified,Carnivores,0.97463846
+6763-simplified,Siberian Tiger,0.9744472
+6763-simplified,Felidae,0.9720371
+6763-simplified,Wildlife,0.967548
+6763-simplified,Vertebrate,0.962476
+6763-simplified,Facial expression,0.9448566
+6763-simplified,Terrestrial animal,0.9439085
+6763-simplified,Whiskers,0.93206483
+6773-simplified,City,0.9507554
+6773-simplified,Night,0.9169211
+6773-simplified,Metropolis,0.9127151
+6773-simplified,Tower,0.89940256
+6773-simplified,Metropolitan area,0.88936716
+6773-simplified,Astronomical object,0.8886328
+6773-simplified,Cityscape,0.8719564
+6773-simplified,Skyscraper,0.861673
+6773-simplified,Moon,0.8508291
+6773-simplified,Midnight,0.8153691
+6774-simplified,Bird,0.94900036
+6774-simplified,Facial expression,0.9448914
+6774-simplified,Beak,0.80851287
+6774-simplified,Animation,0.69153136
+6774-simplified,Feather,0.6097028
+6774-simplified,Photomontage,0.56946397
+6774-simplified,Film,0.55768013
+6774-simplified,Animated cartoon,0.5533898
+6782-simplified,Forest,0.889976
+6782-simplified,Horn,0.83611757
+6782-simplified,Jungle,0.8249063
+6782-simplified,Snout,0.8126352
+6782-simplified,Wildlife,0.8081359
+6782-simplified,Fictional character,0.7791988
+6782-simplified,Natural material,0.70969355
+6782-simplified,Animation,0.7084892
+6782-simplified,Old-growth forest,0.64391696
+6782-simplified,Antler,0.5489745
+6823-simplified,Volcano,0.97536784
+6823-simplified,Types of volcanic eruptions,0.9714166
+6823-simplified,Volcanic landform,0.9711492
+6823-simplified,Lava dome,0.9426274
+6823-simplified,geological phenomenon,0.9358828
+6823-simplified,Fissure vent,0.91870123
+6823-simplified,Volcanic field,0.9182507
+6823-simplified,Stratovolcano,0.91585064
+6823-simplified,Lava,0.9110306
+6823-simplified,Orange,0.9004894
+6851-simplified,Bedroom,0.9769445
+6851-simplified,Furniture,0.97219
+6851-simplified,Bed,0.966204
+6851-simplified,Bed sheet,0.9633207
+6851-simplified,Bedding,0.9548254
+6851-simplified,Interior design,0.93405855
+6851-simplified,Lighting,0.9318384
+6851-simplified,Room,0.9269426
+6851-simplified,Linens,0.9236391
+6851-simplified,Home,0.92227656
+6857-simplified,House,0.9266235
+6857-simplified,Cottage,0.91959745
+6857-simplified,Astronomical object,0.81515807
+6857-simplified,Barn,0.8122336
+6857-simplified,Shed,0.79587173
+6857-simplified,Hut,0.7940605
+6857-simplified,Evening,0.7653941
+6857-simplified,Log cabin,0.6760668
+6857-simplified,Garden buildings,0.67012066
+6857-simplified,Larch,0.62568855
+6904-simplified,Facial expression,0.94493085
+6904-simplified,Tooth,0.9304843
+6904-simplified,Fictional character,0.90491205
+6904-simplified,Screaming,0.8615822
+6904-simplified,Fang,0.78653765
+6904-simplified,Demon,0.78263056
+6904-simplified,Supernatural creature,0.77680254
+6904-simplified,Graphics,0.6810052
+6904-simplified,Animation,0.66988266
+6904-simplified,Tongue,0.6676097
+6943-simplified,Yellow,0.96119946
+6943-simplified,Art,0.91602653
+6943-simplified,Graphics,0.7284847
+6943-simplified,Graphic design,0.7077238
+6943-simplified,Silver,0.6926184
+6943-simplified,Design,0.68239254
+6943-simplified,Fractal art,0.6516826
+7006-simplified,Armour,0.9652042
+7006-simplified,Fictional character,0.90839416
+7006-simplified,Cuirass,0.90055126
+7006-simplified,CG artwork,0.8797276
+7006-simplified,Breastplate,0.860947
+7006-simplified,Cartoon,0.8449961
+7006-simplified,Mythology,0.79097116
+7006-simplified,Knight,0.75882584
+7006-simplified,Costume,0.70986646
+7006-simplified,Animation,0.69425404
+7083-simplified,Dog,0.9834813
+7083-simplified,Vertebrate,0.9611467
+7083-simplified,Snout,0.92751265
+7083-simplified,Working animal,0.9145273
+7083-simplified,Black,0.9096744
+7083-simplified,Terrestrial animal,0.8066814
+7083-simplified,Carnivores,0.80566037
+7083-simplified,Pack animal,0.6876419
+7083-simplified,Canidae,0.66818964
+7083-simplified,Whiskers,0.56018114
+7087-simplified,Armour,0.9555859
+7087-simplified,Fictional character,0.945162
+7087-simplified,Breastplate,0.7809786
+7087-simplified,CG artwork,0.7484772
+7087-simplified,Animation,0.7475783
+7087-simplified,Cuirass,0.74725384
+7087-simplified,Mask,0.7308899
+7087-simplified,Costume,0.72877604
+7087-simplified,Action,0.6482888
+7087-simplified,Hero,0.64827466
+7109-simplified,Yellow,0.9585484
+7109-simplified,Orange,0.89708453
+7109-simplified,Facial hair,0.83365536
+7109-simplified,Beard,0.73618275
+7109-simplified,Performing Arts,0.72662777
+7109-simplified,Concert,0.6669432
+7109-simplified,Performance,0.66506773
+7109-simplified,Goggles,0.6620486
+7109-simplified,Sunglasses,0.65286374
+7109-simplified,Portrait photography,0.5652593
+7155-simplified,Ecoregion,0.9471332
+7155-simplified,Grassland,0.9440926
+7155-simplified,Horizon,0.9249592
+7155-simplified,Plain,0.90718955
+7155-simplified,Steppe,0.89085877
+7155-simplified,Prairie,0.84882367
+7155-simplified,Slope,0.8129061
+7155-simplified,Meadow,0.79632974
+7155-simplified,Field,0.78881556
+7155-simplified,Pasture,0.7440834
+7182-simplified,Clothing,0.9939423
+7182-simplified,Sleeve,0.9862314
+7182-simplified,Shoulder,0.9772183
+7182-simplified,Collar,0.9699861
+7182-simplified,Trousers,0.96142304
+7182-simplified,Neck,0.95564675
+7182-simplified,Standing,0.9493368
+7182-simplified,Fashion,0.9408029
+7182-simplified,Denim,0.936748
+7182-simplified,Dress shirt,0.90895075
+7199-simplified,Toy,0.8889234
+7199-simplified,Terrestrial animal,0.8646509
+7199-simplified,Snout,0.834377
+7199-simplified,Animal Figure,0.8074291
+7199-simplified,Deer,0.80277234
+7199-simplified,Animation,0.7498006
+7199-simplified,Wildlife,0.7322382
+7199-simplified,Fictional character,0.72371966
+7199-simplified,Horn,0.6861607
+7199-simplified,Lawn ornament,0.61586934
+7247-simplified,Spacecraft,0.86649054
+7247-simplified,Aerospace Engineering,0.8660082
+7247-simplified,Aircraft,0.75825167
+7247-simplified,Toy,0.64335656
+7247-simplified,Play Vehicle,0.6193614
+7247-simplified,Aerospace manufacturer,0.54709417
+735-simplified,Flower,0.9821933
+735-simplified,Petal,0.9788995
+735-simplified,Lotus,0.97332746
+735-simplified,Yellow,0.96254873
+735-simplified,Aquatic plant,0.9520211
+735-simplified,Nymphaea nelumbo,0.9024234
+735-simplified,Pink,0.9013511
+735-simplified,Nelumbonaceae,0.8855178
+735-simplified,Reflection,0.828542
+735-simplified,Purple,0.8006824
+7412-simplified,Fictional character,0.8687585
+7412-simplified,Animation,0.8151868
+7412-simplified,Graphics,0.67301565
+7412-simplified,Fiction,0.58840483
+7412-simplified,Film,0.5875342
+7412-simplified,Moustache,0.5621519
+7412-simplified,Animated cartoon,0.50812954
+7417-simplified,Fruit,0.9728985
+7417-simplified,Produce,0.962778
+7417-simplified,Natural foods,0.9184772
+7417-simplified,Tomato,0.87078613
+7417-simplified,Cherry tomato,0.8649847
+7417-simplified,Bush tomato,0.83346796
+7417-simplified,Food,0.8105179
+7417-simplified,Plum tomato,0.7355037
+7417-simplified,Food group,0.7324992
+7417-simplified,Vegetable,0.72185713
+7451-simplified,Produce,0.8751356
+7451-simplified,Fruit,0.84424216
+7451-simplified,Vineyard,0.8361541
+7451-simplified,Painting,0.83148694
+7451-simplified,Agriculture,0.8007451
+7451-simplified,Grapes,0.7775122
+7451-simplified,Natural foods,0.74528664
+7451-simplified,Grapevines,0.71155316
+7451-simplified,Grape leaves,0.6894298
+7451-simplified,Plantation,0.66909
+7526-simplified,Astronomical object,0.749657
+7526-simplified,Outer space,0.7402095
+7526-simplified,Universe,0.69265956
+7526-simplified,Video Game Software,0.67328566
+7526-simplified,Dome,0.6617591
+7526-simplified,Science,0.59413624
+7526-simplified,Digital compositing,0.5714576
+7526-simplified,CG artwork,0.54167813
+7526-simplified,Aerospace Engineering,0.50900126
+7534-simplified,Rodent,0.9510787
+7534-simplified,Snout,0.91467947
+7534-simplified,Muroids,0.8795147
+7534-simplified,Rat,0.876483
+7534-simplified,Pest,0.8579974
+7534-simplified,Animation,0.80047965
+7534-simplified,Whiskers,0.75093085
+7534-simplified,Murids,0.75076205
+7534-simplified,Animated cartoon,0.684416
+7534-simplified,Toy,0.61153084
+756-simplified,Superhero,0.98907703
+756-simplified,Batman,0.98132163
+756-simplified,Fictional character,0.9490329
+756-simplified,Hero,0.9146809
+756-simplified,Justice League,0.8904486
+756-simplified,Action,0.8464711
+756-simplified,Film,0.84120923
+756-simplified,Armour,0.8327768
+756-simplified,Costume,0.79293084
+756-simplified,Animation,0.76994723
+7581-simplified,Sport utility vehicle,0.5319606
+7582-simplified,Drinkware,0.88356566
+7582-simplified,Long hair,0.8829128
+7582-simplified,Brown hair,0.86921823
+7582-simplified,Red hair,0.84259313
+7582-simplified,Layered hair,0.8050947
+7582-simplified,Drinking,0.74213225
+7582-simplified,Model,0.72527736
+7582-simplified,Photo shoot,0.7159884
+7582-simplified,Bar,0.709504
+7582-simplified,Portrait photography,0.6325582
+7594-simplified,Hot air balloon,0.9773984
+7594-simplified,Hot air ballooning,0.9600655
+7594-simplified,Aerostat,0.94598
+7594-simplified,Air sports,0.92847204
+7594-simplified,Balloon,0.90470153
+7594-simplified,Pink,0.88755745
+7594-simplified,Lampshade,0.77309406
+7594-simplified,Lantern,0.722753
+7594-simplified,Flight,0.702537
+7594-simplified,Design,0.6835756
+7602-simplified,Pink,0.9508957
+7602-simplified,Beauty,0.9475148
+7602-simplified,Eyelash,0.88801455
+7602-simplified,Long hair,0.7742484
+7602-simplified,Hime cut,0.6419835
+7602-simplified,Hair coloring,0.55269045
+763-simplified,Adventure,0.90578955
+763-simplified,Cloud,0.9029272
+763-simplified,People in nature,0.83332604
+763-simplified,Mountaineer,0.7225818
+763-simplified,Hiking,0.68583035
+763-simplified,Backpack,0.65309966
+763-simplified,Animation,0.6291368
+763-simplified,Summit,0.5639689
+763-simplified,CG artwork,0.5274083
+763-simplified,Alps,0.51879215
+7669-simplified,Astronomical object,0.95615816
+7669-simplified,atmospheric phenomenon,0.9228785
+7669-simplified,Moonlight,0.8504626
+7669-simplified,Moon,0.8476027
+7669-simplified,Darkness,0.8456313
+7669-simplified,Night,0.7814109
+7669-simplified,Celestial event,0.72645205
+7669-simplified,Midnight,0.7198742
+7669-simplified,Meteorological phenomenon,0.7123495
+7669-simplified,CG artwork,0.70290285
+7721-simplified,Robot,0.8720314
+7721-simplified,Armour,0.85981476
+7721-simplified,Machine,0.84592235
+7721-simplified,Technology,0.8443169
+7721-simplified,Toy,0.74585104
+7721-simplified,Silver,0.7028551
+7721-simplified,Mecha,0.6826544
+7721-simplified,Fictional character,0.678235
+7721-simplified,Action figure,0.61443526
+7721-simplified,Animation,0.5136162
+7731-simplified,Clock,0.9383257
+7731-simplified,Watch,0.9074995
+7731-simplified,Quartz clock,0.77882993
+7731-simplified,Still life photography,0.59299433
+7731-simplified,Flower Arranging,0.5843926
+7731-simplified,Rose family,0.5735951
+7731-simplified,Floristry,0.56462854
+7731-simplified,Floral design,0.5486986
+7731-simplified,Rose,0.5057656
+7731-simplified,Gauge,0.5002954
+7775-simplified,Wood,0.96971935
+7775-simplified,Tree house,0.9335419
+7775-simplified,Trunk,0.8755579
+7775-simplified,Woody plant,0.803474
+7775-simplified,Natural material,0.74612314
+7775-simplified,Outdoor Structure,0.67308986
+7775-simplified,Giant sequoia,0.53591096
+7775-simplified,Log cabin,0.53406876
+7784-simplified,Tiger,0.9792569
+7784-simplified,Bengal tiger,0.9677018
+7784-simplified,Siberian Tiger,0.9413259
+7784-simplified,Felidae,0.90598917
+7784-simplified,Terrestrial animal,0.8883206
+7784-simplified,Panthera,0.86956507
+7784-simplified,Wildlife,0.848855
+7784-simplified,Carnivores,0.8371134
+7784-simplified,Child,0.82331675
+7784-simplified,Happiness,0.7911311
+7831-simplified,Steeple,0.9262064
+7831-simplified,Winter,0.92389125
+7831-simplified,Castle,0.9168204
+7831-simplified,Spire,0.9063062
+7831-simplified,Turret,0.88466
+7831-simplified,Finial,0.853799
+7831-simplified,Morning,0.84159935
+7831-simplified,Tourist attraction,0.83432674
+7831-simplified,Freezing,0.82823306
+7831-simplified,Evening,0.82702386
+7927-simplified,Moon,0.97420627
+7927-simplified,Astronomical object,0.9638566
+7927-simplified,atmospheric phenomenon,0.9438517
+7927-simplified,Moonlight,0.9387829
+7927-simplified,Cloud,0.90648395
+7927-simplified,Full moon,0.89432997
+7927-simplified,Astronomy,0.87150115
+7927-simplified,Celestial event,0.84761506
+7927-simplified,Night,0.8442158
+7927-simplified,Star,0.82789797
+7950-simplified,Blue,0.9881004
+7950-simplified,Crystal,0.788711
+7950-simplified,Natural material,0.7655125
+7950-simplified,Mineral,0.6865416
+7950-simplified,Gemstone,0.5873842
+7959-simplified,Lighting,0.9201178
+7959-simplified,Alley,0.8375653
+7959-simplified,Evening,0.79624623
+7959-simplified,Night,0.69992846
+7959-simplified,Lens flare,0.5178656
+7959-simplified,Heat,0.51170814
+7962-simplified,High-rise building,0.95056415
+7962-simplified,City,0.94933957
+7962-simplified,Skyscraper,0.9428503
+7962-simplified,Tower,0.9395098
+7962-simplified,Metropolis,0.8865303
+7962-simplified,Cityscape,0.86394274
+7962-simplified,Skyline,0.7563581
+7962-simplified,Condominium,0.7213794
+7962-simplified,Dusk,0.70821905
+7962-simplified,Evening,0.7055402
+7964-simplified,Armour,0.967257
+7964-simplified,Cuirass,0.9471538
+7964-simplified,Knight,0.8721556
+7964-simplified,Breastplate,0.87124497
+7964-simplified,Vikings,0.8057014
+7964-simplified,Chain mail,0.67671645
+7964-simplified,Action,0.6302109
+7964-simplified,Conquistador,0.5423271
+7964-simplified,Hero,0.54057133
+7964-simplified,Film,0.52894646
+7979-simplified,Blue,0.9878103
+7979-simplified,Cloud,0.9491437
+7979-simplified,Dusk,0.8156359
+7979-simplified,Castle,0.8054178
+7979-simplified,Meteorological phenomenon,0.7565261
+7979-simplified,Astronomical object,0.7356988
+7979-simplified,Cumulus,0.7218915
+7979-simplified,Turret,0.7100311
+7979-simplified,Animation,0.7066216
+7979-simplified,Evening,0.69510967
+8061-simplified,Software,0.88029987
+8061-simplified,Technology,0.86421525
+8061-simplified,Web page,0.8634366
+8061-simplified,Website,0.8512163
+8061-simplified,Screenshot,0.77467716
+8061-simplified,Operating system,0.6790745
+8061-simplified,Software engineering,0.6715394
+8061-simplified,Personal computer,0.6469398
+8061-simplified,Computer program,0.6305621
+8061-simplified,Computer,0.60128415
+8081-simplified,Night,0.67654467
+8081-simplified,Party,0.5779457
+8081-simplified,Visual Effect Lighting,0.5693228
+8123-simplified,Dragon Ball,0.9463784
+8123-simplified,Fictional character,0.8747295
+8123-simplified,Toy,0.84732777
+8123-simplified,Animation,0.8163338
+8123-simplified,Film,0.8137305
+8123-simplified,Action figure,0.67753005
+8123-simplified,Hero,0.67223704
+8123-simplified,Anime,0.6354055
+8123-simplified,Animated cartoon,0.6151165
+8123-simplified,Liberty spikes,0.6111274
+8124-simplified,Active Shirt,0.8809035
+8130-simplified,Mask,0.78986084
+8130-simplified,Costume,0.69172925
+8130-simplified,Winter,0.6402177
+8130-simplified,Hood,0.6364772
+8130-simplified,Cosplay,0.61861354
+8130-simplified,Goth subculture,0.59356236
+8185-simplified,Spacecraft,0.9124971
+8185-simplified,Aerospace Engineering,0.8872545
+8185-simplified,Outer space,0.75081074
+8185-simplified,Aircraft,0.7327484
+8185-simplified,Astronomical object,0.7048045
+8185-simplified,Science,0.58603764
+8185-simplified,Universe,0.5837082
+8185-simplified,Digital compositing,0.5668802
+8185-simplified,Aerospace manufacturer,0.53389335
+8185-simplified,Video Game Software,0.53289497
+8194-simplified,Motor vehicle,0.97376466
+8194-simplified,Car,0.9635137
+8194-simplified,Automotive Exterior,0.94625044
+8194-simplified,Car door,0.9201305
+8194-simplified,Classic car,0.8684544
+8194-simplified,Luxury vehicle,0.80206954
+8194-simplified,Vintage car,0.7220559
+8194-simplified,Hardtop,0.713643
+8194-simplified,Personal luxury car,0.699697
+8194-simplified,Antique car,0.6572787
+8201-simplified,Blue,0.98825246
+8201-simplified,Spire,0.9315395
+8201-simplified,Tower,0.8791574
+8201-simplified,Castle,0.78656524
+8201-simplified,Turret,0.7407533
+8201-simplified,Skyscraper,0.7281256
+8201-simplified,Steeple,0.70708114
+8201-simplified,Gothic architecture,0.6720105
+8201-simplified,Animation,0.61895376
+8201-simplified,Graphics,0.5997874
+8225-simplified,Blue,0.98952824
+8225-simplified,Cheek,0.9868
+8225-simplified,Eyebrow,0.9859298
+8225-simplified,Lips,0.98479617
+8225-simplified,Skin,0.9817068
+8225-simplified,Eyelash,0.9802232
+8225-simplified,Beauty,0.9736432
+8225-simplified,Black hair,0.97149193
+8225-simplified,Hairstyle,0.9701936
+8225-simplified,Eye,0.96383876
+8259-simplified,Formal wear,0.97198683
+8259-simplified,Collar,0.96591663
+8259-simplified,Outerwear,0.9573854
+8259-simplified,Suit,0.94204223
+8259-simplified,Coat,0.92502946
+8259-simplified,Hat,0.92084324
+8259-simplified,Black,0.90716577
+8259-simplified,Monochrome photography,0.8974097
+8259-simplified,Necktie,0.8940079
+8259-simplified,Blazer,0.8869069
+8270-simplified,Fictional character,0.9226912
+8270-simplified,Wing,0.9204518
+8270-simplified,CG artwork,0.86264795
+8270-simplified,Mythical creature,0.843216
+8270-simplified,Supernatural creature,0.755521
+8270-simplified,Mythology,0.73015666
+8270-simplified,Dragon,0.6562074
+8270-simplified,Cryptid,0.6250825
+8270-simplified,Animation,0.6154831
+8270-simplified,Armour,0.5345937
+8279-simplified,String instrument,0.9860026
+8279-simplified,Chordophone,0.9853901
+8279-simplified,Plucked string instrument,0.9822256
+8279-simplified,Guitar,0.9816265
+8279-simplified,Musical instrument,0.9740518
+8279-simplified,Cat,0.9377858
+8279-simplified,Music,0.9282734
+8279-simplified,Electric guitar,0.9095954
+8279-simplified,Guitarist,0.9060877
+8279-simplified,Folk instrument,0.8385144
+8326-simplified,Fictional character,0.9343714
+8326-simplified,Animation,0.81837225
+8326-simplified,Supernatural creature,0.74209446
+8326-simplified,Fiction,0.71552825
+8326-simplified,CG artwork,0.71496564
+8326-simplified,Mask,0.58123904
+8326-simplified,Demon,0.5508346
+8326-simplified,Animated cartoon,0.5300588
+8326-simplified,Cryptid,0.5300222
+8326-simplified,Armour,0.5242827
+8342-simplified,Animation,0.7018037
+8342-simplified,Graphics,0.65692335
+8342-simplified,Graphic design,0.59317124
+8342-simplified,Hero,0.5473788
+8342-simplified,Fictional character,0.51176935
+8360-simplified,Night,0.6656238
+8360-simplified,Holiday,0.5161123
+8368-simplified,Car,0.922322
+8368-simplified,Automotive lighting,0.9154455
+8368-simplified,Honda Motor Company,0.76027215
+8368-simplified,Bumper,0.7361307
+8368-simplified,Sedan,0.71185625
+8368-simplified,Personal luxury car,0.7006873
+8368-simplified,Rolling,0.68157405
+8368-simplified,Mid-size car,0.68157333
+8368-simplified,Coupé,0.6507014
+8368-simplified,Full-size car,0.6294596
+8421-simplified,Beauty,0.95691663
+8421-simplified,Fashion,0.95187134
+8421-simplified,Eyelash,0.9279498
+8421-simplified,Fictional character,0.9144917
+8421-simplified,Black,0.90701216
+8421-simplified,CG artwork,0.8980004
+8421-simplified,Purple,0.8765555
+8421-simplified,Long hair,0.8635256
+8421-simplified,Costume,0.7585103
+8421-simplified,Headpiece,0.750803
+8437-simplified,Beak,0.9619968
+8437-simplified,Bird,0.91289395
+8437-simplified,Bird of prey,0.8638752
+8437-simplified,Accipitridae,0.8316017
+8437-simplified,Accipitriformes,0.78251016
+8437-simplified,Feather,0.7338684
+8437-simplified,Falconiformes,0.6930937
+8437-simplified,Fictional character,0.68123585
+8437-simplified,Eagle,0.6355077
+8437-simplified,Falcon,0.5409472
+8441-simplified,atmospheric phenomenon,0.94768184
+8441-simplified,Horizon,0.93593675
+8441-simplified,Darkness,0.8566129
+8441-simplified,Moonlight,0.8302657
+8441-simplified,Astronomical object,0.79905075
+8441-simplified,Night,0.7840692
+8441-simplified,Evening,0.7750759
+8441-simplified,Walking,0.73994684
+8441-simplified,Mist,0.7285649
+8441-simplified,Dusk,0.72567934
+8450-simplified,Graphics,0.6437726
+8450-simplified,Graphic design,0.5703093
+8467-simplified,Technology,0.88017577
+8467-simplified,Electronics,0.7653277
+8467-simplified,Display device,0.64943135
+8467-simplified,Night,0.6298682
+8467-simplified,Neon,0.6022705
+8493-simplified,Reflection,0.8485343
+8493-simplified,Glass,0.73549956
+8493-simplified,Precipitation,0.7080512
+8493-simplified,Rain,0.5861204
+8493-simplified,Aquatic plant,0.5843174
+8493-simplified,Lens flare,0.5544524
+8493-simplified,Pond,0.52749217
+8493-simplified,Night,0.5082861
+8524-simplified,Facial expression,0.94494617
+8524-simplified,Fictional character,0.9420738
+8524-simplified,Smile,0.9349343
+8524-simplified,Happiness,0.9117236
+8524-simplified,Costume,0.7957246
+8524-simplified,Pleased,0.7603366
+8524-simplified,Costume Hat,0.7335779
+8524-simplified,Leprechaun,0.69159234
+8524-simplified,Costume design,0.6407478
+8524-simplified,Animation,0.63372916
+8543-simplified,Yoda,0.9556974
+8543-simplified,Fictional character,0.903387
+8543-simplified,Animation,0.8721144
+8543-simplified,Cartoon,0.8431788
+8543-simplified,Animated cartoon,0.8327994
+8543-simplified,Snout,0.7096244
+8543-simplified,Toy,0.6005473
+8543-simplified,Fiction,0.5079677
+8549-simplified,Facial expression,0.9448719
+8549-simplified,Portrait photography,0.8463301
+8549-simplified,Hood,0.8090567
+8549-simplified,Film,0.7888148
+8549-simplified,Portrait,0.65423197
+8549-simplified,No expression,0.6355232
+8549-simplified,Fictional character,0.59557956
+8549-simplified,Model,0.507829
+8596-simplified,Flower,0.99086416
+8596-simplified,Petal,0.9764139
+8596-simplified,Pink,0.94498223
+8596-simplified,Flowering plant,0.8423803
+8596-simplified,Watercolor painting,0.7041542
+8596-simplified,Pedicel,0.64131886
+8596-simplified,Paint,0.6123455
+8596-simplified,Rose family,0.5970161
+8596-simplified,Floral design,0.5968412
+8596-simplified,Blossom,0.5950215
+8644-simplified,Dog,0.99550444
+8644-simplified,Vertebrate,0.96031785
+8644-simplified,Carnivores,0.95124835
+8644-simplified,Snout,0.91920847
+8644-simplified,Black,0.90739244
+8644-simplified,Terrestrial animal,0.82757634
+8644-simplified,Canidae,0.7665969
+8644-simplified,Guard dog,0.5772033
+8644-simplified,Ancient dog breeds,0.5606963
+8644-simplified,Working animal,0.52026767
+8682-simplified,Night,0.813649
+8682-simplified,Astronomical object,0.79670566
+8682-simplified,Unidentified flying object,0.7668008
+8682-simplified,Moonlight,0.66395855
+8682-simplified,Star,0.6505234
+8682-simplified,Dusk,0.6345906
+8682-simplified,Evening,0.6325804
+8682-simplified,Astronomy,0.5731075
+8682-simplified,Science,0.53261214
+8682-simplified,Universe,0.5275727
+8743-simplified,Fictional character,0.8706893
+8743-simplified,Animation,0.7986027
+8743-simplified,Toy,0.7716321
+8743-simplified,Pokémon,0.71661174
+8743-simplified,Animated cartoon,0.64798737
+877-simplified,Jewellery,0.961665
+877-simplified,Earring,0.9597257
+877-simplified,Body Jewelry,0.93910044
+877-simplified,Gemstone,0.90643066
+877-simplified,Crystal,0.8782837
+877-simplified,Natural material,0.86269844
+877-simplified,Silver,0.8412915
+877-simplified,Diamond,0.8040665
+877-simplified,Platinum,0.7417039
+877-simplified,Jewelry Making,0.7137407
+8861-simplified,Neon,0.8815087
+8861-simplified,Neon sign,0.8093471
+8861-simplified,Night,0.73320943
+8861-simplified,Electronic signage,0.714194
+8861-simplified,Visual Effect Lighting,0.6238284
+8872-simplified,Visual arts,0.866366
+8872-simplified,Tradition,0.79839265
+8872-simplified,Market,0.7326296
+8872-simplified,Umbrella,0.72927994
+8872-simplified,Sari,0.70224494
+8872-simplified,Watercolor painting,0.64442253
+8872-simplified,Paint,0.5915355
+8872-simplified,Monk,0.57376665
+8872-simplified,Acrylic paint,0.5518886
+8872-simplified,Modern art,0.5468952
+895-simplified,Dusk,0.9639648
+895-simplified,Afterglow,0.96386194
+895-simplified,Sunset,0.96356255
+895-simplified,Horizon,0.9593736
+895-simplified,Sunrise,0.95330274
+895-simplified,Cloud,0.915817
+895-simplified,Rock,0.91309065
+895-simplified,atmospheric phenomenon,0.9005993
+895-simplified,Evening,0.8864942
+895-simplified,Terrain,0.8859034
+8977-simplified,Green,0.98627347
+8977-simplified,Amphibians,0.98337555
+8977-simplified,Frog,0.9816643
+8977-simplified,Yellow,0.9762482
+8977-simplified,True frog,0.9517666
+8977-simplified,Tree frog,0.92405105
+8977-simplified,Reptile,0.9210083
+8977-simplified,Tree frogs,0.91231734
+8977-simplified,Black,0.9091489
+8977-simplified,Red-eyed tree frog,0.90441024
+8980-simplified,City,0.9765599
+8980-simplified,Urban area,0.9683328
+8980-simplified,Metropolitan area,0.944448
+8980-simplified,Road,0.93516976
+8980-simplified,High-rise building,0.9304103
+8980-simplified,Street,0.9065286
+8980-simplified,Skyscraper,0.89236206
+8980-simplified,Metropolis,0.8877065
+8980-simplified,Pedestrian,0.86797
+8980-simplified,Evening,0.8464138
+9043-simplified,Yellow,0.96075875
+9043-simplified,Food,0.95892316
+9043-simplified,Produce,0.89046925
+9043-simplified,Potato,0.8789276
+9043-simplified,Yukon Gold potato,0.8597098
+9043-simplified,Tuber,0.85347766
+9043-simplified,Vegetable,0.8106808
+9043-simplified,Russet burbank potato,0.75878984
+9043-simplified,Root Vegetables,0.74337
+9043-simplified,Natural foods,0.7026262
+9082-simplified,Shrub,0.94791085
+9082-simplified,Garden,0.9301901
+9082-simplified,House,0.9176275
+9082-simplified,Home,0.91648895
+9082-simplified,Groundcover,0.8647514
+9082-simplified,Spring,0.86131555
+9082-simplified,Estate,0.83474374
+9082-simplified,Landscaping,0.8245393
+9082-simplified,Cottage,0.8174914
+9082-simplified,Farmhouse,0.8085217
+9099-simplified,Toy,0.79068315
+9099-simplified,Animation,0.69684666
+9099-simplified,Fictional character,0.6293929
+9099-simplified,Happiness,0.6152619
+9099-simplified,Crown,0.57875377
+9099-simplified,Action figure,0.5430277
+9099-simplified,Figurine,0.5403142
+9099-simplified,Animated cartoon,0.52756363
+9152-simplified,Armour,0.9442616
+9152-simplified,Fictional character,0.90863764
+9152-simplified,Technology,0.8875704
+9152-simplified,Robot,0.866017
+9152-simplified,Animation,0.8487479
+9152-simplified,Toy,0.8465332
+9152-simplified,Machine,0.84052783
+9152-simplified,Mecha,0.7909386
+9152-simplified,Action figure,0.7467024
+9152-simplified,Graphics,0.628524
+917-simplified,Art,0.9222373
+917-simplified,Painting,0.8347248
+917-simplified,Illustration,0.7778308
+917-simplified,Mythology,0.7035079
+917-simplified,Modern art,0.6585903
+917-simplified,Watercolor painting,0.6180385
+917-simplified,Mural,0.61296844
+9234-simplified,Astronomical object,0.94354826
+9234-simplified,Outer space,0.93941206
+9234-simplified,Universe,0.8714826
+9234-simplified,Star,0.817107
+9234-simplified,Astronomy,0.7638559
+9234-simplified,Planet,0.7333109
+9234-simplified,Dome,0.69064814
+9234-simplified,Galaxy,0.67745006
+9234-simplified,Night,0.6687811
+9234-simplified,Science,0.6391593
+9295-simplified,Motorcycle,0.98455006
+9295-simplified,Red,0.9753645
+9295-simplified,Fuel tank,0.9750447
+9295-simplified,Automotive lighting,0.9525357
+9295-simplified,Automotive Tire,0.93044
+9295-simplified,Fender,0.87503564
+9295-simplified,Automotive Wheel System,0.86909693
+9295-simplified,Vehicle brake,0.8617025
+9295-simplified,Spoke,0.83987564
+9295-simplified,Carbon fibers,0.7829846
+9366-simplified,Gadget,0.959427
+9366-simplified,Mobile phone,0.9316108
+9366-simplified,Electronic device,0.92729324
+9366-simplified,Portable communications device,0.89269674
+9366-simplified,Smartphone,0.8907618
+9366-simplified,Telephony,0.88273644
+9366-simplified,Display device,0.8737452
+9366-simplified,Technology,0.86663866
+9366-simplified,Mobile device,0.8608701
+9366-simplified,Rabbit,0.860144
+9393-simplified,Tower,0.8738859
+9393-simplified,Animation,0.59273756
+940-simplified,Animation,0.7338894
+940-simplified,Toy,0.69971764
+940-simplified,Animated cartoon,0.6633368
+940-simplified,Fedora,0.65025693
+940-simplified,Fictional character,0.6137469
+940-simplified,Sun hat,0.5660463
+9426-simplified,Hairstyle,0.9702948
+9426-simplified,Facial expression,0.9449171
+9426-simplified,Anime,0.8774711
+9426-simplified,CG artwork,0.828865
+9426-simplified,Animation,0.74208933
+9426-simplified,Gesture,0.74032354
+9426-simplified,Animated cartoon,0.63390446
+9462-simplified,Sculpture,0.9384082
+9462-simplified,Statue,0.8847818
+9462-simplified,Monument,0.81247485
+9462-simplified,Column,0.7259178
+9462-simplified,Mythology,0.7091038
+9462-simplified,Ancient history,0.6828123
+9462-simplified,Bronze sculpture,0.6799247
+9462-simplified,Classical sculpture,0.62739915
+9462-simplified,Middle Ages,0.52854174
+9484-simplified,Musical instrument,0.99192494
+9484-simplified,Plucked string instrument,0.9885427
+9484-simplified,String instrument,0.9871986
+9484-simplified,Chordophone,0.98544073
+9484-simplified,Guitar,0.98275787
+9484-simplified,Guitarist,0.9822677
+9484-simplified,Music,0.9648367
+9484-simplified,Musician,0.9603826
+9484-simplified,Entertainment,0.8869544
+9484-simplified,Performing Arts,0.88518536
+9486-simplified,Facial expression,0.9445964
+9486-simplified,Fictional character,0.93154734
+9486-simplified,Pink,0.9175056
+9486-simplified,Cartoon,0.8676504
+9486-simplified,Mythical creature,0.85313565
+9486-simplified,Animation,0.84402174
+9486-simplified,Unicorn,0.8155215
+9486-simplified,Animated cartoon,0.794856
+9486-simplified,CG artwork,0.79073006
+9486-simplified,Snout,0.7204296
+9512-simplified,Cake,0.9886979
+9512-simplified,Food,0.9813024
+9512-simplified,Candle,0.97105396
+9512-simplified,Birthday Candle,0.959087
+9512-simplified,Event,0.95531976
+9512-simplified,Cake decorating,0.946814
+9512-simplified,Cake Decorating Supply,0.9463057
+9512-simplified,Party Supply,0.94308764
+9512-simplified,Dessert,0.9167673
+9512-simplified,Birthday cake,0.90999186
+9549-simplified,Muscle,0.9162279
+9549-simplified,Fictional character,0.8703324
+9549-simplified,Thorax,0.8190079
+9549-simplified,Superhero,0.81477666
+9549-simplified,Bodybuilder,0.75544894
+9549-simplified,Barechestedness,0.7421222
+9549-simplified,Torso,0.7230337
+9549-simplified,Animation,0.7174284
+9549-simplified,Hero,0.6771403
+9549-simplified,Flesh,0.6342664
+9609-simplified,Snow,0.9091098
+9609-simplified,Winter,0.88071036
+9609-simplified,Film,0.87419426
+9609-simplified,Freezing,0.8617997
+9609-simplified,Animation,0.82396895
+9609-simplified,Ice,0.7824507
+9609-simplified,Precipitation,0.74047166
+9609-simplified,Digital compositing,0.70141584
+9609-simplified,Bear,0.69993335
+9609-simplified,Arctic,0.63492554
+9636-simplified,Currency,0.8588967
+9636-simplified,Money,0.844605
+9636-simplified,Facial hair,0.8316952
+9636-simplified,Moustache,0.8082869
+9636-simplified,Coin,0.7582562
+9636-simplified,Nickel,0.67250913
+9636-simplified,Medal,0.64914244
+9636-simplified,Collectable,0.5828552
+9636-simplified,Money Handling,0.52991796
+9636-simplified,Cash,0.521118
+9651-simplified,,
+967-simplified,Cat,0.98081356
+967-simplified,Felidae,0.92955315
+967-simplified,Felinae,0.92781895
+967-simplified,Carnivores,0.909683
+967-simplified,Whiskers,0.8200824
+967-simplified,Costume,0.7005089
+967-simplified,Fur,0.6873364
+967-simplified,Tail,0.66260856
+967-simplified,Kimono,0.5699931
+967-simplified,Domestic short-haired cat,0.5313
+9675-simplified,Mario,0.92028046
+9675-simplified,Game,0.91139287
+9675-simplified,Electronic device,0.8764559
+9675-simplified,Technology,0.8400158
+9675-simplified,Animation,0.80682534
+9675-simplified,Video Game Software,0.76751703
+9675-simplified,Animated cartoon,0.70909745
+9675-simplified,PC game,0.706281
+9675-simplified,Fictional character,0.6903819
+9675-simplified,Display device,0.6198277
+9690-simplified,Heart,0.9838072
+9690-simplified,Red,0.97759134
+9690-simplified,Candy,0.96388507
+9690-simplified,Gummy candy,0.8988712
+9690-simplified,Close-up,0.8948932
+9690-simplified,Pastille,0.86663395
+9690-simplified,Gumdrop,0.8650947
+9690-simplified,Food,0.84534657
+9690-simplified,Dessert,0.84149057
+9690-simplified,Love,0.82749057
+9723-simplified,Teapot,0.78580934
+9723-simplified,Graphics,0.70069885
+9723-simplified,Symbol,0.65146077
+9723-simplified,Graphic design,0.6049722
+9723-simplified,Vase,0.5841377
+9723-simplified,Fractal art,0.5805408
+9723-simplified,Animation,0.5287107
+9723-simplified,Lid,0.5277167
+9732-simplified,Blue,0.98847055
+9732-simplified,Cloud,0.9879533
+9732-simplified,Daytime,0.9812103
+9732-simplified,Cumulus,0.94283223
+9732-simplified,Sunlight,0.8622915
+9732-simplified,Meteorological phenomenon,0.8313893
+9732-simplified,Sunrise,0.6886851
+9732-simplified,Evening,0.6837935
+9732-simplified,Dusk,0.6373381
+9732-simplified,Backlighting,0.63575184
+9749-simplified,Fictional character,0.85465306
+9749-simplified,Wrinkle,0.5827608
+9753-simplified,Black,0.90798795
+9753-simplified,Carbon fibers,0.7410437
+9959-simplified,Blue,0.98868036
+9959-simplified,Flame,0.9633538
+9959-simplified,Fire,0.9316378
+9959-simplified,Sea,0.90295666
+9959-simplified,Heat,0.8803273
+9959-simplified,Ocean,0.84376913
+9959-simplified,Bonfire,0.7392439
+9959-simplified,Campfire,0.7373093
+9959-simplified,Boat,0.62119514
+9959-simplified,Wave,0.55391884

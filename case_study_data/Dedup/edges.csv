@@ -1,0 +1,888 @@
+Source,Target,Weight,cooccur_count
+fiction,graphics,0.0064262691594330875,3
+animation,snout,0.06558834162757689,3
+animated cartoon,armour,0.15842936260448298,2
+facial expression,fictional character,0.18114943910456618,4
+action,fictional character,0.2515387669959641,2
+film,toy,0.27462238010900547,2
+graphics,orange,0.3059865510183408,3
+cg artwork,graphic design,0.317127108623541,2
+cg artwork,facial expression,0.31712710862354127,3
+animation,facial expression,0.31712710862354127,3
+fictional character,mythology,0.3510744405468788,3
+graphics,night,0.42146376843827665,3
+graphics,science,0.42146376843827665,2
+beak,fictional character,0.4579896444633908,3
+facial expression,orange,0.4579896444633908,2
+animation,blue,0.539519529959989,3
+animation,beard,0.539519529959989,2
+fictional character,moustache,0.5734668618833266,3
+fictional character,science,0.5734668618833269,4
+costume,fictional character,0.5734668618833269,2
+fiction,film,0.5965504749963679,4
+graphics,red,0.6141088463806724,2
+animation,science,0.7094445314023016,3
+digital compositing,graphics,0.7210240502971845,2
+fiction,mythology,0.7433918633256391,2
+animated cartoon,graphics,0.7433918633256392,5
+fictional character,graphics,0.7661119398257226,10
+film,mythology,0.7891955529387636,2
+film,graphics,0.7891955529387639,5
+cg artwork,robot,0.8025539357937828,2
+action,animation,0.8025539357937828,2
+fictional character,happiness,0.8365012677171205,3
+blue,graphics,0.8365012677171205,3
+beak,fiction,0.8503070672421511,2
+animated cartoon,whiskers,0.8503070672421511,2
+night,orange,0.8503070672421512,3
+eyelash,fictional character,0.8730271437422346,4
+beak,film,0.8961107568552761,2
+animation,fiction,0.9318369527387497,7
+action figure,graphics,0.9620321498009795,2
+breastplate,fictional character,0.9885043611621704,2
+cityscape,fictional character,0.9885043611621704,2
+fictional character,mask,0.9885043611621707,3
+cg artwork,graphics,0.9951990137361788,8
+armour,graphics,1.0291463456595165,4
+graphic design,orange,1.0429521451845467,2
+action figure,animated cartoon,1.091315166745946,2
+beauty,cg artwork,1.1244820306811456,2
+armour,science,1.158429362604483,2
+cg artwork,film,1.17028572029427,8
+fictional character,film,1.2042330522176077,12
+armour,film,1.2042330522176077,4
+fiction,toy,1.2288186904958807,4
+animated cartoon,happiness,1.2288186904958807,2
+astronomy,fiction,1.2288186904958807,2
+action,fiction,1.2288186904958807,2
+science,toy,1.2288186904958807,2
+technology,toy,1.2288186904958807,2
+animated cartoon,hero,1.2288186904958809,3
+fiction,hero,1.2288186904958809,3
+fictional character,knight,1.2515387669959641,2
+cape,fictional character,1.2515387669959641,2
+fictional character,model,1.2515387669959641,2
+astronomical object,graphics,1.3059865510183408,3
+animation,graphic design,1.317127108623541,4
+animation,winter,1.317127108623541,2
+animation,cloak,1.317127108623541,2
+animation,fictional character,1.3171271086235412,18
+animation,film,1.3402107217365824,9
+cloak,fictional character,1.3510744405468789,3
+film,portrait photography,1.37415805365992,3
+evening,night,1.3808217839409307,2
+animated cartoon,mask,1.3808217839409307,2
+animation,astronomy,1.387516436514939,3
+animation,robot,1.387516436514939,3
+cloud,orange,1.3908754486048538,2
+fictional character,toy,1.4214637684382767,9
+graphics,technology,1.4214637684382767,4
+graphics,universe,1.4214637684382767,3
+graphics,yellow,1.4214637684382767,3
+cg artwork,eyelash,1.4240423125400532,4
+digital compositing,fiction,1.4352695679633074,3
+animated cartoon,facial expression,1.4803574574918454,5
+eyelash,film,1.4810732575764323,3
+animated cartoon,snout,1.491853096329675,6
+night,still life photography,1.5063526660247897,2
+facial expression,film,1.5261611471049703,5
+animation,universe,1.539519529959989,4
+animation,mask,1.539519529959989,3
+cg artwork,cityscape,1.539519529959989,2
+cg artwork,wing,1.539519529959989,2
+cg artwork,fictional character,1.5395195299599893,21
+cg artwork,hero,1.5395195299599893,5
+animation,hero,1.5395195299599893,5
+graphics,lens flare,1.5469946505221357,3
+costume,fiction,1.5507467853832433,2
+beard,facial expression,1.5734668618833267,2
+fictional character,flesh,1.5734668618833267,2
+cosplay,fictional character,1.5734668618833267,2
+fictional character,hood,1.5734668618833267,2
+fictional character,no expression,1.5734668618833267,2
+fictional character,figurine,1.5734668618833267,2
+animation,graphics,1.580161514457335,12
+animated cartoon,cg artwork,1.5839136493184425,11
+costume,film,1.596550474996368,2
+film,moustache,1.5965504749963682,3
+graphics,mythology,1.6141088463806723,4
+graphics,pc game,1.6141088463806723,2
+graphics,mecha,1.6141088463806723,2
+cryptid,graphics,1.6141088463806723,2
+armour,fictional character,1.6405810577418634,11
+blue,eyelash,1.6803820657998387,2
+astronomy,graphics,1.6844981742720706,3
+black,snout,1.736965594166206,2
+cloak,fiction,1.7433918633256391,2
+animated cartoon,pc game,1.7433918633256391,2
+animated cartoon,cryptid,1.7433918633256391,2
+animated cartoon,fictional character,1.7433918633256393,18
+cg artwork,digital compositing,1.7459704074274158,5
+animation,astronomical object,1.7459704074274158,5
+animation,digital compositing,1.7459704074274158,5
+animated cartoon,film,1.7664754764386805,9
+blue,yellow,1.7958592832197746,2
+action,cg artwork,1.8025539357937828,4
+animation,jungle,1.8025539357937828,2
+cg artwork,model,1.8025539357937828,2
+cg artwork,purple,1.8025539357937828,2
+animation,cape,1.8025539357937828,2
+animation,meteorological phenomenon,1.8025539357937828,2
+animation,turret,1.8025539357937828,2
+fiction,fictional character,1.8213943753269122,19
+fictional character,robot,1.8365012677171204,6
+armour,hero,1.8365012677171204,3
+armour,robot,1.8365012677171204,2
+animated cartoon,beak,1.850307067242151,4
+darkness,orange,1.850307067242151,2
+digital compositing,technology,1.850307067242151,2
+digital compositing,fictional character,1.8730271437422346,8
+digital compositing,film,1.896110756855276,4
+cg artwork,long hair,1.902089609344697,3
+animation,armour,1.9020896093446973,9
+armour,cg artwork,1.9020896093446973,9
+blue,heat,1.9213901653036336,2
+animation,technology,1.9318369527387496,7
+graphic design,mythology,1.9360369412680347,2
+cg artwork,mask,1.9545570292388328,4
+dusk,night,1.9657842846620872,3
+costume hat,fictional character,1.9885043611621704,2
+fedora,fictional character,1.9885043611621704,2
+fictional character,sun hat,1.9885043611621704,2
+fictional character,muscle,1.9885043611621704,2
+beard,film,2.0115879742752116,4
+breastplate,film,2.0115879742752116,2
+cg artwork,fiction,2.031372626289664,15
+fictional character,technology,2.032898480520624,11
+action figure,fiction,2.091315166745946,4
+lens flare,science,2.091315166745946,2
+snout,terrestrial animal,2.0995356735509145,2
+graphics,purple,2.0995356735509145,2
+demon,graphics,2.0995356735509145,2
+toy,whiskers,2.113341473075945,3
+cg artwork,costume,2.1244820306811456,4
+cg artwork,cosplay,2.1244820306811456,2
+cg artwork,portrait,2.1244820306811456,2
+cg artwork,personal protective equipment,2.1244820306811456,2
+animated cartoon,fiction,2.1357092861043996,12
+fiction,technology,2.1357092861043996,6
+facial expression,moustache,2.158429362604483,3
+costume design,fictional character,2.158429362604483,3
+beauty,facial expression,2.158429362604483,2
+red,yellow,2.158429362604483,2
+night,star,2.158429362604483,2
+graphic design,yellow,2.158429362604483,2
+blue,fire,2.2108967824986188,2
+blue,flame,2.2108967824986188,2
+action figure,animation,2.2500129127650044,6
+orange,yellow,2.265344566520995,4
+astronomical object,evening,2.265344566520995,2
+bird,film,2.2746223801090055,2
+film,knight,2.2746223801090055,2
+graphic design,lens flare,2.2839602446883416,2
+cg artwork,cloak,2.317127108623541,4
+cg artwork,pc game,2.317127108623541,4
+fiction,mecha,2.3283543640467954,3
+cryptid,fiction,2.3283543640467954,3
+armour,mythology,2.3510744405468786,4
+armour,cryptid,2.3510744405468786,2
+cloak,film,2.37415805365992,3
+night,universe,2.380821783940931,4
+beauty,blue,2.380821783940931,2
+blue,eyebrow,2.380821783940931,2
+night,tourist attraction,2.380821783940931,2
+cg artwork,knight,2.387516436514939,3
+snout,toy,2.3923174227787602,7
+happiness,portrait photography,2.4214637684382763,2
+facial expression,happiness,2.4214637684382767,3
+graphics,sphere,2.4214637684382767,2
+action figure,fictional character,2.435963338133392,10
+eyelash,facial expression,2.4579896444633906,4
+armour,digital compositing,2.4579896444633906,4
+armour,fiction,2.4803574574918454,10
+robot,toy,2.4918530963296743,3
+heat,night,2.5063526660247897,4
+evening,lens flare,2.5063526660247897,2
+cloud,dusk,2.5063526660247897,2
+orange,sunrise,2.5283789723547887,4
+breastplate,cg artwork,2.539519529959989,4
+cg artwork,helmet,2.539519529959989,2
+cg artwork,people in nature,2.539519529959989,2
+cg artwork,headpiece,2.539519529959989,2
+animated cartoon,toy,2.550746785383243,10
+fiction,robot,2.550746785383243,5
+science,technology,2.550746785383243,4
+darkness,night,2.550746785383243,3
+fiction,superhero,2.550746785383243,2
+fiction,supernatural creature,2.550746785383243,2
+cosplay,fiction,2.550746785383243,2
+fiction,personal protective equipment,2.550746785383243,2
+astronaut,fiction,2.550746785383243,2
+animated cartoon,figurine,2.550746785383243,2
+fictional character,mecha,2.5734668618833267,7
+fictional character,pc game,2.5734668618833267,7
+fictional character,suit actor,2.5734668618833267,2
+fictional character,lawn ornament,2.5734668618833267,2
+fictional character,squirrel,2.5734668618833267,2
+3d modeling,fictional character,2.5734668618833267,2
+fictional character,horn,2.5734668618833267,2
+fictional character,wildlife,2.5734668618833267,2
+action,film,2.5965504749963677,5
+film,hood,2.5965504749963677,2
+orange,red,2.6279146459057032,6
+heat,lens flare,2.631883548108649,2
+cg artwork,mythology,2.639055203510903,10
+animation,mecha,2.639055203510903,5
+cg artwork,cryptid,2.639055203510903,5
+astronomy,night,2.6438561897747244,4
+beard,hero,2.643856189774725,3
+black,eyelash,2.6803820657998387,2
+film,hero,2.6896598793878495,8
+fiction,mask,2.702749878828293,5
+animation,astronaut,2.7094445314023017,3
+animation,costume design,2.7094445314023017,3
+animation,superhero,2.7094445314023017,3
+cg artwork,dragon,2.7094445314023017,3
+astronomical object,digital compositing,2.734829849822215,3
+lighting,night,2.743391863325639,3
+beard,portrait photography,2.743391863325639,3
+moustache,portrait photography,2.743391863325639,3
+beauty,portrait photography,2.743391863325639,2
+eyebrow,portrait photography,2.743391863325639,2
+eyebrow,facial expression,2.7433918633256393,3
+cloud,sunrise,2.7693870718585836,2
+action,action figure,2.7693870718585836,2
+blue,hairstyle,2.7958592832197744,2
+fire,yellow,2.7958592832197744,2
+flame,yellow,2.7958592832197744,2
+blue,symmetry,2.7958592832197744,2
+cg artwork,demon,2.8025539357937825,4
+demon,fiction,2.813781191217037,3
+animated cartoon,anime,2.813781191217037,3
+anime,fiction,2.813781191217037,3
+animated cartoon,bird,2.813781191217037,3
+lens flare,night,2.8282807609121523,5
+cloak,hero,2.83650126771712,2
+anime,armour,2.83650126771712,2
+armour,demon,2.83650126771712,2
+astronomical object,science,2.850307067242151,4
+costume,eyelash,2.850307067242151,2
+whiskers,working animal,2.850307067242151,2
+orange,sphere,2.850307067242151,2
+orange,performing arts,2.850307067242151,2
+astronomical object,dusk,2.8503070672421513,3
+film,model,2.8595848808301616,3
+cartoon,film,2.8595848808301616,3
+heat,red,2.868922745409498,3
+cat,toy,2.9068905956085183,2
+reptile,snout,2.9068905956085187,2
+heat,sunset,2.9213901653036336,2
+facial expression,skin,2.9360369412680347,3
+portrait photography,skin,2.9360369412680347,2
+armour,technology,2.965784284662087,7
+science,universe,2.965784284662087,4
+fur,working animal,2.965784284662087,2
+fiction,helmet,2.965784284662087,2
+night,sphere,2.965784284662087,2
+science,symmetry,2.965784284662087,2
+electricity,night,2.965784284662087,2
+animated cartoon,muscle,2.965784284662087,2
+dome,night,2.965784284662087,2
+darkness,evening,2.965784284662087,2
+animated cartoon,mythical creature,2.965784284662087,2
+armour,mask,2.9885043611621707,4
+astronaut,graphics,3.0064262691594332,3
+dragon,graphics,3.0064262691594332,3
+film,muscle,3.0115879742752116,2
+action figure,armour,3.020925838854548,5
+eyelash,portrait photography,3.0429521451845467,4
+digital compositing,winter,3.0429521451845467,2
+tail,whiskers,3.0429521451845467,2
+blue,crystal,3.0588936890535683,2
+blue,purple,3.0588936890535683,2
+black,dog,3.0588936890535683,2
+blue,meteorological phenomenon,3.0588936890535683,2
+blue,turret,3.0588936890535683,2
+shadow,still life photography,3.091315166745946,2
+darkness,heat,3.091315166745946,2
+astronomical object,astronomy,3.113341473075945,3
+dog,whiskers,3.113341473075945,3
+anime,cg artwork,3.124482030681145,5
+action-adventure game,cg artwork,3.124482030681145,3
+cg artwork,supernatural creature,3.1244820306811456,4
+cg artwork,squirrel,3.1244820306811456,2
+animation,horn,3.1244820306811456,2
+animation,wildlife,3.1244820306811456,2
+fur,snout,3.1292830169449664,7
+action,armour,3.158429362604483,5
+fire,red,3.158429362604483,3
+flame,red,3.158429362604483,3
+facial expression,lips,3.158429362604483,2
+facial expression,portrait,3.158429362604483,2
+facial expression,glasses,3.158429362604483,2
+facial expression,temple,3.158429362604483,2
+automotive lighting,red,3.158429362604483,2
+mythology,wing,3.158429362604483,2
+atmospheric phenomenon,dusk,3.158429362604483,2
+facial expression,no expression,3.158429362604483,2
+facial expression,tooth,3.158429362604483,2
+fur,tail,3.158429362604483,2
+cat,snout,3.169925001442312,3
+film,no expression,3.1815129757175242,3
+robot,science,3.2288186904958804,4
+dog,fur,3.2288186904958804,3
+digital compositing,universe,3.265344566520995,4
+orange,sun,3.265344566520995,2
+orange,symbol,3.265344566520995,2
+astronomical object,moonlight,3.265344566520995,2
+fire,orange,3.2653445665209953,6
+flame,orange,3.2653445665209953,6
+orange,sunset,3.2653445665209953,6
+cape,film,3.2746223801090055,4
+lighting,still life photography,3.2839602446883416,2
+lens flare,midnight,3.2839602446883416,2
+hero,knight,3.321928094887362,2
+mythical creature,snout,3.321928094887362,2
+facial expression,portrait photography,3.3510744405468786,8
+beauty,black,3.380821783940931,2
+blue,lips,3.380821783940931,2
+neon sign,night,3.380821783940931,2
+galaxy,night,3.380821783940931,2
+evening,tourist attraction,3.380821783940931,2
+black,working animal,3.380821783940931,2
+heat,orange,3.390875448604854,8
+dog,snout,3.3923174227787602,7
+reflection,sunrise,3.4214637684382763,2
+astronomy,atmospheric phenomenon,3.4214637684382763,2
+demon,mythology,3.4214637684382763,2
+atmospheric phenomenon,sunrise,3.4214637684382763,2
+close-up,red,3.4214637684382763,2
+graphic design,graphics,3.4214637684382767,14
+fractal art,graphics,3.4214637684382767,3
+graphics,squirrel,3.4214637684382767,2
+digital compositing,science,3.4352695679633074,6
+snout,working animal,3.4918530963296748,6
+domestic short-haired cat,snout,3.4918530963296748,3
+cloud,sunset,3.5063526660247897,3
+lens flare,symmetry,3.5063526660247897,2
+astronomical object,walking,3.5283789723547887,2
+robot,technology,3.550746785383243,5
+evening,shadow,3.550746785383243,3
+display device,technology,3.550746785383243,3
+darkness,shadow,3.550746785383243,2
+beauty,costume,3.550746785383243,2
+fiction,yoda,3.550746785383243,2
+animated cartoon,squirrel,3.550746785383243,2
+animated cartoon,dragon ball,3.550746785383243,2
+facial expression,hairstyle,3.5734668618833267,4
+black,long hair,3.5734668618833267,2
+cryptid,mask,3.5734668618833267,2
+action-adventure game,armour,3.5734668618833267,2
+astronomical object,universe,3.5872726614083574,5
+batman,film,3.5965504749963677,4
+film,justice league,3.5965504749963677,4
+dragon ball,film,3.5965504749963677,2
+digital compositing,pc game,3.6279146459057032,3
+cat,fur,3.6438561897747244,2
+dusk,horizon,3.6438561897747244,2
+evening,turret,3.6438561897747244,2
+dusk,walking,3.6438561897747244,2
+purple,yellow,3.6438561897747244,2
+evening,walking,3.6438561897747244,2
+dusk,turret,3.6438561897747244,2
+astronomy,moonlight,3.6438561897747244,2
+breastplate,hero,3.643856189774725,3
+hero,personal protective equipment,3.643856189774725,2
+snout,whiskers,3.665882496104724,11
+armour,mecha,3.6730025354342413,5
+action figure,technology,3.6762776674671023,6
+lens flare,shadow,3.6762776674671023,3
+evening,midnight,3.743391863325639,3
+midnight,shadow,3.743391863325639,2
+eye shadow,portrait photography,3.743391863325639,2
+lips,portrait photography,3.743391863325639,2
+eyebrow,long hair,3.743391863325639,2
+portrait photography,temple,3.743391863325639,2
+dragon,graphic design,3.743391863325639,2
+costume,long hair,3.743391863325639,2
+chin,portrait photography,3.743391863325639,2
+mythology,supernatural creature,3.743391863325639,2
+facial expression,wrinkle,3.7433918633256393,3
+chin,facial expression,3.7433918633256393,3
+armour,supernatural creature,3.7433918633256393,3
+cloud,sunlight,3.7693870718585836,2
+cloud,nature,3.7693870718585836,2
+cloud,turret,3.7693870718585836,2
+cloud,horizon,3.7693870718585836,2
+gadget,technology,3.813781191217037,3
+facial expression,smile,3.83650126771712,4
+orange,red sky at morning,3.850307067242151,2
+orange,skull,3.850307067242151,2
+orange,stratovolcano,3.850307067242151,2
+eyelash,no expression,3.850307067242151,2
+concert,orange,3.850307067242151,2
+fissure vent,orange,3.850307067242151,2
+beak,wing,3.8503070672421513,3
+lava,orange,3.8503070672421513,3
+lava dome,orange,3.8503070672421513,3
+orange,types of volcanic eruptions,3.8503070672421513,3
+orange,volcanic field,3.8503070672421513,3
+atmospheric phenomenon,cloud,3.868922745409498,3
+cat,dog,3.9068905956085183,2
+action,hero,3.9068905956085187,6
+pet supply,snout,3.9068905956085187,3
+kitten,snout,3.9068905956085187,2
+horn,snout,3.9068905956085187,2
+snout,wildlife,3.9068905956085187,2
+cryptid,mythology,3.9360369412680347,4
+long hair,skin,3.9360369412680347,2
+atmospheric phenomenon,star,3.9360369412680347,2
+cityscape,dusk,3.965784284662087,3
+night,visual effect lighting,3.965784284662087,3
+dusk,moonlight,3.965784284662087,3
+beard,goggles,3.965784284662087,2
+sphere,universe,3.965784284662087,2
+chin,moustache,3.965784284662087,2
+science,spacecraft,3.965784284662087,2
+beard,wrinkle,3.965784284662087,2
+glasses,moustache,3.965784284662087,2
+moustache,temple,3.965784284662087,2
+darkness,moon,3.965784284662087,2
+science,wonders of the world,3.965784284662087,2
+neon,night,3.965784284662087,2
+evening,steeple,3.965784284662087,2
+backlighting,evening,3.965784284662087,2
+night,planet,3.965784284662087,2
+dome,universe,3.965784284662087,2
+science,video game software,3.965784284662087,2
+dog,tail,4.006426269159433,3
+eyelash,long hair,4.042952145184547,4
+helmet,hero,4.058893689053568,2
+horizon,sunset,4.058893689053568,2
+demon,mask,4.058893689053568,2
+bird,feather,4.058893689053568,2
+fur,whiskers,4.072699488578599,7
+darkness,lens flare,4.091315166745946,4
+column,still life photography,4.091315166745946,2
+backlighting,lens flare,4.091315166745946,2
+cloud,steeple,4.091315166745946,2
+black hair,eyelash,4.113341473075945,3
+cat,whiskers,4.113341473075945,3
+midnight,moonlight,4.158429362604482,2
+red,symbol,4.158429362604482,2
+cityscape,pc game,4.158429362604482,2
+cryptid,wing,4.158429362604482,2
+action-adventure game,mythology,4.158429362604482,2
+atmospheric phenomenon,moon,4.158429362604482,2
+atmospheric phenomenon,moonlight,4.158429362604482,2
+moonlight,star,4.158429362604482,2
+facial expression,pleased,4.158429362604483,2
+eyebrow,eyelash,4.172235162129514,5
+arch,shadow,4.22881869049588,2
+costume,model,4.22881869049588,2
+primate,toy,4.22881869049588,2
+astronomy,sphere,4.22881869049588,2
+beauty,black hair,4.22881869049588,2
+lawn ornament,toy,4.22881869049588,2
+action,personal protective equipment,4.22881869049588,2
+darkness,walking,4.22881869049588,2
+shadow,walking,4.22881869049588,2
+eyelash,hairstyle,4.265344566520995,4
+eyelash,fashion,4.265344566520995,2
+astronomical object,spacecraft,4.265344566520995,2
+digital compositing,spacecraft,4.265344566520995,2
+pet supply,whiskers,4.265344566520995,2
+cheek,eyelash,4.265344566520995,2
+eyelash,headpiece,4.265344566520995,2
+astronomical object,video game software,4.265344566520995,2
+digital compositing,video game software,4.265344566520995,2
+mecha,technology,4.328354364046795,6
+portrait photography,wrinkle,4.328354364046795,3
+eyelash,skin,4.364880240071909,5
+beard,moustache,4.380821783940931,8
+feather,wing,4.380821783940931,3
+beard,sunglasses,4.380821783940931,2
+moustache,nose,4.380821783940931,2
+spacecraft,universe,4.380821783940931,2
+cosplay,mask,4.380821783940931,2
+blue,gemstone,4.380821783940931,2
+alley,evening,4.380821783940931,2
+dusk,sky,4.380821783940931,2
+universe,video game software,4.380821783940931,2
+blue,cumulus,4.380821783940931,2
+model,portrait photography,4.421463768438277,4
+black hair,skin,4.421463768438277,2
+green,reflection,4.421463768438277,2
+long hair,model,4.421463768438277,2
+bird,terrestrial animal,4.421463768438277,2
+atmospheric phenomenon,horizon,4.421463768438277,2
+cryptid,demon,4.421463768438277,2
+atmospheric phenomenon,sunlight,4.421463768438277,2
+cat,tail,4.421463768438277,2
+beauty,eyelash,4.435269567963307,6
+astronaut,astronomical object,4.435269567963307,3
+sunlight,sunrise,4.491853096329675,3
+action,knight,4.491853096329675,3
+lantern,still life photography,4.50635266602479,2
+cloud,wind,4.50635266602479,2
+alley,lens flare,4.50635266602479,2
+beak,bird,4.528378972354789,4
+beauty,eyebrow,4.550746785383243,4
+beauty,hairstyle,4.550746785383243,3
+astronaut,universe,4.550746785383243,3
+moustache,wrinkle,4.550746785383243,3
+darkness,moonlight,4.550746785383243,3
+column,shadow,4.550746785383243,2
+backlighting,darkness,4.550746785383243,2
+beauty,eye shadow,4.550746785383243,2
+eyebrow,lips,4.550746785383243,2
+costume,tradition,4.550746785383243,2
+headphones,technology,4.550746785383243,2
+astronomy,universe,4.643856189774724,8
+action,breastplate,4.643856189774724,4
+sun,sunrise,4.643856189774724,2
+action,helmet,4.643856189774724,2
+moonlight,walking,4.643856189774724,2
+black hair,hairstyle,4.643856189774724,2
+beak,feather,4.680382065799839,8
+fire,heat,4.728745087361238,7
+flame,heat,4.728745087361238,7
+star,universe,4.743391863325639,6
+darkness,midnight,4.743391863325639,4
+beauty,skin,4.743391863325639,4
+beauty,long hair,4.743391863325639,4
+dragon,mythology,4.743391863325639,4
+no expression,portrait photography,4.743391863325639,4
+portrait photography,red hair,4.743391863325639,3
+hairstyle,skin,4.743391863325639,3
+midnight,moon,4.743391863325639,3
+love,red,4.743391863325639,3
+fractal art,graphic design,4.743391863325639,3
+reptile,terrestrial animal,4.743391863325639,2
+backlighting,midnight,4.743391863325639,2
+metropolis,midnight,4.743391863325639,2
+photo shoot,portrait photography,4.743391863325639,2
+lips,skin,4.743391863325639,2
+chin,skin,4.743391863325639,2
+red,skull,4.743391863325639,2
+fuel tank,red,4.743391863325639,2
+motorcycle,red,4.743391863325639,2
+red,spoke,4.743391863325639,2
+heart,red,4.743391863325639,2
+sun,sunset,4.795859283219775,2
+fire,symbol,4.795859283219775,2
+flame,symbol,4.795859283219775,2
+dog,working animal,4.8137811912170365,6
+black hair,eyebrow,4.8137811912170365,3
+eye shadow,eyelash,4.850307067242151,4
+eyelash,lips,4.850307067242151,4
+domestic short-haired cat,whiskers,4.850307067242151,4
+beak,phasianidae,4.850307067242151,3
+beak,chicken,4.850307067242151,2
+blond,eyelash,4.850307067242151,2
+eyelash,iris,4.850307067242151,2
+beak,common raven,4.850307067242151,2
+beak,crows,4.850307067242151,2
+beak,fowl,4.850307067242151,2
+beak,bird of prey,4.850307067242151,2
+beak,songbirds,4.850307067242151,2
+kitten,whiskers,4.850307067242151,2
+sunrise,sunset,4.866248611111173,7
+action figure,mecha,4.868922745409498,6
+happiness,smile,4.906890595608518,4
+jungle,nature,4.906890595608518,2
+black hair,collar,4.906890595608518,2
+eyebrow,hairstyle,4.965784284662087,4
+domestic short-haired cat,fur,4.965784284662087,4
+moon,moonlight,4.965784284662087,3
+galaxy,universe,4.965784284662087,3
+shadow,standing,4.965784284662087,2
+fur,paw,4.965784284662087,2
+château,dusk,4.965784284662087,2
+beauty,fashion,4.965784284662087,2
+eyebrow,fashion,4.965784284662087,2
+cheek,eyebrow,4.965784284662087,2
+ceiling,symmetry,4.965784284662087,2
+pet supply,working animal,4.965784284662087,2
+beauty,headpiece,4.965784284662087,2
+costume,headpiece,4.965784284662087,2
+darkness,mist,4.965784284662087,2
+automotive exterior,automotive lighting,4.965784284662087,2
+dragon,wing,4.965784284662087,2
+nebula,universe,4.965784284662087,2
+planet,universe,4.965784284662087,2
+evening,pedestrian,4.965784284662087,2
+evening,street,4.965784284662087,2
+cityscape,metropolis,4.965784284662087,2
+cityscape,skyscraper,4.965784284662087,2
+astronomy,star,5.006426269159433,6
+cape,cloak,5.006426269159433,3
+eyebrow,skin,5.065319958213002,5
+cloud,sky,5.091315166745946,3
+cloud,terrain,5.091315166745946,2
+backlighting,shadow,5.135709286104399,3
+beauty,lips,5.135709286104399,3
+eye shadow,eyebrow,5.135709286104399,3
+chin,eyebrow,5.135709286104399,3
+reflection,sun,5.158429362604482,2
+headpiece,long hair,5.158429362604482,2
+tail,underwater,5.158429362604482,2
+astronaut,astronomy,5.22881869049588,4
+display device,gadget,5.22881869049588,3
+dog,pet supply,5.22881869049588,3
+astronomy,galaxy,5.22881869049588,3
+sunrise,terrain,5.22881869049588,2
+rock,sunrise,5.22881869049588,2
+arch,column,5.22881869049588,2
+red sky at morning,sunrise,5.22881869049588,2
+anime,supernatural creature,5.22881869049588,2
+nature,old-growth forest,5.22881869049588,2
+astronomy,nebula,5.22881869049588,2
+black hair,glasses,5.22881869049588,2
+collar,glasses,5.22881869049588,2
+model,no expression,5.22881869049588,2
+backlighting,walking,5.22881869049588,2
+astronomy,planet,5.22881869049588,2
+ceiling,lighting,5.328354364046795,3
+cryptid,dragon,5.328354364046795,3
+fire,flame,5.380821783940931,9
+sunset,terrain,5.380821783940931,2
+rock,sunset,5.380821783940931,2
+red sky at morning,sunset,5.380821783940931,2
+mist,moonlight,5.380821783940931,2
+fire,skull,5.380821783940931,2
+flame,skull,5.380821783940931,2
+automotive lighting,classic car,5.380821783940931,2
+automotive lighting,headlamp,5.380821783940931,2
+bird of prey,feather,5.380821783940931,2
+feather,songbirds,5.380821783940931,2
+tourist attraction,tower,5.380821783940931,2
+tourist attraction,wonders of the world,5.380821783940931,2
+tourist attraction,world heritage site,5.380821783940931,2
+automotive lighting,personal luxury car,5.380821783940931,2
+cape,cartoon,5.491853096329675,3
+hairstyle,lips,5.550746785383243,3
+arcade,shadow,5.550746785383243,2
+eye shadow,lips,5.550746785383243,2
+temple,wrinkle,5.550746785383243,2
+cosplay,costume design,5.550746785383243,2
+model,red hair,5.643856189774724,2
+close-up,pest,5.643856189774724,2
+jungle,trunk,5.643856189774724,2
+nature,trunk,5.643856189774724,2
+nature,sun,5.643856189774724,2
+glass,liquid,5.643856189774724,2
+close-up,love,5.643856189774724,2
+ingredient,recipe,5.743391863325639,4
+light fixture,lighting,5.743391863325639,3
+interior design,lighting,5.743391863325639,3
+condiment,ingredient,5.743391863325639,3
+fast food,ingredient,5.743391863325639,3
+finger food,ingredient,5.743391863325639,3
+cheek,skin,5.743391863325639,3
+aquatic plant,reflection,5.743391863325639,3
+galaxy,star,5.743391863325639,3
+floor,lighting,5.743391863325639,2
+flooring,lighting,5.743391863325639,2
+furniture,lighting,5.743391863325639,2
+lighting,room,5.743391863325639,2
+comfort food,ingredient,5.743391863325639,2
+cooking,ingredient,5.743391863325639,2
+culinary arts,ingredient,5.743391863325639,2
+cryptid,extinction,5.743391863325639,2
+lotus,reflection,5.743391863325639,2
+pond,reflection,5.743391863325639,2
+iris,skin,5.743391863325639,2
+nebula,star,5.743391863325639,2
+fin,tail,5.743391863325639,2
+fish,tail,5.743391863325639,2
+marine biology,tail,5.743391863325639,2
+bengal tiger,terrestrial animal,5.743391863325639,2
+siberian tiger,terrestrial animal,5.743391863325639,2
+atmospheric phenomenon,celestial event,5.743391863325639,2
+freezing,winter,5.743391863325639,2
+batman,cape,5.8137811912170365,3
+batman,cartoon,5.8137811912170365,3
+cape,justice league,5.8137811912170365,3
+cartoon,justice league,5.8137811912170365,3
+breastplate,knight,5.965784284662087,5
+automotive lighting,fender,5.965784284662087,3
+backlighting,standing,5.965784284662087,2
+composite material,symmetry,5.965784284662087,2
+ceiling,interior design,5.965784284662087,2
+fast food,recipe,5.965784284662087,2
+finger food,recipe,5.965784284662087,2
+display device,electronics,5.965784284662087,2
+display device,multimedia,5.965784284662087,2
+eye shadow,fashion,5.965784284662087,2
+chin,nose,5.965784284662087,2
+flesh,muscle,5.965784284662087,2
+ceiling,light fixture,5.965784284662087,2
+guitar,performing arts,5.965784284662087,2
+guitarist,performing arts,5.965784284662087,2
+performing arts,plucked string instrument,5.965784284662087,2
+automotive lighting,fuel tank,5.965784284662087,2
+automotive lighting,motorcycle,5.965784284662087,2
+automotive lighting,spoke,5.965784284662087,2
+landmark,tourist attraction,5.965784284662087,2
+automotive lighting,automotive wheel system,5.965784284662087,2
+old-growth forest,trunk,5.965784284662087,2
+food,fruit,5.965784284662087,2
+cottage,log cabin,5.965784284662087,2
+automotive lighting,sedan,5.965784284662087,2
+breastplate,vikings,5.965784284662087,2
+automotive exterior,personal luxury car,5.965784284662087,2
+automotive lighting,bumper,5.965784284662087,2
+food,vegetable,5.965784284662087,2
+celestial event,moon,5.965784284662087,2
+celestial event,moonlight,5.965784284662087,2
+paint,watercolor painting,5.965784284662087,2
+modern art,watercolor painting,5.965784284662087,2
+metropolis,skyscraper,6.135709286104399,3
+jungle,old-growth forest,6.22881869049588,4
+steeple,turret,6.22881869049588,4
+arcade,arch,6.22881869049588,2
+model,photo shoot,6.22881869049588,2
+cat,paw,6.22881869049588,2
+gadget,multimedia,6.22881869049588,2
+close-up,insect,6.22881869049588,2
+close-up,macro photography,6.22881869049588,2
+close-up,parasitism,6.22881869049588,2
+crystal,gemstone,6.22881869049588,2
+crystal,quartz,6.22881869049588,2
+ecoregion,horizon,6.22881869049588,2
+jungle,rainforest,6.22881869049588,2
+nature,rainforest,6.22881869049588,2
+crystal,emerald,6.22881869049588,2
+crystal,diamond,6.22881869049588,2
+pleased,smile,6.22881869049588,2
+natural landscape,nature,6.22881869049588,2
+knight,vikings,6.22881869049588,2
+gadget,smartphone,6.22881869049588,2
+gadget,telephony,6.22881869049588,2
+close-up,heart,6.22881869049588,2
+cumulus,meteorological phenomenon,6.22881869049588,2
+condiment,fast food,6.380821783940931,2
+condiment,finger food,6.380821783940931,2
+fast food,finger food,6.380821783940931,2
+fashion,neck,6.380821783940931,2
+modern art,paint,6.380821783940931,2
+boat,ocean,6.380821783940931,2
+fender,headlamp,6.380821783940931,2
+wonders of the world,world heritage site,6.380821783940931,2
+tower,wonders of the world,6.380821783940931,2
+aircraft,spacecraft,6.380821783940931,2
+batman,justice league,6.550746785383243,4
+condiment,recipe,6.550746785383243,3
+goggles,sunglasses,6.550746785383243,3
+helmet,personal protective equipment,6.550746785383243,3
+ceiling,floor,6.550746785383243,2
+ceiling,flooring,6.550746785383243,2
+cosplay,goth subculture,6.550746785383243,2
+comfort food,recipe,6.550746785383243,2
+cooking,recipe,6.550746785383243,2
+culinary arts,recipe,6.550746785383243,2
+barechestedness,flesh,6.550746785383243,2
+flesh,thorax,6.550746785383243,2
+automotive exterior,wheel,6.550746785383243,2
+old-growth forest,rainforest,6.550746785383243,2
+cottage,garden,6.550746785383243,2
+cottage,garden buildings,6.550746785383243,2
+concert,performing arts,6.550746785383243,2
+metropolis,metropolitan area,6.550746785383243,2
+metropolitan area,skyscraper,6.550746785383243,2
+fedora,sun hat,6.965784284662087,3
+guitar,guitarist,6.965784284662087,3
+guitar,plucked string instrument,6.965784284662087,3
+guitarist,plucked string instrument,6.965784284662087,3
+lava,lava dome,6.965784284662087,3
+lava,types of volcanic eruptions,6.965784284662087,3
+lava,volcanic field,6.965784284662087,3
+lava dome,types of volcanic eruptions,6.965784284662087,3
+lava dome,volcanic field,6.965784284662087,3
+types of volcanic eruptions,volcanic field,6.965784284662087,3
+naval architecture,ocean,6.965784284662087,2
+furniture,interior design,6.965784284662087,2
+interior design,room,6.965784284662087,2
+comfort food,condiment,6.965784284662087,2
+comfort food,fast food,6.965784284662087,2
+condiment,cooking,6.965784284662087,2
+condiment,culinary arts,6.965784284662087,2
+cooking,finger food,6.965784284662087,2
+culinary arts,finger food,6.965784284662087,2
+monument,statue,6.965784284662087,2
+photo shoot,red hair,6.965784284662087,2
+butterfly,pollinator,6.965784284662087,2
+field,grassland,6.965784284662087,2
+chicken,phasianidae,6.965784284662087,2
+field,prairie,6.965784284662087,2
+field,steppe,6.965784284662087,2
+eye,nose,6.965784284662087,2
+horse,horse supplies,6.965784284662087,2
+horse,horse tack,6.965784284662087,2
+aquatic plant,lotus,6.965784284662087,2
+aquatic plant,pond,6.965784284662087,2
+barechestedness,muscle,6.965784284662087,2
+muscle,thorax,6.965784284662087,2
+modern art,visual arts,6.965784284662087,2
+paint,visual arts,6.965784284662087,2
+fowl,phasianidae,6.965784284662087,2
+insect,pest,6.965784284662087,2
+macro photography,pest,6.965784284662087,2
+parasitism,pest,6.965784284662087,2
+bronze sculpture,statue,6.965784284662087,2
+classical sculpture,statue,6.965784284662087,2
+skull,symbol,6.965784284662087,2
+boat,ship,6.965784284662087,2
+ocean,ship,6.965784284662087,2
+automotive wheel system,fender,6.965784284662087,2
+giant sequoia,trunk,6.965784284662087,2
+rainforest,trunk,6.965784284662087,2
+lava,stratovolcano,6.965784284662087,2
+lava dome,stratovolcano,6.965784284662087,2
+stratovolcano,types of volcanic eruptions,6.965784284662087,2
+stratovolcano,volcanic field,6.965784284662087,2
+galaxy,nebula,6.965784284662087,2
+pyramid,wonders of the world,6.965784284662087,2
+pyramid,world heritage site,6.965784284662087,2
+triangle,wonders of the world,6.965784284662087,2
+triangle,world heritage site,6.965784284662087,2
+garden buildings,log cabin,6.965784284662087,2
+fin,underwater,6.965784284662087,2
+fish,underwater,6.965784284662087,2
+marine biology,underwater,6.965784284662087,2
+heart,love,6.965784284662087,2
+fissure vent,lava,6.965784284662087,2
+fissure vent,lava dome,6.965784284662087,2
+fissure vent,types of volcanic eruptions,6.965784284662087,2
+fissure vent,volcanic field,6.965784284662087,2
+bumper,personal luxury car,6.965784284662087,2
+aerospace manufacturer,aircraft,6.965784284662087,2
+aerospace manufacturer,spacecraft,6.965784284662087,2
+personal computer,software engineering,7.550746785383243,2
+floor,flooring,7.550746785383243,2
+furniture,room,7.550746785383243,2
+cooking,culinary arts,7.550746785383243,2
+hill,mountain range,7.550746785383243,2
+screenshot,software,7.550746785383243,2
+hardwood,wood stain,7.550746785383243,2
+prairie,steppe,7.550746785383243,2
+horse supplies,horse tack,7.550746785383243,2
+barechestedness,thorax,7.550746785383243,2
+common raven,crows,7.550746785383243,2
+insect,macro photography,7.550746785383243,2
+insect,parasitism,7.550746785383243,2
+macro photography,parasitism,7.550746785383243,2
+bronze sculpture,classical sculpture,7.550746785383243,2
+fuel tank,motorcycle,7.550746785383243,2
+fuel tank,spoke,7.550746785383243,2
+motorcycle,spoke,7.550746785383243,2
+mustang,stallion,7.550746785383243,2
+pyramid,triangle,7.550746785383243,2
+fin,fish,7.550746785383243,2
+fin,marine biology,7.550746785383243,2
+fish,marine biology,7.550746785383243,2
+smartphone,telephony,7.550746785383243,2
+pedestrian,street,7.550746785383243,2
+bengal tiger,siberian tiger,7.550746785383243,2
+horn,wildlife,7.550746785383243,2

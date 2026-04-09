@@ -1,0 +1,439 @@
+﻿Id,frequency
+3d modeling,2
+action,10
+action figure,11
+action-adventure game,3
+aerospace engineering,4
+aerospace manufacturer,2
+afterglow,7
+agriculture,3
+aircraft,3
+alley,3
+animated cartoon,32
+animation,100
+anime,6
+antique car,2
+aquatic plant,3
+arcade,2
+arch,5
+armour,28
+art,4
+arthropod,3
+astronaut,4
+astronomical object,24
+astronomy,10
+atmospheric phenomenon,10
+automotive exterior,4
+automotive lighting,6
+automotive tire,3
+automotive wheel system,3
+backlighting,4
+barechestedness,2
+batman,4
+beak,13
+beard,12
+beauty,8
+bengal tiger,2
+bird,14
+bird of prey,2
+black,9
+black hair,5
+blond,2
+blossom,2
+blue,18
+boat,3
+body jewelry,2
+bone,2
+book,2
+breastplate,6
+bronze sculpture,2
+bumper,2
+butterfly,2
+calabaza,2
+canidae,9
+cape,5
+car,6
+carnivores,20
+cartoon,20
+castle,7
+cat,11
+ceiling,4
+celestial event,2
+cg artwork,43
+cheek,3
+chicken,2
+chin,4
+chordophone,4
+château,2
+city,4
+cityscape,6
+classic car,3
+classical architecture,2
+classical sculpture,2
+cloak,7
+close-up,5
+cloud,13
+collar,5
+column,4
+comfort food,2
+common raven,2
+composite material,2
+computer,2
+concert,2
+condiment,3
+cooking,2
+cosplay,4
+costume,24
+costume design,4
+costume hat,3
+cottage,4
+crow family,2
+crows,2
+cryptid,7
+crystal,5
+cuirass,5
+culinary arts,2
+cumulus,2
+darkness,8
+dawn,4
+daytime,2
+demon,5
+design,4
+dessert,2
+diamond,2
+digital compositing,14
+display device,6
+dog,10
+dome,4
+domestic short-haired cat,4
+dragon,4
+dragon ball,2
+dusk,22
+ecoregion,2
+electricity,4
+electronic device,4
+electronic signage,3
+electronics,2
+emerald,2
+entertainment,3
+evening,27
+extinction,2
+eye,6
+eye shadow,4
+eyebrow,8
+eyelash,13
+eyewear,6
+facial expression,21
+facial hair,14
+fashion,4
+fast food,3
+feather,9
+fedora,3
+felidae,12
+felinae,10
+fender,3
+fiction,32
+fictional character,100
+field,3
+figurine,4
+film,31
+fin,2
+finger food,3
+finial,2
+fire,9
+fish,2
+fissure vent,2
+flame,9
+flesh,4
+floor,2
+flooring,2
+floral design,3
+flower,4
+fog,2
+folk instrument,2
+food,12
+forehead,2
+forest,4
+formal wear,3
+fowl,2
+fractal art,3
+freezing,2
+fruit,4
+fuel tank,2
+full-size car,2
+fungus,2
+fur,12
+furniture,2
+gadget,5
+galaxy,3
+game,8
+garden,2
+garden buildings,2
+gemstone,5
+geological phenomenon,4
+giant sequoia,2
+glass,5
+glasses,4
+goggles,4
+goth subculture,2
+gourd,2
+graphic design,14
+graphics,35
+grassland,2
+green,5
+guitar,3
+guitarist,3
+hairstyle,6
+happiness,10
+hardwood,2
+hat,3
+head,2
+headlamp,3
+headphones,2
+headpiece,3
+heart,2
+heat,11
+helmet,3
+hero,22
+high-rise building,2
+hill,2
+holy places,2
+home,3
+hood,4
+horizon,5
+horn,2
+horse,5
+horse supplies,2
+horse tack,2
+house,3
+ingredient,7
+insect,4
+interior design,3
+iris,2
+jewellery,2
+jungle,5
+justice league,4
+kitten,2
+knight,5
+land vehicle,2
+landfowl,3
+landmark,2
+landscaping,2
+lantern,3
+lava,3
+lava dome,3
+lawn ornament,2
+lens flare,11
+light fixture,3
+lighting,9
+lips,4
+liquid,3
+log cabin,3
+long hair,7
+lotus,2
+love,3
+machine,17
+macro photography,2
+mansion,2
+marine biology,2
+mask,12
+masque,3
+mecha,7
+medieval architecture,3
+meteorological phenomenon,5
+metropolis,4
+metropolitan area,2
+midnight,7
+mineral,4
+mist,3
+mobile phone,2
+model,5
+modern art,3
+monument,3
+moon,6
+moonlight,6
+morning,5
+motor vehicle,4
+motorcycle,2
+mountain,2
+mountain range,2
+mountainous landforms,3
+moustache,12
+multimedia,2
+muscle,3
+mushroom,2
+music,3
+musical instrument,4
+mustang,2
+mythical creature,9
+mythology,14
+natural foods,8
+natural landscape,4
+natural material,8
+nature,5
+naval architecture,2
+nebula,2
+neck,3
+nelumbonaceae,2
+neon,5
+neon sign,3
+night,35
+no expression,4
+nose,3
+ocean,5
+old-growth forest,4
+orange,26
+outer space,10
+paint,3
+painting,4
+palace,2
+parasitism,2
+passerine,3
+paw,2
+pc game,7
+pedestrian,2
+people in nature,3
+performance,3
+performing arts,4
+personal computer,2
+personal luxury car,3
+personal protective equipment,4
+pest,3
+pet supply,3
+petal,7
+phasianidae,3
+photo shoot,2
+pink,7
+plain,2
+planet,2
+plantation,3
+pleased,2
+plucked string instrument,3
+pollinator,3
+pond,2
+portable communications device,2
+portrait,8
+portrait photography,14
+prairie,2
+primate,2
+produce,8
+publication,2
+pumpkin,2
+purple,5
+pyramid,2
+quartz,2
+rail transport,2
+rainforest,2
+recipe,4
+red,14
+red hair,3
+red sky at morning,2
+reflection,7
+reptile,4
+road,2
+robot,17
+rock,2
+rodent,3
+rolling stock,2
+room,2
+rose family,2
+science,21
+screenshot,2
+sculpture,2
+sea,4
+sedan,2
+shadow,8
+ship,2
+shrine,2
+siberian tiger,2
+skin,7
+skull,2
+sky,3
+skyscraper,4
+smartphone,2
+smile,5
+snout,25
+snow,2
+software,2
+software engineering,2
+songbirds,2
+spacecraft,3
+sphere,4
+spire,7
+spoke,2
+squash,2
+squirrel,2
+stallion,2
+standing,3
+star,7
+statue,3
+steeple,4
+steppe,2
+still life photography,11
+stratovolcano,2
+street,2
+string instrument,4
+suit actor,2
+sun,3
+sun hat,3
+sunglasses,3
+sunlight,5
+sunrise,10
+sunset,9
+superhero,8
+supernatural creature,8
+sword,2
+symbol,3
+symmetry,6
+tail,7
+technology,20
+telephony,2
+temple,4
+terrain,3
+terrestrial animal,11
+thorax,2
+tiger,2
+tooth,4
+tourist attraction,6
+tower,10
+toy,30
+tradition,4
+train,2
+triangle,2
+trunk,3
+turret,5
+types of volcanic eruptions,3
+underwater,3
+universe,12
+vegetable,6
+vertebrate,14
+video game software,8
+vikings,2
+vintage car,2
+vision care,6
+visual arts,2
+visual effect lighting,3
+volcanic field,3
+volcanic landform,3
+volcano,3
+walking,5
+watercolor painting,4
+watercraft,3
+wave,2
+wheel,2
+whiskers,13
+wildlife,10
+wind,3
+wing,6
+winter,7
+winter squash,2
+wonders of the world,3
+wood,2
+wood stain,2
+woodland,3
+woody plant,3
+working animal,8
+world heritage site,3
+wrinkle,4
+yellow,12
+yoda,2
