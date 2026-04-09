@@ -55,7 +55,7 @@ python vlca_gui.py
 
 ### Option 2 — Download the Packaged Application
 
-Pre-built standalone applications are available for download — no Python installation required.
+GUI is built in software available for download — no Python installation required. Download the zip file for your operating system, unzip it, and double-click to run. Please allow up to 30 seconds for the GUI window to appear after launch.
 
 | Platform | Download |
 |---|---|
