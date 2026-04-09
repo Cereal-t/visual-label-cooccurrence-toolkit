@@ -16,7 +16,7 @@ This project was developed as part of the author’s MA dissertation in Digital 
 - Export of co-occurrence matrices and heatmaps
 - Export of ready-to-use edge and node CSV files for Gephi
 - Export of image grids for close reading of top-N label pairs
-- macOS packaged release available; Windows build planned
+- Packaged software available for macOS and Windows
 
 
 
@@ -60,7 +60,7 @@ Pre-built standalone applications are available for download — no Python insta
 | Platform | Download |
 |---|---|
 | macOS | [Download v1.0.0]([release link here](https://github.com/Cereal-t/visual-label-cooccurrence-toolkit/releases/tag/v1.0.0)) |
-| Windows | Coming soon |
+| Windows [Download v1.0.0]([release link here](https://github.com/Cereal-t/visual-label-cooccurrence-toolkit/releases/tag/v1.0.0_for_win)) |
 
 > **Note for macOS users:** When opening the application for the first time, macOS may block it with an "unidentified developer" warning. To allow it to run, go to **System Settings → Privacy & Security** and click **Open Anyway**.
 
