@@ -146,9 +146,7 @@ The image grid enables close reading of the most prominent label pair associatio
 
 ## Case Study and Example Outputs
 
-The toolkit was tested using a publicly available dataset of AI-generated images from Hugging Face: [open-image-preferences-v1](https://huggingface.co/datasets/data-is-better-together/open-image-preferences-v1). The toolkit itself is not limited to AI-generated images and can be adapted to any image collection.
-All data and files generated during the case study — including raw labels, deduplicated labels, co-occurrence matrices, heatmaps, Gephi-ready files — are available in the `case_study_data/` folder of this repository.
-
+The toolkit was tested using a publicly available dataset of AI-generated images from Hugging Face: [open-image-preferences-v1](https://huggingface.co/datasets/data-is-better-together/open-image-preferences-v1). The toolkit itself is not limited to AI-generated images and can be adapted to any image collection. All data and files generated during the case study including raw labels, deduplicated labels, co-occurrence matrices, heatmaps, and Gephi-ready files are available in the `case_study_data/` folder of this repository. Note that the original 400+ case study images are not included due to file size constraints.
 
 
 
